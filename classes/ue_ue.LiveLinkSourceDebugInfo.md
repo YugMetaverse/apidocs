@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45832](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45832)
+[ue/ue.d.ts:45832](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45832)
 
 • **new LiveLinkSourceDebugInfo**(`SubjectName`, `SnapshotIndex`, `NumberOfBufferAtSnapshot`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45833](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45833)
+[ue/ue.d.ts:45833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45833)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45836](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45836)
+[ue/ue.d.ts:45836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45836)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45835](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45835)
+[ue/ue.d.ts:45835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45835)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45834](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45834)
+[ue/ue.d.ts:45834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45834)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45842](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45842)
+[ue/ue.d.ts:45842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45842)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:45840](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45840)
+[ue/ue.d.ts:45840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45840)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45841](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45841)
+[ue/ue.d.ts:45841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45841)

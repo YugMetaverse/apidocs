@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15204](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15204)
+[ue/ue.d.ts:15204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15204)
 
 • **new EditorElement**(`Indices`, `Weights`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15205](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15205)
+[ue/ue.d.ts:15205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15205)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15206](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15206)
+[ue/ue.d.ts:15206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15206)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15207)
+[ue/ue.d.ts:15207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15207)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15213)
+[ue/ue.d.ts:15213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15213)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:15211](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15211)
+[ue/ue.d.ts:15211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15211)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15212](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15212)
+[ue/ue.d.ts:15212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15212)

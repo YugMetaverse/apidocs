@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28072)
+[ue/ue.d.ts:28072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28072)
 
 • **new DelegateArray**(`Delegates`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28073](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28073)
+[ue/ue.d.ts:28073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28073)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28074](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28074)
+[ue/ue.d.ts:28074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28074)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28080](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28080)
+[ue/ue.d.ts:28080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28080)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28078](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28078)
+[ue/ue.d.ts:28078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28078)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28079](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28079)
+[ue/ue.d.ts:28079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28079)

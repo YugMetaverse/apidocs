@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51734](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51734)
+[ue/ue.d.ts:51734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51734)
 
 • **new NameCurveKey**(`Time`, `Value`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51735](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51735)
+[ue/ue.d.ts:51735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51735)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51736](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51736)
+[ue/ue.d.ts:51736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51736)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51737](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51737)
+[ue/ue.d.ts:51737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51737)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51743](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51743)
+[ue/ue.d.ts:51743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51743)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:51741](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51741)
+[ue/ue.d.ts:51741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51741)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51742](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51742)
+[ue/ue.d.ts:51742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51742)

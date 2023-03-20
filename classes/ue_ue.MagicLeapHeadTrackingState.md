@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46763](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46763)
+[ue/ue.d.ts:46763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46763)
 
 • **new MagicLeapHeadTrackingState**(`Mode`, `Error`, `Confidence`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46764](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46764)
+[ue/ue.d.ts:46764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46764)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46767](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46767)
+[ue/ue.d.ts:46767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46767)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46766](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46766)
+[ue/ue.d.ts:46766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46766)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46765](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46765)
+[ue/ue.d.ts:46765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46765)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46773](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46773)
+[ue/ue.d.ts:46773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46773)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46771](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46771)
+[ue/ue.d.ts:46771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46771)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46772](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46772)
+[ue/ue.d.ts:46772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46772)

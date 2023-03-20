@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53436](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53436)
+[ue/ue.d.ts:53436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53436)
 
 • **new NetAnalyticsDataConfig**(`DataName`, `bEnabled`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53437](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53437)
+[ue/ue.d.ts:53437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53437)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53438](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53438)
+[ue/ue.d.ts:53438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53438)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53445](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53445)
+[ue/ue.d.ts:53445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53445)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53439](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53439)
+[ue/ue.d.ts:53439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53439)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:53443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53443)
+[ue/ue.d.ts:53443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53443)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53444](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53444)
+[ue/ue.d.ts:53444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53444)

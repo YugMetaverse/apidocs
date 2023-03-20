@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3996](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3996)
+[ue/ue.d.ts:3996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3996)
 
 • **new SkeletalMeshSamplingRegion**(`Name`, `LODIndex`, `bSupportUniformlyDistributedSampling`, `MaterialFilters`, `BoneFilters`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3997](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3997)
+[ue/ue.d.ts:3997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3997)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4002](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4002)
+[ue/ue.d.ts:4002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4002)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3999](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3999)
+[ue/ue.d.ts:3999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3999)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4001](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4001)
+[ue/ue.d.ts:4001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4001)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3998](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3998)
+[ue/ue.d.ts:3998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3998)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4008](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4008)
+[ue/ue.d.ts:4008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4008)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4000](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4000)
+[ue/ue.d.ts:4000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4000)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4006](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4006)
+[ue/ue.d.ts:4006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4006)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4007](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4007)
+[ue/ue.d.ts:4007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4007)

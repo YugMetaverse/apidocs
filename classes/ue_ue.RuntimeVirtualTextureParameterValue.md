@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1776](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1776)
+[ue/ue.d.ts:1776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1776)
 
 • **new RuntimeVirtualTextureParameterValue**(`ParameterInfo`, `ParameterValue`, `ExpressionGUID`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1777](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1777)
+[ue/ue.d.ts:1777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1777)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1780](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1780)
+[ue/ue.d.ts:1780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1780)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1778](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1778)
+[ue/ue.d.ts:1778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1778)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1779](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1779)
+[ue/ue.d.ts:1779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1779)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1786](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1786)
+[ue/ue.d.ts:1786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1786)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1784](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1784)
+[ue/ue.d.ts:1784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1784)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1785](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1785)
+[ue/ue.d.ts:1785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1785)

@@ -24,4 +24,4 @@
 
 #### Defined in
 
-[puerts/index.d.ts:6](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/puerts/index.d.ts#L6)
+[puerts/index.d.ts:6](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L6)

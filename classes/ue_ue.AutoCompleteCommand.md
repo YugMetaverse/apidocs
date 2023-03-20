@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28601](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28601)
+[ue/ue.d.ts:28601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28601)
 
 • **new AutoCompleteCommand**(`Command`, `Desc`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28602](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28602)
+[ue/ue.d.ts:28602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28602)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28603](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28603)
+[ue/ue.d.ts:28603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28603)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28604](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28604)
+[ue/ue.d.ts:28604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28604)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28610](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28610)
+[ue/ue.d.ts:28610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28610)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28608)
+[ue/ue.d.ts:28608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28608)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28609](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28609)
+[ue/ue.d.ts:28609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28609)

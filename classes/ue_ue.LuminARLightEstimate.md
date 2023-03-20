@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46413](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46413)
+[ue/ue.d.ts:46413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46413)
 
 • **new LuminARLightEstimate**(`bIsValid`, `PixelIntensity`, `RGBScaleFactor`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46414](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46414)
+[ue/ue.d.ts:46414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46414)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46416](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46416)
+[ue/ue.d.ts:46416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46416)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46417](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46417)
+[ue/ue.d.ts:46417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46417)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46423](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46423)
+[ue/ue.d.ts:46423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46423)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46415](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46415)
+[ue/ue.d.ts:46415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46415)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46421](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46421)
+[ue/ue.d.ts:46421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46421)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46422](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46422)
+[ue/ue.d.ts:46422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46422)

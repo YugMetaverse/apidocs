@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30866](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30866)
+[ue/ue.d.ts:30866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30866)
 
 • **new DialogueContextMapping**(`Context`, `SoundWave`, `LocalizationKeyFormat`, `Proxy`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30867](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30867)
+[ue/ue.d.ts:30867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30867)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30868](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30868)
+[ue/ue.d.ts:30868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30868)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30870](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30870)
+[ue/ue.d.ts:30870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30870)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30871](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30871)
+[ue/ue.d.ts:30871](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30871)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30869](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30869)
+[ue/ue.d.ts:30869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30869)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30877](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30877)
+[ue/ue.d.ts:30877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30877)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30875](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30875)
+[ue/ue.d.ts:30875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30875)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30876](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30876)
+[ue/ue.d.ts:30876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30876)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4915](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4915)
+[ue/ue.d.ts:4915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4915)
 
 • **new CachedPoseIndices**(`OrderedSavedPoseNodeIndices`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4916](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4916)
+[ue/ue.d.ts:4916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4916)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4917](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4917)
+[ue/ue.d.ts:4917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4917)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4923](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4923)
+[ue/ue.d.ts:4923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4923)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4921](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4921)
+[ue/ue.d.ts:4921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4921)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4922](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4922)
+[ue/ue.d.ts:4922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4922)

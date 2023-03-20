@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31644](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31644)
+[ue/ue.d.ts:31644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31644)
 
 • **new MeshElementAttributeData**(`AttributeName`, `AttributeIndex`, `AttributeValue`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31645](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31645)
+[ue/ue.d.ts:31645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31645)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31647)
+[ue/ue.d.ts:31647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31647)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31646](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31646)
+[ue/ue.d.ts:31646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31646)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31648)
+[ue/ue.d.ts:31648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31648)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31654](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31654)
+[ue/ue.d.ts:31654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31654)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31652](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31652)
+[ue/ue.d.ts:31652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31652)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31653](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31653)
+[ue/ue.d.ts:31653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31653)

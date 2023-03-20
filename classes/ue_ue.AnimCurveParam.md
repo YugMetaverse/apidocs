@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19938](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19938)
+[ue/ue.d.ts:19938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19938)
 
 • **new AnimCurveParam**(`Name`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19939](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19939)
+[ue/ue.d.ts:19939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19939)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19940](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19940)
+[ue/ue.d.ts:19940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19940)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19946](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19946)
+[ue/ue.d.ts:19946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19946)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19944](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19944)
+[ue/ue.d.ts:19944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19944)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19945](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19945)
+[ue/ue.d.ts:19945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19945)

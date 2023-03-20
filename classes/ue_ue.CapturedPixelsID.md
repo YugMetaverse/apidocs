@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64793](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64793)
+[ue/ue.d.ts:64793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64793)
 
 • **new CapturedPixelsID**(`Identifiers`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64794](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64794)
+[ue/ue.d.ts:64794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64794)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64795)
+[ue/ue.d.ts:64795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64795)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64801](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64801)
+[ue/ue.d.ts:64801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64801)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64799](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64799)
+[ue/ue.d.ts:64799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64799)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64800](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64800)
+[ue/ue.d.ts:64800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64800)

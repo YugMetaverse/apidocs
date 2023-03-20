@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29550](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29550)
+[ue/ue.d.ts:29550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29550)
 
 • **new DatasmithCameraFocusSettingsTemplate**(`FocusMethod`, `ManualFocusDistance`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29551](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29551)
+[ue/ue.d.ts:29551](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29551)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29552](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29552)
+[ue/ue.d.ts:29552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29552)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29553](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29553)
+[ue/ue.d.ts:29553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29553)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29559](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29559)
+[ue/ue.d.ts:29559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29559)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29557](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29557)
+[ue/ue.d.ts:29557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29557)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29558](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29558)
+[ue/ue.d.ts:29558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29558)

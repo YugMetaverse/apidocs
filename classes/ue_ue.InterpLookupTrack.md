@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7598](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7598)
+[ue/ue.d.ts:7598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7598)
 
 • **new InterpLookupTrack**(`Points`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7599](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7599)
+[ue/ue.d.ts:7599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7599)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7600](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7600)
+[ue/ue.d.ts:7600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7600)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7606](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7606)
+[ue/ue.d.ts:7606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7606)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7604](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7604)
+[ue/ue.d.ts:7604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7604)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7605](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7605)
+[ue/ue.d.ts:7605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7605)

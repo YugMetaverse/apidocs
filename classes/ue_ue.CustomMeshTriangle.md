@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29261](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29261)
+[ue/ue.d.ts:29261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29261)
 
 • **new CustomMeshTriangle**(`Vertex0`, `Vertex1`, `Vertex2`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29262](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29262)
+[ue/ue.d.ts:29262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29262)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29263](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29263)
+[ue/ue.d.ts:29263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29263)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29264](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29264)
+[ue/ue.d.ts:29264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29264)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29265](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29265)
+[ue/ue.d.ts:29265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29265)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29271](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29271)
+[ue/ue.d.ts:29271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29271)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29269](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29269)
+[ue/ue.d.ts:29269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29269)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29270](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29270)
+[ue/ue.d.ts:29270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29270)

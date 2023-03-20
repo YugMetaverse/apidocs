@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21084](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21084)
+[ue/ue.d.ts:21084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21084)
 
 • **new ARPose2D**(`SkeletonDefinition`, `JointLocations`, `IsJointTracked`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21085](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21085)
+[ue/ue.d.ts:21085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21085)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21088](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21088)
+[ue/ue.d.ts:21088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21088)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21087](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21087)
+[ue/ue.d.ts:21087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21087)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21086](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21086)
+[ue/ue.d.ts:21086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21086)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21094](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21094)
+[ue/ue.d.ts:21094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21094)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:21092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21092)
+[ue/ue.d.ts:21092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21092)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21093](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21093)
+[ue/ue.d.ts:21093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21093)

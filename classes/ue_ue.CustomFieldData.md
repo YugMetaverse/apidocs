@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25530](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25530)
+[ue/ue.d.ts:25530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25530)
 
 • **new CustomFieldData**(`Key`, `Value`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25531](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25531)
+[ue/ue.d.ts:25531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25531)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25532](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25532)
+[ue/ue.d.ts:25532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25532)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25533](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25533)
+[ue/ue.d.ts:25533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25533)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25539](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25539)
+[ue/ue.d.ts:25539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25539)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:25537](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25537)
+[ue/ue.d.ts:25537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25537)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25538](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25538)
+[ue/ue.d.ts:25538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25538)

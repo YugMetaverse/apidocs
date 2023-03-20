@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51769](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51769)
+[ue/ue.d.ts:51769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51769)
 
 • **new EventPayload**(`EventName`, `Parameters`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51770](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51770)
+[ue/ue.d.ts:51770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51770)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51771](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51771)
+[ue/ue.d.ts:51771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51771)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51772](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51772)
+[ue/ue.d.ts:51772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51772)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51778](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51778)
+[ue/ue.d.ts:51778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51778)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:51776](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51776)
+[ue/ue.d.ts:51776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51776)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51777](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51777)
+[ue/ue.d.ts:51777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51777)

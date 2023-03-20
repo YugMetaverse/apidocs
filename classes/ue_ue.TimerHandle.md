@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43236](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43236)
+[ue/ue.d.ts:43236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43236)
 
 • **new TimerHandle**(`Handle`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43237](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43237)
+[ue/ue.d.ts:43237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43237)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43238](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43238)
+[ue/ue.d.ts:43238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43238)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43244](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43244)
+[ue/ue.d.ts:43244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43244)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43242](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43242)
+[ue/ue.d.ts:43242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43242)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43243](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43243)
+[ue/ue.d.ts:43243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43243)

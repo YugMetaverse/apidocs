@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31621)
+[ue/ue.d.ts:31621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31621)
 
 • **new PolygonToSplit**(`PolygonID`, `VertexPairsToSplitAt`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31622)
+[ue/ue.d.ts:31622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31622)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31623](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31623)
+[ue/ue.d.ts:31623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31623)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31624)
+[ue/ue.d.ts:31624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31624)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31630](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31630)
+[ue/ue.d.ts:31630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31630)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31628](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31628)
+[ue/ue.d.ts:31628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31628)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31629](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31629)
+[ue/ue.d.ts:31629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31629)

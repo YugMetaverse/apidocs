@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27306](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27306)
+[ue/ue.d.ts:27306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27306)
 
 • **new NamedFilmbackPreset**(`Name`, `FilmbackSettings`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27307](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27307)
+[ue/ue.d.ts:27307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27307)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27309](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27309)
+[ue/ue.d.ts:27309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27309)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27308](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27308)
+[ue/ue.d.ts:27308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27308)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27315](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27315)
+[ue/ue.d.ts:27315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27315)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27313](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27313)
+[ue/ue.d.ts:27313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27313)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27314](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27314)
+[ue/ue.d.ts:27314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27314)

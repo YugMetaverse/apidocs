@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58380](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58380)
+[ue/ue.d.ts:58380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58380)
 
 • **new CollectionReference**(`CollectionName`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58381](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58381)
+[ue/ue.d.ts:58381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58381)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58382](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58382)
+[ue/ue.d.ts:58382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58382)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58388](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58388)
+[ue/ue.d.ts:58388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58388)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:58386](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58386)
+[ue/ue.d.ts:58386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58386)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58387](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58387)
+[ue/ue.d.ts:58387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58387)

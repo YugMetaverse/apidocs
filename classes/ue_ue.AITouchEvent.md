@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15925](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15925)
+[ue/ue.d.ts:15925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15925)
 
 • **new AITouchEvent**(`TouchReceiver`, `OtherActor`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15926](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15926)
+[ue/ue.d.ts:15926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15926)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15928)
+[ue/ue.d.ts:15928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15928)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15927](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15927)
+[ue/ue.d.ts:15927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15927)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15934](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15934)
+[ue/ue.d.ts:15934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15934)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:15932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15932)
+[ue/ue.d.ts:15932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15932)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15933)
+[ue/ue.d.ts:15933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15933)

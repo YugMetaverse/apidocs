@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4788)
+[ue/ue.d.ts:4788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4788)
 
 • **new EventGraphFastCallPair**(`FunctionToPatch`, `EventGraphCallOffset`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4789](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4789)
+[ue/ue.d.ts:4789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4789)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4791](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4791)
+[ue/ue.d.ts:4791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4791)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4790](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4790)
+[ue/ue.d.ts:4790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4790)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4797](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4797)
+[ue/ue.d.ts:4797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4797)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4795)
+[ue/ue.d.ts:4795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4795)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4796)
+[ue/ue.d.ts:4796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4796)

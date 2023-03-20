@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52639](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52639)
+[ue/ue.d.ts:52639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52639)
 
 • **new MyPluginStruct**(`TestString`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52640](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52640)
+[ue/ue.d.ts:52640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52640)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52641)
+[ue/ue.d.ts:52641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52641)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52647)
+[ue/ue.d.ts:52647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52647)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:52645](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52645)
+[ue/ue.d.ts:52645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52645)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52646](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52646)
+[ue/ue.d.ts:52646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52646)

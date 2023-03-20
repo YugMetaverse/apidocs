@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43898](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43898)
+[ue/ue.d.ts:43898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43898)
 
 • **new HeightmapData**(`Texture`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43899)
+[ue/ue.d.ts:43899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43899)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43900](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43900)
+[ue/ue.d.ts:43900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43900)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43906](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43906)
+[ue/ue.d.ts:43906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43906)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43904](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43904)
+[ue/ue.d.ts:43904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43904)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43905](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43905)
+[ue/ue.d.ts:43905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43905)

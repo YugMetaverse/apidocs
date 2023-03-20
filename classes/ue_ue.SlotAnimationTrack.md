@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2885](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2885)
+[ue/ue.d.ts:2885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2885)
 
 • **new SlotAnimationTrack**(`SlotName`, `AnimTrack`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2886](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2886)
+[ue/ue.d.ts:2886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2886)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2888](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2888)
+[ue/ue.d.ts:2888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2888)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2887](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2887)
+[ue/ue.d.ts:2887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2887)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2894](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2894)
+[ue/ue.d.ts:2894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2894)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2892)
+[ue/ue.d.ts:2892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2892)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2893)
+[ue/ue.d.ts:2893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2893)

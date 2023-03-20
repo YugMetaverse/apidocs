@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31821](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31821)
+[ue/ue.d.ts:31821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31821)
 
 • **new VertexToCreate**(`VertexAttributes`, `OriginalVertexID`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31822](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31822)
+[ue/ue.d.ts:31822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31822)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31824](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31824)
+[ue/ue.d.ts:31824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31824)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31823](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31823)
+[ue/ue.d.ts:31823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31823)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31830](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31830)
+[ue/ue.d.ts:31830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31830)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31828](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31828)
+[ue/ue.d.ts:31828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31828)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31829](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31829)
+[ue/ue.d.ts:31829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31829)

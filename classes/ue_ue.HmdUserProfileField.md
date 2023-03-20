@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53687](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53687)
+[ue/ue.d.ts:53687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53687)
 
 • **new HmdUserProfileField**(`FieldName`, `FieldValue`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53688](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53688)
+[ue/ue.d.ts:53688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53688)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53689](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53689)
+[ue/ue.d.ts:53689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53689)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53690](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53690)
+[ue/ue.d.ts:53690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53690)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53696)
+[ue/ue.d.ts:53696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53696)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:53694](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53694)
+[ue/ue.d.ts:53694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53694)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53695](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53695)
+[ue/ue.d.ts:53695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53695)

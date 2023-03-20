@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19245](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19245)
+[ue/ue.d.ts:19245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19245)
 
 • **new AnimNode_PoseSnapshot**(`SnapshotName`, `Snapshot`, `Mode`)
 
@@ -58,7 +58,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19246](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19246)
+[ue/ue.d.ts:19246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19246)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19249](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19249)
+[ue/ue.d.ts:19249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19249)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19248](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19248)
+[ue/ue.d.ts:19248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19248)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19247](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19247)
+[ue/ue.d.ts:19247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19247)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19255](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19255)
+[ue/ue.d.ts:19255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19255)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19253](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19253)
+[ue/ue.d.ts:19253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19253)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19254](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19254)
+[ue/ue.d.ts:19254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19254)

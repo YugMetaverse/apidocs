@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26694](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26694)
+[ue/ue.d.ts:26694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26694)
 
 • **new RecordedTransformTrack**(`Records`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26695](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26695)
+[ue/ue.d.ts:26695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26695)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26696)
+[ue/ue.d.ts:26696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26696)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26702)
+[ue/ue.d.ts:26702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26702)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:26700](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26700)
+[ue/ue.d.ts:26700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26700)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26701](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26701)
+[ue/ue.d.ts:26701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26701)

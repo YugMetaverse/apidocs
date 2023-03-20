@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60119)
+[ue/ue.d.ts:60119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60119)
 
 • **new SequenceRecorderActorFilter**(`ActorClassesToRecord`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60120)
+[ue/ue.d.ts:60120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60120)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60121](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60121)
+[ue/ue.d.ts:60121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60121)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60127](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60127)
+[ue/ue.d.ts:60127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60127)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:60125](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60125)
+[ue/ue.d.ts:60125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60125)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60126)
+[ue/ue.d.ts:60126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60126)

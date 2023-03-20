@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17648)
+[ue/ue.d.ts:17648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17648)
 
 • **new InputScaleBias**(`Scale`, `Bias`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17649](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17649)
+[ue/ue.d.ts:17649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17649)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17651](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17651)
+[ue/ue.d.ts:17651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17651)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17650](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17650)
+[ue/ue.d.ts:17650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17650)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17657](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17657)
+[ue/ue.d.ts:17657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17657)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:17655](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17655)
+[ue/ue.d.ts:17655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17655)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17656](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17656)
+[ue/ue.d.ts:17656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17656)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17919](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17919)
+[ue/ue.d.ts:17919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17919)
 
 • **new AngularRangeLimit**(`LimitMin`, `LimitMax`, `Bone`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17920](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17920)
+[ue/ue.d.ts:17920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17920)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17923](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17923)
+[ue/ue.d.ts:17923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17923)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17922](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17922)
+[ue/ue.d.ts:17922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17922)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17921](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17921)
+[ue/ue.d.ts:17921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17921)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17929](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17929)
+[ue/ue.d.ts:17929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17929)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:17927](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17927)
+[ue/ue.d.ts:17927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17927)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17928)
+[ue/ue.d.ts:17928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17928)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16451](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16451)
+[ue/ue.d.ts:16451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16451)
 
 • **new DirectoryPath**(`Path`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16452](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16452)
+[ue/ue.d.ts:16452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16452)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16453](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16453)
+[ue/ue.d.ts:16453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16453)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16459](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16459)
+[ue/ue.d.ts:16459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16459)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16457](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16457)
+[ue/ue.d.ts:16457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16457)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16458](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16458)
+[ue/ue.d.ts:16458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16458)

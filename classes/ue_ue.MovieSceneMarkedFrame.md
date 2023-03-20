@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11620)
+[ue/ue.d.ts:11620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11620)
 
 • **new MovieSceneMarkedFrame**(`FrameNumber`, `Label`, `Color`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11621)
+[ue/ue.d.ts:11621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11621)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11624)
+[ue/ue.d.ts:11624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11624)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11622)
+[ue/ue.d.ts:11622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11622)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11623](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11623)
+[ue/ue.d.ts:11623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11623)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11630](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11630)
+[ue/ue.d.ts:11630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11630)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11628](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11628)
+[ue/ue.d.ts:11628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11628)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11629](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11629)
+[ue/ue.d.ts:11629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11629)

@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2234](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2234)
+[ue/ue.d.ts:2234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2234)
 
 • **new UniqueNetIdRepl**(`ReplicationBytes`)
 
@@ -54,7 +54,7 @@ UE.UniqueNetIdWrapper.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:2235](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2235)
+[ue/ue.d.ts:2235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2235)
 
 ## Properties
 
@@ -64,7 +64,7 @@ UE.UniqueNetIdWrapper.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:2236](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2236)
+[ue/ue.d.ts:2236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2236)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2242](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2242)
+[ue/ue.d.ts:2242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2242)
 
 ## Methods
 
@@ -96,7 +96,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2240](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2240)
+[ue/ue.d.ts:2240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2240)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2241](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2241)
+[ue/ue.d.ts:2241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2241)

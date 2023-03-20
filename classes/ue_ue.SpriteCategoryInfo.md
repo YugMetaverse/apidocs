@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2178](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2178)
+[ue/ue.d.ts:2178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2178)
 
 • **new SpriteCategoryInfo**(`Category`, `DisplayName`, `Description`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2179](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2179)
+[ue/ue.d.ts:2179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2179)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2180](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2180)
+[ue/ue.d.ts:2180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2180)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2182](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2182)
+[ue/ue.d.ts:2182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2182)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2181](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2181)
+[ue/ue.d.ts:2181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2181)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2188](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2188)
+[ue/ue.d.ts:2188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2188)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2186](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2186)
+[ue/ue.d.ts:2186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2186)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2187](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2187)
+[ue/ue.d.ts:2187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2187)

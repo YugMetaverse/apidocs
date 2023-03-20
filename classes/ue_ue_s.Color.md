@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue_s.d.ts:68](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L68)
+[ue/ue_s.d.ts:68](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L68)
 
 • **new Color**(`Param1`)
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue_s.d.ts:69](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L69)
+[ue/ue_s.d.ts:69](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L69)
 
 • **new Color**(`InR`, `InG`, `InB`, `InA`)
 
@@ -71,7 +71,7 @@
 
 #### Defined in
 
-[ue/ue_s.d.ts:70](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L70)
+[ue/ue_s.d.ts:70](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L70)
 
 • **new Color**(`InColor`)
 
@@ -83,7 +83,7 @@
 
 #### Defined in
 
-[ue/ue_s.d.ts:71](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L71)
+[ue/ue_s.d.ts:71](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L71)
 
 ## Properties
 
@@ -93,7 +93,7 @@
 
 #### Defined in
 
-[ue/ue_s.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L97)
+[ue/ue_s.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L97)
 
 ## Methods
 
@@ -107,7 +107,7 @@
 
 #### Defined in
 
-[ue/ue_s.d.ts:72](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L72)
+[ue/ue_s.d.ts:72](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L72)
 
 ▸ **DWColor**(): `number`
 
@@ -117,7 +117,7 @@
 
 #### Defined in
 
-[ue/ue_s.d.ts:73](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L73)
+[ue/ue_s.d.ts:73](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L73)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:76](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L76)
+[ue/ue_s.d.ts:76](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L76)
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L85)
+[ue/ue_s.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L85)
 
 ___
 
@@ -165,7 +165,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L82)
+[ue/ue_s.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L82)
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L83)
+[ue/ue_s.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L83)
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L87)
+[ue/ue_s.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L87)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L86)
+[ue/ue_s.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L86)
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:89](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L89)
+[ue/ue_s.d.ts:89](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L89)
 
 ___
 
@@ -235,7 +235,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L88)
+[ue/ue_s.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L88)
 
 ___
 
@@ -249,7 +249,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L84)
+[ue/ue_s.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L84)
 
 ___
 
@@ -269,7 +269,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L81)
+[ue/ue_s.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L81)
 
 ___
 
@@ -289,7 +289,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:74](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L74)
+[ue/ue_s.d.ts:74](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L74)
 
 ___
 
@@ -309,7 +309,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:75](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L75)
+[ue/ue_s.d.ts:75](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L75)
 
 ___
 
@@ -329,7 +329,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L77)
+[ue/ue_s.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L77)
 
 ___
 
@@ -349,7 +349,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:80](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L80)
+[ue/ue_s.d.ts:80](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L80)
 
 ___
 
@@ -363,7 +363,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:78](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L78)
+[ue/ue_s.d.ts:78](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L78)
 
 ___
 
@@ -383,7 +383,7 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:79](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L79)
+[ue/ue_s.d.ts:79](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L79)
 
 ___
 
@@ -401,7 +401,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue_s.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L94)
+[ue/ue_s.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L94)
 
 ___
 
@@ -415,4 +415,4 @@ ___
 
 #### Defined in
 
-[ue/ue_s.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_s.d.ts#L95)
+[ue/ue_s.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_s.d.ts#L95)

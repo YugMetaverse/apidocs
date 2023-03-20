@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39054](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39054)
+[ue/ue.d.ts:39054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39054)
 
 • **new InAppPurchaseRestoreInfo**(`Identifier`, `ReceiptData`, `TransactionIdentifier`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39055](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39055)
+[ue/ue.d.ts:39055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39055)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39056](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39056)
+[ue/ue.d.ts:39056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39056)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39057](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39057)
+[ue/ue.d.ts:39057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39057)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39058](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39058)
+[ue/ue.d.ts:39058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39058)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39064](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39064)
+[ue/ue.d.ts:39064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39064)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39062](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39062)
+[ue/ue.d.ts:39062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39062)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39063](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39063)
+[ue/ue.d.ts:39063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39063)

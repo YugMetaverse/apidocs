@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50922](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50922)
+[ue/ue.d.ts:50922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50922)
 
 • **new MovieScene2DTransformMask**(`Mask`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50923](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50923)
+[ue/ue.d.ts:50923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50923)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50924](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50924)
+[ue/ue.d.ts:50924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50924)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50930)
+[ue/ue.d.ts:50930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50930)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:50928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50928)
+[ue/ue.d.ts:50928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50928)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50929](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50929)
+[ue/ue.d.ts:50929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50929)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8476](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8476)
+[ue/ue.d.ts:8476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8476)
 
 • **new ActiveForceFeedbackEffect**(`ForceFeedbackEffect`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8477](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8477)
+[ue/ue.d.ts:8477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8477)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8478](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8478)
+[ue/ue.d.ts:8478](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8478)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8484](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8484)
+[ue/ue.d.ts:8484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8484)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:8482](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8482)
+[ue/ue.d.ts:8482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8482)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8483](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8483)
+[ue/ue.d.ts:8483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8483)

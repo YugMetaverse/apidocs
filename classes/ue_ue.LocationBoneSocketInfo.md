@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55793](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55793)
+[ue/ue.d.ts:55793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55793)
 
 • **new LocationBoneSocketInfo**(`BoneSocketName`, `Offset`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55794](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55794)
+[ue/ue.d.ts:55794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55794)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55795)
+[ue/ue.d.ts:55795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55795)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55796)
+[ue/ue.d.ts:55796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55796)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55802](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55802)
+[ue/ue.d.ts:55802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55802)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:55800](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55800)
+[ue/ue.d.ts:55800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55800)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55801](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55801)
+[ue/ue.d.ts:55801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55801)

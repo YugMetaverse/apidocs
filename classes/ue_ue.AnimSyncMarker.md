@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2815](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2815)
+[ue/ue.d.ts:2815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2815)
 
 • **new AnimSyncMarker**(`MarkerName`, `Time`, `TrackIndex`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2816](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2816)
+[ue/ue.d.ts:2816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2816)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2817](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2817)
+[ue/ue.d.ts:2817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2817)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2818](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2818)
+[ue/ue.d.ts:2818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2818)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2819](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2819)
+[ue/ue.d.ts:2819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2819)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2825](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2825)
+[ue/ue.d.ts:2825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2825)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2823](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2823)
+[ue/ue.d.ts:2823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2823)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2824](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2824)
+[ue/ue.d.ts:2824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2824)

@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4866](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4866)
+[ue/ue.d.ts:4866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4866)
 
 • **new AnimationStateBase**(`StateName`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4867](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4867)
+[ue/ue.d.ts:4867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4867)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4868](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4868)
+[ue/ue.d.ts:4868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4868)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4874](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4874)
+[ue/ue.d.ts:4874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4874)
 
 ## Methods
 
@@ -84,7 +84,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4872](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4872)
+[ue/ue.d.ts:4872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4872)
 
 ___
 
@@ -98,4 +98,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4873](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4873)
+[ue/ue.d.ts:4873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4873)

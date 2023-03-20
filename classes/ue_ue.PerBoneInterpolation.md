@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15175](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15175)
+[ue/ue.d.ts:15175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15175)
 
 • **new PerBoneInterpolation**(`BoneReference`, `InterpolationSpeedPerSec`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15176](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15176)
+[ue/ue.d.ts:15176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15176)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15177](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15177)
+[ue/ue.d.ts:15177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15177)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15178](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15178)
+[ue/ue.d.ts:15178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15178)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15184](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15184)
+[ue/ue.d.ts:15184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15184)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:15182](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15182)
+[ue/ue.d.ts:15182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15182)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15183](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15183)
+[ue/ue.d.ts:15183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15183)

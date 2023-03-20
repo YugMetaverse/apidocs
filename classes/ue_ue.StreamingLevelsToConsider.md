@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9838](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9838)
+[ue/ue.d.ts:9838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9838)
 
 • **new StreamingLevelsToConsider**(`StreamingLevels`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9839](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9839)
+[ue/ue.d.ts:9839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9839)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9840](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9840)
+[ue/ue.d.ts:9840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9840)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9846](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9846)
+[ue/ue.d.ts:9846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9846)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9844](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9844)
+[ue/ue.d.ts:9844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9844)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9845](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9845)
+[ue/ue.d.ts:9845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9845)

@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L139)
+[ue/ue.d.ts:139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L139)
 
 • **new AbcGeometryCacheSettings**(`bFlattenTracks`, `bApplyConstantTopologyOptimizations`, `bCalculateMotionVectorsDuringImport`, `bOptimizeIndexBuffers`, `CompressedPositionPrecision`, `CompressedTextureCoordinatesNumberOfBits`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L140)
+[ue/ue.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L140)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L145)
+[ue/ue.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L145)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L146)
+[ue/ue.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L146)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L152)
+[ue/ue.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L152)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L142)
+[ue/ue.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L142)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L143)
+[ue/ue.d.ts:143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L143)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L141)
+[ue/ue.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L141)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L144)
+[ue/ue.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L144)
 
 ## Methods
 
@@ -138,7 +138,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L150)
+[ue/ue.d.ts:150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L150)
 
 ___
 
@@ -152,4 +152,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L151)
+[ue/ue.d.ts:151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L151)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63786](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63786)
+[ue/ue.d.ts:63786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63786)
 
 • **new ScriptSlateIcon**(`StyleSetName`, `StyleName`, `SmallStyleName`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63787](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63787)
+[ue/ue.d.ts:63787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63787)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63790](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63790)
+[ue/ue.d.ts:63790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63790)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63789](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63789)
+[ue/ue.d.ts:63789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63789)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63788)
+[ue/ue.d.ts:63788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63788)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63796)
+[ue/ue.d.ts:63796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63796)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:63794](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63794)
+[ue/ue.d.ts:63794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63794)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63795)
+[ue/ue.d.ts:63795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63795)

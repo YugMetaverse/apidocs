@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36396)
+[ue/ue.d.ts:36396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36396)
 
 • **new GenericTeamId**(`TeamID`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36397](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36397)
+[ue/ue.d.ts:36397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36397)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36398](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36398)
+[ue/ue.d.ts:36398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36398)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36404](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36404)
+[ue/ue.d.ts:36404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36404)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36402](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36402)
+[ue/ue.d.ts:36402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36402)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36403](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36403)
+[ue/ue.d.ts:36403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36403)

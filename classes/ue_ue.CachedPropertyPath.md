@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10791](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10791)
+[ue/ue.d.ts:10791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10791)
 
 • **new CachedPropertyPath**(`Segments`, `CachedFunction`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10792](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10792)
+[ue/ue.d.ts:10792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10792)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10794](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10794)
+[ue/ue.d.ts:10794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10794)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10793](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10793)
+[ue/ue.d.ts:10793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10793)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10800](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10800)
+[ue/ue.d.ts:10800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10800)
 
 ## Methods
 
@@ -96,7 +96,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10798](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10798)
+[ue/ue.d.ts:10798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10798)
 
 ___
 
@@ -110,4 +110,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10799](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10799)
+[ue/ue.d.ts:10799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10799)

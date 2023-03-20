@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2560](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2560)
+[ue/ue.d.ts:2560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2560)
 
 • **new BoxSphereBounds**(`Origin`, `BoxExtent`, `SphereRadius`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2561](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2561)
+[ue/ue.d.ts:2561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2561)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2563](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2563)
+[ue/ue.d.ts:2563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2563)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2562](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2562)
+[ue/ue.d.ts:2562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2562)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2564](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2564)
+[ue/ue.d.ts:2564](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2564)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2570](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2570)
+[ue/ue.d.ts:2570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2570)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2568](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2568)
+[ue/ue.d.ts:2568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2568)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2569](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2569)
+[ue/ue.d.ts:2569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2569)

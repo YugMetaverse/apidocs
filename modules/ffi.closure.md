@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[ffi/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L45)
+[ffi/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L45)
 
 ▸ **alloc**(`func`, `returnType`, `parameterTypes`): [`Closure`](../classes/ffi.Closure-1.md)
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[ffi/index.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L46)
+[ffi/index.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L46)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L48)
+[ffi/index.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L48)
 
 ___
 
@@ -91,4 +91,4 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L47)
+[ffi/index.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L47)

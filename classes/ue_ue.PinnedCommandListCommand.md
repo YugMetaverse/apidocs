@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57732](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57732)
+[ue/ue.d.ts:57732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57732)
 
 • **new PinnedCommandListCommand**(`Name`, `Binding`, `Type`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57733](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57733)
+[ue/ue.d.ts:57733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57733)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57735](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57735)
+[ue/ue.d.ts:57735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57735)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57734](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57734)
+[ue/ue.d.ts:57734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57734)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57736](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57736)
+[ue/ue.d.ts:57736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57736)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57742](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57742)
+[ue/ue.d.ts:57742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57742)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:57740](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57740)
+[ue/ue.d.ts:57740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57740)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57741](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57741)
+[ue/ue.d.ts:57741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57741)

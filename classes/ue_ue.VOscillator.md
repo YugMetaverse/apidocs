@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7438](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7438)
+[ue/ue.d.ts:7438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7438)
 
 • **new VOscillator**(`X`, `Y`, `Z`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7439](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7439)
+[ue/ue.d.ts:7439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7439)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7440](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7440)
+[ue/ue.d.ts:7440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7440)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7441](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7441)
+[ue/ue.d.ts:7441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7441)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7442](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7442)
+[ue/ue.d.ts:7442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7442)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7448](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7448)
+[ue/ue.d.ts:7448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7448)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7446](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7446)
+[ue/ue.d.ts:7446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7446)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7447](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7447)
+[ue/ue.d.ts:7447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7447)

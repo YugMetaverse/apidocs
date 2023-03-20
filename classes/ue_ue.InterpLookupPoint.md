@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7585](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7585)
+[ue/ue.d.ts:7585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7585)
 
 • **new InterpLookupPoint**(`GroupName`, `Time`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7586](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7586)
+[ue/ue.d.ts:7586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7586)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7587](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7587)
+[ue/ue.d.ts:7587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7587)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7588](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7588)
+[ue/ue.d.ts:7588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7588)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7594](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7594)
+[ue/ue.d.ts:7594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7594)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7592](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7592)
+[ue/ue.d.ts:7592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7592)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7593](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7593)
+[ue/ue.d.ts:7593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7593)

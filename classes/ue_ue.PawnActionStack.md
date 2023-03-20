@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14843](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14843)
+[ue/ue.d.ts:14843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14843)
 
 • **new PawnActionStack**(`TopAction`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14844](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14844)
+[ue/ue.d.ts:14844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14844)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14845](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14845)
+[ue/ue.d.ts:14845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14845)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14851](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14851)
+[ue/ue.d.ts:14851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14851)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14849](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14849)
+[ue/ue.d.ts:14849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14849)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14850](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14850)
+[ue/ue.d.ts:14850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14850)

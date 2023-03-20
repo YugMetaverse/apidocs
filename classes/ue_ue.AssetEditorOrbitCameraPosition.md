@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7850](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7850)
+[ue/ue.d.ts:7850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7850)
 
 • **new AssetEditorOrbitCameraPosition**(`bIsSet`, `CamOrbitPoint`, `CamOrbitZoom`, `CamOrbitRotation`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7851](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7851)
+[ue/ue.d.ts:7851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7851)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7853](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7853)
+[ue/ue.d.ts:7853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7853)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7855](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7855)
+[ue/ue.d.ts:7855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7855)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7854](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7854)
+[ue/ue.d.ts:7854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7854)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7861](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7861)
+[ue/ue.d.ts:7861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7861)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7852](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7852)
+[ue/ue.d.ts:7852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7852)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7859](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7859)
+[ue/ue.d.ts:7859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7859)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7860](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7860)
+[ue/ue.d.ts:7860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7860)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31807](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31807)
+[ue/ue.d.ts:31807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31807)
 
 • **new SubdivisionLimitData**(`VertexPositions`, `Sections`, `SubdividedWireEdges`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31808](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31808)
+[ue/ue.d.ts:31808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31808)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31810](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31810)
+[ue/ue.d.ts:31810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31810)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31811](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31811)
+[ue/ue.d.ts:31811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31811)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31809](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31809)
+[ue/ue.d.ts:31809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31809)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31817](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31817)
+[ue/ue.d.ts:31817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31817)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31815](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31815)
+[ue/ue.d.ts:31815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31815)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31816](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31816)
+[ue/ue.d.ts:31816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31816)

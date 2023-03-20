@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L96)
+[ue/puerts_decorators.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L96)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L97)
+[ue/puerts_decorators.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L97)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L91)
+[ue/puerts_decorators.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L91)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L95)
+[ue/puerts_decorators.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L95)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L94)
+[ue/puerts_decorators.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L94)

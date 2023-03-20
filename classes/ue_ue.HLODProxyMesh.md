@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38632](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38632)
+[ue/ue.d.ts:38632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38632)
 
 • **new HLODProxyMesh**(`LODActor`, `StaticMesh`, `Key`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38633](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38633)
+[ue/ue.d.ts:38633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38633)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38636](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38636)
+[ue/ue.d.ts:38636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38636)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38634](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38634)
+[ue/ue.d.ts:38634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38634)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38635](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38635)
+[ue/ue.d.ts:38635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38635)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38642](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38642)
+[ue/ue.d.ts:38642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38642)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:38640](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38640)
+[ue/ue.d.ts:38640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38640)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38641)
+[ue/ue.d.ts:38641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38641)

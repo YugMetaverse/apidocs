@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2445](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2445)
+[ue/ue.d.ts:2445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2445)
 
 • **new TransformBase**(`Node`, `Constraints`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2446](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2446)
+[ue/ue.d.ts:2446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2446)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2448](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2448)
+[ue/ue.d.ts:2448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2448)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2447](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2447)
+[ue/ue.d.ts:2447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2447)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2454](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2454)
+[ue/ue.d.ts:2454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2454)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2452](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2452)
+[ue/ue.d.ts:2452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2452)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2453](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2453)
+[ue/ue.d.ts:2453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2453)

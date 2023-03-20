@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7176](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7176)
+[ue/ue.d.ts:7176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7176)
 
 • **new LODSoloTrack**(`SoloEnableSetting`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7177](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7177)
+[ue/ue.d.ts:7177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7177)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7178](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7178)
+[ue/ue.d.ts:7178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7178)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7184](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7184)
+[ue/ue.d.ts:7184](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7184)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7182](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7182)
+[ue/ue.d.ts:7182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7182)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7183](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7183)
+[ue/ue.d.ts:7183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7183)

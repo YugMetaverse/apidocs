@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30560](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30560)
+[ue/ue.d.ts:30560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30560)
 
 • **new TemplateFolderRename**(`From`, `To`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30561](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30561)
+[ue/ue.d.ts:30561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30561)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30562](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30562)
+[ue/ue.d.ts:30562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30562)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30563](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30563)
+[ue/ue.d.ts:30563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30563)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30569](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30569)
+[ue/ue.d.ts:30569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30569)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30567](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30567)
+[ue/ue.d.ts:30567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30567)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30568](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30568)
+[ue/ue.d.ts:30568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30568)

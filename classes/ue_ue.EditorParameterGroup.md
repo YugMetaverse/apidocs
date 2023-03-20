@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47317](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47317)
+[ue/ue.d.ts:47317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47317)
 
 • **new EditorParameterGroup**(`GroupName`, `GroupAssociation`, `Parameters`, `GroupSortPriority`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47318](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47318)
+[ue/ue.d.ts:47318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47318)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47320](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47320)
+[ue/ue.d.ts:47320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47320)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47319](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47319)
+[ue/ue.d.ts:47319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47319)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47322](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47322)
+[ue/ue.d.ts:47322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47322)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47321](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47321)
+[ue/ue.d.ts:47321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47321)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47328](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47328)
+[ue/ue.d.ts:47328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47328)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:47326](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47326)
+[ue/ue.d.ts:47326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47326)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47327](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47327)
+[ue/ue.d.ts:47327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47327)

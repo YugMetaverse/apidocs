@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66117](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66117)
+[ue/ue.d.ts:66117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66117)
 
 • **new BlueprintWidgetAnimationDelegateBinding**(`Action`, `AnimationToBind`, `FunctionNameToBind`, `UserTag`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66118](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66118)
+[ue/ue.d.ts:66118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66118)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66119)
+[ue/ue.d.ts:66119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66119)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66120)
+[ue/ue.d.ts:66120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66120)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66121](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66121)
+[ue/ue.d.ts:66121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66121)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66122](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66122)
+[ue/ue.d.ts:66122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66122)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66128](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66128)
+[ue/ue.d.ts:66128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66128)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:66126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66126)
+[ue/ue.d.ts:66126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66126)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66127](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66127)
+[ue/ue.d.ts:66127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66127)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43604](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43604)
+[ue/ue.d.ts:43604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43604)
 
 • **new LandscapeSplineSegmentConnection**(`ControlPoint`, `TangentLen`, `SocketName`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43605](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43605)
+[ue/ue.d.ts:43605](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43605)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43606](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43606)
+[ue/ue.d.ts:43606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43606)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43608)
+[ue/ue.d.ts:43608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43608)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43607](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43607)
+[ue/ue.d.ts:43607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43607)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43614](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43614)
+[ue/ue.d.ts:43614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43614)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43612](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43612)
+[ue/ue.d.ts:43612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43612)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43613](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43613)
+[ue/ue.d.ts:43613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43613)

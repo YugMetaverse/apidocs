@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3554](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3554)
+[ue/ue.d.ts:3554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3554)
 
 • **new PhysicalAnimationProfile**(`ProfileName`, `PhysicalAnimationData`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3555](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3555)
+[ue/ue.d.ts:3555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3555)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3557](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3557)
+[ue/ue.d.ts:3557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3557)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3556](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3556)
+[ue/ue.d.ts:3556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3556)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3563](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3563)
+[ue/ue.d.ts:3563](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3563)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3561](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3561)
+[ue/ue.d.ts:3561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3561)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3562](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3562)
+[ue/ue.d.ts:3562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3562)

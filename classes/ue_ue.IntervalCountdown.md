@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25231](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25231)
+[ue/ue.d.ts:25231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25231)
 
 • **new IntervalCountdown**(`Interval`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25232](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25232)
+[ue/ue.d.ts:25232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25232)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25233](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25233)
+[ue/ue.d.ts:25233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25233)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25239](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25239)
+[ue/ue.d.ts:25239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25239)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:25237](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25237)
+[ue/ue.d.ts:25237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25237)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25238](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25238)
+[ue/ue.d.ts:25238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25238)

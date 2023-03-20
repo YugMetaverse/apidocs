@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16421](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16421)
+[ue/ue.d.ts:16421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16421)
 
 • **new GooglePlayLeaderboardMapping**(`Name`, `LeaderboardID`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16422](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16422)
+[ue/ue.d.ts:16422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16422)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16424](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16424)
+[ue/ue.d.ts:16424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16424)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16423](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16423)
+[ue/ue.d.ts:16423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16423)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16430](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16430)
+[ue/ue.d.ts:16430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16430)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16428](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16428)
+[ue/ue.d.ts:16428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16428)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16429](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16429)
+[ue/ue.d.ts:16429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16429)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1394)
+[ue/ue.d.ts:1394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1394)
 
 • **new MaterialParameterCollectionInfo**(`StateId`, `ParameterCollection`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1395)
+[ue/ue.d.ts:1395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1395)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1397](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1397)
+[ue/ue.d.ts:1397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1397)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1396)
+[ue/ue.d.ts:1396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1396)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1403](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1403)
+[ue/ue.d.ts:1403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1403)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1401](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1401)
+[ue/ue.d.ts:1401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1401)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1402](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1402)
+[ue/ue.d.ts:1402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1402)

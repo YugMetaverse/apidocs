@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14011)
+[ue/ue.d.ts:14011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14011)
 
 • **new LevelSequenceObject**(`ObjectOrOwner`, `ComponentName`, `CachedComponent`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14012](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14012)
+[ue/ue.d.ts:14012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14012)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14015](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14015)
+[ue/ue.d.ts:14015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14015)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14014](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14014)
+[ue/ue.d.ts:14014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14014)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14013](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14013)
+[ue/ue.d.ts:14013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14013)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14021](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14021)
+[ue/ue.d.ts:14021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14021)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14019](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14019)
+[ue/ue.d.ts:14019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14019)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14020](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14020)
+[ue/ue.d.ts:14020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14020)

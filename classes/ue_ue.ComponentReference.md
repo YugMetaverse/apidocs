@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25713](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25713)
+[ue/ue.d.ts:25713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25713)
 
 • **new ComponentReference**(`OtherActor`, `ComponentProperty`, `PathToComponent`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25714](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25714)
+[ue/ue.d.ts:25714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25714)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25716](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25716)
+[ue/ue.d.ts:25716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25716)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25715](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25715)
+[ue/ue.d.ts:25715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25715)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25717](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25717)
+[ue/ue.d.ts:25717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25717)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25723](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25723)
+[ue/ue.d.ts:25723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25723)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:25721](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25721)
+[ue/ue.d.ts:25721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25721)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25722](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25722)
+[ue/ue.d.ts:25722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25722)

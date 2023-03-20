@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31782](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31782)
+[ue/ue.d.ts:31782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31782)
 
 • **new SubdivisionLimitSection**(`SubdividedQuads`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31783](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31783)
+[ue/ue.d.ts:31783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31783)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31784](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31784)
+[ue/ue.d.ts:31784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31784)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31790](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31790)
+[ue/ue.d.ts:31790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31790)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31788)
+[ue/ue.d.ts:31788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31788)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31789](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31789)
+[ue/ue.d.ts:31789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31789)

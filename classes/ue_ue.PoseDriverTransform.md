@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19145](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19145)
+[ue/ue.d.ts:19145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19145)
 
 • **new PoseDriverTransform**(`TargetTranslation`, `TargetRotation`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19146](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19146)
+[ue/ue.d.ts:19146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19146)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19148](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19148)
+[ue/ue.d.ts:19148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19148)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19147](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19147)
+[ue/ue.d.ts:19147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19147)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19154](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19154)
+[ue/ue.d.ts:19154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19154)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19152](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19152)
+[ue/ue.d.ts:19152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19152)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19153](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19153)
+[ue/ue.d.ts:19153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19153)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55074](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55074)
+[ue/ue.d.ts:55074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55074)
 
 • **new PaperTileInfo**(`TileSet`, `PackedTileIndex`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55075](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55075)
+[ue/ue.d.ts:55075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55075)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55077](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55077)
+[ue/ue.d.ts:55077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55077)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55076](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55076)
+[ue/ue.d.ts:55076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55076)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55083](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55083)
+[ue/ue.d.ts:55083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55083)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:55081](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55081)
+[ue/ue.d.ts:55081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55081)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55082](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55082)
+[ue/ue.d.ts:55082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55082)

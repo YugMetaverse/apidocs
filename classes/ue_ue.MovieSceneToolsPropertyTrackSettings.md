@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52376](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52376)
+[ue/ue.d.ts:52376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52376)
 
 • **new MovieSceneToolsPropertyTrackSettings**(`ComponentName`, `PropertyName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52377](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52377)
+[ue/ue.d.ts:52377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52377)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52378](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52378)
+[ue/ue.d.ts:52378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52378)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52379](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52379)
+[ue/ue.d.ts:52379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52379)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52385](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52385)
+[ue/ue.d.ts:52385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52385)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:52383](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52383)
+[ue/ue.d.ts:52383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52383)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52384](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52384)
+[ue/ue.d.ts:52384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52384)

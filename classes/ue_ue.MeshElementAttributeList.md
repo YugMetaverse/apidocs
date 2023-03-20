@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31658](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31658)
+[ue/ue.d.ts:31658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31658)
 
 • **new MeshElementAttributeList**(`Attributes`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31659](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31659)
+[ue/ue.d.ts:31659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31659)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31660](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31660)
+[ue/ue.d.ts:31660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31660)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31666](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31666)
+[ue/ue.d.ts:31666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31666)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31664](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31664)
+[ue/ue.d.ts:31664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31664)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31665](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31665)
+[ue/ue.d.ts:31665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31665)

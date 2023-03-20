@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52874](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52874)
+[ue/ue.d.ts:52874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52874)
 
 • **new NavCollisionBox**(`Offset`, `Extent`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52875](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52875)
+[ue/ue.d.ts:52875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52875)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52877](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52877)
+[ue/ue.d.ts:52877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52877)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52876](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52876)
+[ue/ue.d.ts:52876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52876)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52883](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52883)
+[ue/ue.d.ts:52883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52883)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:52881](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52881)
+[ue/ue.d.ts:52881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52881)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52882](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52882)
+[ue/ue.d.ts:52882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52882)

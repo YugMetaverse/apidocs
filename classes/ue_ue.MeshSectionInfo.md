@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7796)
+[ue/ue.d.ts:7796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7796)
 
 • **new MeshSectionInfo**(`MaterialIndex`, `bEnableCollision`, `bCastShadow`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7797](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7797)
+[ue/ue.d.ts:7797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7797)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7798](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7798)
+[ue/ue.d.ts:7798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7798)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7806](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7806)
+[ue/ue.d.ts:7806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7806)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7800](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7800)
+[ue/ue.d.ts:7800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7800)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7799](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7799)
+[ue/ue.d.ts:7799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7799)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7804](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7804)
+[ue/ue.d.ts:7804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7804)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7805](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7805)
+[ue/ue.d.ts:7805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7805)

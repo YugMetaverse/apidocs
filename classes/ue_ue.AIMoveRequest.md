@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16119)
+[ue/ue.d.ts:16119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16119)
 
 • **new AIMoveRequest**(`GoalActor`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16120)
+[ue/ue.d.ts:16120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16120)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16121](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16121)
+[ue/ue.d.ts:16121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16121)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16127](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16127)
+[ue/ue.d.ts:16127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16127)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16125](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16125)
+[ue/ue.d.ts:16125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16125)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16126)
+[ue/ue.d.ts:16126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16126)

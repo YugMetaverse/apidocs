@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10247](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10247)
+[ue/ue.d.ts:10247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10247)
 
 • **new PSCPoolElem**(`PSC`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10248](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10248)
+[ue/ue.d.ts:10248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10248)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10249](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10249)
+[ue/ue.d.ts:10249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10249)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10255](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10255)
+[ue/ue.d.ts:10255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10255)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10253](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10253)
+[ue/ue.d.ts:10253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10253)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10254](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10254)
+[ue/ue.d.ts:10254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10254)

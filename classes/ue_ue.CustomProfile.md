@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28148](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28148)
+[ue/ue.d.ts:28148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28148)
 
 • **new CustomProfile**(`Name`, `CustomResponses`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28149](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28149)
+[ue/ue.d.ts:28149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28149)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28151](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28151)
+[ue/ue.d.ts:28151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28151)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28150](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28150)
+[ue/ue.d.ts:28150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28150)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28157](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28157)
+[ue/ue.d.ts:28157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28157)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28155](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28155)
+[ue/ue.d.ts:28155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28155)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28156](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28156)
+[ue/ue.d.ts:28156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28156)

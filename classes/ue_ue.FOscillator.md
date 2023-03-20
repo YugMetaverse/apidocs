@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7409](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7409)
+[ue/ue.d.ts:7409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7409)
 
 • **new FOscillator**(`Amplitude`, `Frequency`, `InitialOffset`, `Waveform`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7410](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7410)
+[ue/ue.d.ts:7410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7410)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7411](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7411)
+[ue/ue.d.ts:7411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7411)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7412](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7412)
+[ue/ue.d.ts:7412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7412)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7413](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7413)
+[ue/ue.d.ts:7413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7413)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7414](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7414)
+[ue/ue.d.ts:7414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7414)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7420](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7420)
+[ue/ue.d.ts:7420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7420)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7418](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7418)
+[ue/ue.d.ts:7418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7418)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7419](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7419)
+[ue/ue.d.ts:7419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7419)

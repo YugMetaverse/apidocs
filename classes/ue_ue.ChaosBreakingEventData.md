@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26996](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26996)
+[ue/ue.d.ts:26996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26996)
 
 • **new ChaosBreakingEventData**(`Location`, `Velocity`, `Mass`, `ParticleIndex`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26997](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26997)
+[ue/ue.d.ts:26997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26997)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26998](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26998)
+[ue/ue.d.ts:26998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26998)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27000](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27000)
+[ue/ue.d.ts:27000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27000)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27001](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27001)
+[ue/ue.d.ts:27001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27001)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26999](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26999)
+[ue/ue.d.ts:26999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26999)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27007](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27007)
+[ue/ue.d.ts:27007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27007)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27005](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27005)
+[ue/ue.d.ts:27005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27005)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27006](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27006)
+[ue/ue.d.ts:27006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27006)

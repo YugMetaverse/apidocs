@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3970](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3970)
+[ue/ue.d.ts:3970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3970)
 
 • **new SkeletalMeshSamplingRegionMaterialFilter**(`MaterialName`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3971](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3971)
+[ue/ue.d.ts:3971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3971)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3972](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3972)
+[ue/ue.d.ts:3972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3972)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3978](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3978)
+[ue/ue.d.ts:3978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3978)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3976](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3976)
+[ue/ue.d.ts:3976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3976)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3977](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3977)
+[ue/ue.d.ts:3977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3977)

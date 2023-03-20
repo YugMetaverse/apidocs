@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30489](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30489)
+[ue/ue.d.ts:30489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30489)
 
 • **new ParameterChannelNames**(`R`, `G`, `B`, `A`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30490](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30490)
+[ue/ue.d.ts:30490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30490)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30494](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30494)
+[ue/ue.d.ts:30494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30494)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30493](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30493)
+[ue/ue.d.ts:30493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30493)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30492](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30492)
+[ue/ue.d.ts:30492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30492)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30491](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30491)
+[ue/ue.d.ts:30491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30491)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30500](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30500)
+[ue/ue.d.ts:30500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30500)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30498](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30498)
+[ue/ue.d.ts:30498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30498)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30499](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30499)
+[ue/ue.d.ts:30499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30499)

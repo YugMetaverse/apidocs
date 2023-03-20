@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18570](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18570)
+[ue/ue.d.ts:18570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18570)
 
 • **new AnimNode_Inertialization**(`Source`)
 
@@ -54,7 +54,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18571](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18571)
+[ue/ue.d.ts:18571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18571)
 
 ## Properties
 
@@ -64,7 +64,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18572](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18572)
+[ue/ue.d.ts:18572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18572)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18578](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18578)
+[ue/ue.d.ts:18578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18578)
 
 ## Methods
 
@@ -96,7 +96,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18576](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18576)
+[ue/ue.d.ts:18576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18576)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18577](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18577)
+[ue/ue.d.ts:18577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18577)

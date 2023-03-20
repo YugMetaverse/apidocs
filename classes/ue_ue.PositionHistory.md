@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:42108](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42108)
+[ue/ue.d.ts:42108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42108)
 
 • **new PositionHistory**(`Positions`, `Range`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:42109](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42109)
+[ue/ue.d.ts:42109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42109)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:42110](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42110)
+[ue/ue.d.ts:42110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42110)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:42111](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42111)
+[ue/ue.d.ts:42111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42111)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:42117](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42117)
+[ue/ue.d.ts:42117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42117)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:42115](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42115)
+[ue/ue.d.ts:42115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42115)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:42116](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42116)
+[ue/ue.d.ts:42116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42116)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43818](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43818)
+[ue/ue.d.ts:43818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43818)
 
 • **new LandscapeProxyMaterialOverride**(`LODIndex`, `Material`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43819](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43819)
+[ue/ue.d.ts:43819](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43819)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43820](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43820)
+[ue/ue.d.ts:43820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43820)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43821](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43821)
+[ue/ue.d.ts:43821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43821)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43827](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43827)
+[ue/ue.d.ts:43827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43827)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43825](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43825)
+[ue/ue.d.ts:43825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43825)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43826](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43826)
+[ue/ue.d.ts:43826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43826)

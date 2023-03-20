@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6654](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6654)
+[ue/ue.d.ts:6654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6654)
 
 • **new CameraCacheEntry**(`TimeStamp`, `POV`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6655](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6655)
+[ue/ue.d.ts:6655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6655)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6657](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6657)
+[ue/ue.d.ts:6657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6657)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6656](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6656)
+[ue/ue.d.ts:6656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6656)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6663](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6663)
+[ue/ue.d.ts:6663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6663)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:6661](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6661)
+[ue/ue.d.ts:6661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6661)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6662](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6662)
+[ue/ue.d.ts:6662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6662)

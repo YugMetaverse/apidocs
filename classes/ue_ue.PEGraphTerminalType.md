@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57083](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57083)
+[ue/ue.d.ts:57083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57083)
 
 • **new PEGraphTerminalType**(`PinCategory`, `PinSubCategoryObject`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57084](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57084)
+[ue/ue.d.ts:57084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57084)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57085](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57085)
+[ue/ue.d.ts:57085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57085)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57086](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57086)
+[ue/ue.d.ts:57086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57086)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57092)
+[ue/ue.d.ts:57092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57092)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:57090](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57090)
+[ue/ue.d.ts:57090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57090)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57091)
+[ue/ue.d.ts:57091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57091)

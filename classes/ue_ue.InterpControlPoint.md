@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39714](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39714)
+[ue/ue.d.ts:39714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39714)
 
 • **new InterpControlPoint**(`PositionControlPoint`, `bPositionIsRelative`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39715](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39715)
+[ue/ue.d.ts:39715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39715)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39716](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39716)
+[ue/ue.d.ts:39716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39716)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39723](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39723)
+[ue/ue.d.ts:39723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39723)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39717](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39717)
+[ue/ue.d.ts:39717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39717)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39721](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39721)
+[ue/ue.d.ts:39721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39721)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39722](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39722)
+[ue/ue.d.ts:39722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39722)

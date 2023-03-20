@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25595](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25595)
+[ue/ue.d.ts:25595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25595)
 
 • **new SlateSound**(`ResourceObject`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25596](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25596)
+[ue/ue.d.ts:25596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25596)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25597](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25597)
+[ue/ue.d.ts:25597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25597)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25603](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25603)
+[ue/ue.d.ts:25603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25603)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:25601](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25601)
+[ue/ue.d.ts:25601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25601)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25602](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25602)
+[ue/ue.d.ts:25602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25602)

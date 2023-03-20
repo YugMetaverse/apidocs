@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29011)
+[ue/ue.d.ts:29011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29011)
 
 • **new CullDistanceSizePair**(`Size`, `CullDistance`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29012](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29012)
+[ue/ue.d.ts:29012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29012)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29014](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29014)
+[ue/ue.d.ts:29014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29014)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29013](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29013)
+[ue/ue.d.ts:29013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29013)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29020](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29020)
+[ue/ue.d.ts:29020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29020)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29018](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29018)
+[ue/ue.d.ts:29018](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29018)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29019](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29019)
+[ue/ue.d.ts:29019](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29019)

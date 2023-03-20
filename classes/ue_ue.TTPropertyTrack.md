@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4222](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4222)
+[ue/ue.d.ts:4222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4222)
 
 • **new TTPropertyTrack**(`PropertyName`)
 
@@ -62,7 +62,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4223](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4223)
+[ue/ue.d.ts:4223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4223)
 
 ## Properties
 
@@ -72,7 +72,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4224)
+[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4224)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4198)
+[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4230](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4230)
+[ue/ue.d.ts:4230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4230)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4199)
+[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -132,7 +132,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4228](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4228)
+[ue/ue.d.ts:4228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4228)
 
 ___
 
@@ -150,4 +150,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4229](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4229)
+[ue/ue.d.ts:4229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4229)

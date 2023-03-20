@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36765](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36765)
+[ue/ue.d.ts:36765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36765)
 
 • **new GameplayDebuggerPlayerData**(`Controller`, `InputComponent`, `Replicator`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36766](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36766)
+[ue/ue.d.ts:36766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36766)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36767](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36767)
+[ue/ue.d.ts:36767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36767)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36768](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36768)
+[ue/ue.d.ts:36768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36768)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36769](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36769)
+[ue/ue.d.ts:36769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36769)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36775](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36775)
+[ue/ue.d.ts:36775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36775)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36773](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36773)
+[ue/ue.d.ts:36773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36773)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36774](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36774)
+[ue/ue.d.ts:36774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36774)

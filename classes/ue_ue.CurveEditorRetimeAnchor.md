@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29129](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29129)
+[ue/ue.d.ts:29129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29129)
 
 • **new CurveEditorRetimeAnchor**(`ValueInSeconds`, `bIsSelected`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29130](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29130)
+[ue/ue.d.ts:29130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29130)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29131](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29131)
+[ue/ue.d.ts:29131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29131)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29138](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29138)
+[ue/ue.d.ts:29138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29138)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29132](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29132)
+[ue/ue.d.ts:29132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29132)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29136](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29136)
+[ue/ue.d.ts:29136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29136)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29137](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29137)
+[ue/ue.d.ts:29137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29137)

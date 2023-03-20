@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2928)
+[ue/ue.d.ts:2928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2928)
 
 • **new TimeStretchCurveMarker**(`Time`, `Alpha`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2929](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2929)
+[ue/ue.d.ts:2929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2929)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2931](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2931)
+[ue/ue.d.ts:2931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2931)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2930)
+[ue/ue.d.ts:2930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2930)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2937](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2937)
+[ue/ue.d.ts:2937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2937)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2935](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2935)
+[ue/ue.d.ts:2935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2935)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2936](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2936)
+[ue/ue.d.ts:2936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2936)

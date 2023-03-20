@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11495](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11495)
+[ue/ue.d.ts:11495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11495)
 
 • **new MovieSceneObjectBindingID**(`SequenceID`, `Space`, `Guid`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11496](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11496)
+[ue/ue.d.ts:11496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11496)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11499](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11499)
+[ue/ue.d.ts:11499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11499)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11497](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11497)
+[ue/ue.d.ts:11497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11497)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11498](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11498)
+[ue/ue.d.ts:11498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11498)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11505](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11505)
+[ue/ue.d.ts:11505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11505)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11503](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11503)
+[ue/ue.d.ts:11503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11503)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11504](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11504)
+[ue/ue.d.ts:11504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11504)

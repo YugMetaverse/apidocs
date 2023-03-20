@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46944](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46944)
+[ue/ue.d.ts:46944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46944)
 
 • **new MagicLeapPlaneBoundary**(`Polygon`, `Holes`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46945](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46945)
+[ue/ue.d.ts:46945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46945)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46947](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46947)
+[ue/ue.d.ts:46947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46947)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46946](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46946)
+[ue/ue.d.ts:46946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46946)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46953](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46953)
+[ue/ue.d.ts:46953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46953)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46951](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46951)
+[ue/ue.d.ts:46951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46951)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46952](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46952)
+[ue/ue.d.ts:46952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46952)

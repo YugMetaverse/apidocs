@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11719](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11719)
+[ue/ue.d.ts:11719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11719)
 
 • **new MovieSceneSectionEvalOptions**(`bCanEditCompletionMode`, `CompletionMode`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11720](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11720)
+[ue/ue.d.ts:11720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11720)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11722](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11722)
+[ue/ue.d.ts:11722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11722)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11728](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11728)
+[ue/ue.d.ts:11728](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11728)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11721](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11721)
+[ue/ue.d.ts:11721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11721)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11726](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11726)
+[ue/ue.d.ts:11726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11726)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11727](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11727)
+[ue/ue.d.ts:11727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11727)

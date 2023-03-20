@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11440](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11440)
+[ue/ue.d.ts:11440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11440)
 
 • **new MovieSceneTemplateGenerationLedger**(`LastTrackIdentifier`, `TrackSignatureToTrackIdentifier`, `SubSectionRanges`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11441](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11441)
+[ue/ue.d.ts:11441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11441)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11442](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11442)
+[ue/ue.d.ts:11442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11442)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11444](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11444)
+[ue/ue.d.ts:11444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11444)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11443)
+[ue/ue.d.ts:11443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11443)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11450](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11450)
+[ue/ue.d.ts:11450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11450)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11448](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11448)
+[ue/ue.d.ts:11448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11448)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11449](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11449)
+[ue/ue.d.ts:11449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11449)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:743](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L743)
+[ue/ue.d.ts:743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L743)
 
 • **new TireFrictionScalePair**(`TireType`, `FrictionScale`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:744](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L744)
+[ue/ue.d.ts:744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L744)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:746](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L746)
+[ue/ue.d.ts:746](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L746)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:745](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L745)
+[ue/ue.d.ts:745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L745)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:752](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L752)
+[ue/ue.d.ts:752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L752)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:750](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L750)
+[ue/ue.d.ts:750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L750)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:751](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L751)
+[ue/ue.d.ts:751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L751)

@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66084](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66084)
+[ue/ue.d.ts:66084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66084)
 
 • **new VehicleTransmissionData**(`bUseGearAutoBox`, `GearSwitchTime`, `GearAutoBoxLatency`, `FinalRatio`, `ForwardGears`, `ReverseGearRatio`, `NeutralGearUpRatio`, `ClutchStrength`)
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66085](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66085)
+[ue/ue.d.ts:66085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66085)
 
 ## Properties
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66093](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66093)
+[ue/ue.d.ts:66093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66093)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66089](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66089)
+[ue/ue.d.ts:66089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66089)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66090](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66090)
+[ue/ue.d.ts:66090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66090)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66088](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66088)
+[ue/ue.d.ts:66088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66088)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66087](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66087)
+[ue/ue.d.ts:66087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66087)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66092)
+[ue/ue.d.ts:66092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66092)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66091)
+[ue/ue.d.ts:66091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66091)
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66099](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66099)
+[ue/ue.d.ts:66099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66099)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66086](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66086)
+[ue/ue.d.ts:66086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66086)
 
 ## Methods
 
@@ -162,7 +162,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:66097](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66097)
+[ue/ue.d.ts:66097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66097)
 
 ___
 
@@ -176,4 +176,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66098](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66098)
+[ue/ue.d.ts:66098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66098)

@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4844](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4844)
+[ue/ue.d.ts:4844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4844)
 
 • **new BakedAnimationState**(`StateName`, `Transitions`, `StateRootNodeIndex`, `StartNotify`, `EndNotify`, `FullyBlendedNotify`, `bIsAConduit`, `EntryRuleNodeIndex`, `PlayerNodeIndices`, `LayerNodeIndices`, `bAlwaysResetOnEntry`)
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4845](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4845)
+[ue/ue.d.ts:4845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4845)
 
 ## Properties
 
@@ -70,7 +70,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4850](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4850)
+[ue/ue.d.ts:4850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4850)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4853](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4853)
+[ue/ue.d.ts:4853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4853)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4851](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4851)
+[ue/ue.d.ts:4851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4851)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4855](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4855)
+[ue/ue.d.ts:4855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4855)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4854](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4854)
+[ue/ue.d.ts:4854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4854)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4849](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4849)
+[ue/ue.d.ts:4849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4849)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4846](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4846)
+[ue/ue.d.ts:4846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4846)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4848](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4848)
+[ue/ue.d.ts:4848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4848)
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4847](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4847)
+[ue/ue.d.ts:4847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4847)
 
 ___
 
@@ -160,7 +160,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4862](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4862)
+[ue/ue.d.ts:4862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4862)
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4856](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4856)
+[ue/ue.d.ts:4856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4856)
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4852](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4852)
+[ue/ue.d.ts:4852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4852)
 
 ## Methods
 
@@ -198,7 +198,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4860](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4860)
+[ue/ue.d.ts:4860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4860)
 
 ___
 
@@ -212,4 +212,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4861](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4861)
+[ue/ue.d.ts:4861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4861)

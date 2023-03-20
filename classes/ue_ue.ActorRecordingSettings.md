@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13950](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13950)
+[ue/ue.d.ts:13950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13950)
 
 • **new ActorRecordingSettings**(`Settings`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13951](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13951)
+[ue/ue.d.ts:13951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13951)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13952](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13952)
+[ue/ue.d.ts:13952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13952)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13958](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13958)
+[ue/ue.d.ts:13958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13958)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:13956](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13956)
+[ue/ue.d.ts:13956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13956)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13957](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13957)
+[ue/ue.d.ts:13957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13957)

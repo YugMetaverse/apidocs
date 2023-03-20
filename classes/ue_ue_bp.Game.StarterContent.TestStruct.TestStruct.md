@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue_bp.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_bp.d.ts#L301)
+[ue/ue_bp.d.ts:301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L301)
 
 • **new TestStruct**(`speed`, `age`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue_bp.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_bp.d.ts#L302)
+[ue/ue_bp.d.ts:302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L302)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue_bp.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_bp.d.ts#L310)
+[ue/ue_bp.d.ts:310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L310)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue_bp.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_bp.d.ts#L304)
+[ue/ue_bp.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L304)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue_bp.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_bp.d.ts#L303)
+[ue/ue_bp.d.ts:303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L303)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue_bp.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_bp.d.ts#L308)
+[ue/ue_bp.d.ts:308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L308)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue_bp.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue_bp.d.ts#L309)
+[ue/ue_bp.d.ts:309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue_bp.d.ts#L309)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1249](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1249)
+[ue/ue.d.ts:1249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1249)
 
 • **new MaterialShadingModelField**(`ShadingModelField`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1250](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1250)
+[ue/ue.d.ts:1250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1250)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1251](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1251)
+[ue/ue.d.ts:1251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1251)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1257](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1257)
+[ue/ue.d.ts:1257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1257)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1255](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1255)
+[ue/ue.d.ts:1255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1255)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1256](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1256)
+[ue/ue.d.ts:1256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1256)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32139](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32139)
+[ue/ue.d.ts:32139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32139)
 
 • **new VirtualKeyboardOptions**(`bEnableAutocorrect`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32140](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32140)
+[ue/ue.d.ts:32140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32140)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32147](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32147)
+[ue/ue.d.ts:32147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32147)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32141](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32141)
+[ue/ue.d.ts:32141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32141)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:32145](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32145)
+[ue/ue.d.ts:32145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32145)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32146](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32146)
+[ue/ue.d.ts:32146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32146)

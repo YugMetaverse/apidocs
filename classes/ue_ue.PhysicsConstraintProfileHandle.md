@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3795)
+[ue/ue.d.ts:3795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3795)
 
 • **new PhysicsConstraintProfileHandle**(`ProfileProperties`, `ProfileName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3796)
+[ue/ue.d.ts:3796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3796)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3798](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3798)
+[ue/ue.d.ts:3798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3798)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3797](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3797)
+[ue/ue.d.ts:3797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3797)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3804](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3804)
+[ue/ue.d.ts:3804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3804)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3802](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3802)
+[ue/ue.d.ts:3802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3802)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3803](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3803)
+[ue/ue.d.ts:3803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3803)

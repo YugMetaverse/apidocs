@@ -45,4 +45,4 @@ set the meta data' value
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:2007](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L2007)
+[ue/puerts_decorators.d.ts:2007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L2007)

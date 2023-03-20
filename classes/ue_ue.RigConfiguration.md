@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2498](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2498)
+[ue/ue.d.ts:2498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2498)
 
 • **new RigConfiguration**(`Rig`, `BoneMappingTable`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2499](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2499)
+[ue/ue.d.ts:2499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2499)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2501](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2501)
+[ue/ue.d.ts:2501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2501)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2500](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2500)
+[ue/ue.d.ts:2500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2500)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2507](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2507)
+[ue/ue.d.ts:2507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2507)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2505](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2505)
+[ue/ue.d.ts:2505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2505)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2506](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2506)
+[ue/ue.d.ts:2506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2506)

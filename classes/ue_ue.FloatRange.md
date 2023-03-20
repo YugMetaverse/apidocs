@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11671](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11671)
+[ue/ue.d.ts:11671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11671)
 
 • **new FloatRange**(`LowerBound`, `UpperBound`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11672](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11672)
+[ue/ue.d.ts:11672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11672)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11673](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11673)
+[ue/ue.d.ts:11673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11673)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11674](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11674)
+[ue/ue.d.ts:11674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11674)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11680](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11680)
+[ue/ue.d.ts:11680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11680)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11678](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11678)
+[ue/ue.d.ts:11678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11678)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11679](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11679)
+[ue/ue.d.ts:11679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11679)

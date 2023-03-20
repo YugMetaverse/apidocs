@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4695](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4695)
+[ue/ue.d.ts:4695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4695)
 
 • **new AnimGroupInfo**(`Name`, `Color`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4696)
+[ue/ue.d.ts:4696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4696)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4698](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4698)
+[ue/ue.d.ts:4698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4698)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4697](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4697)
+[ue/ue.d.ts:4697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4697)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4704)
+[ue/ue.d.ts:4704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4704)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4702)
+[ue/ue.d.ts:4702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4702)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4703](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4703)
+[ue/ue.d.ts:4703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4703)

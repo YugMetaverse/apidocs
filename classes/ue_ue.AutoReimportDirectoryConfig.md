@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33099](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33099)
+[ue/ue.d.ts:33099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33099)
 
 • **new AutoReimportDirectoryConfig**(`SourceDirectory`, `MountPoint`, `Wildcards`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33100](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33100)
+[ue/ue.d.ts:33100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33100)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33102](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33102)
+[ue/ue.d.ts:33102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33102)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33101](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33101)
+[ue/ue.d.ts:33101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33101)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33103](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33103)
+[ue/ue.d.ts:33103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33103)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33109](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33109)
+[ue/ue.d.ts:33109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33109)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:33107](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33107)
+[ue/ue.d.ts:33107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33107)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33108](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33108)
+[ue/ue.d.ts:33108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33108)

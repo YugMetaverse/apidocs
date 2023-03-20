@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65460](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65460)
+[ue/ue.d.ts:65460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65460)
 
 • **new VoiceSettings**(`ComponentToAttachTo`, `AttenuationSettings`, `SourceEffectChain`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65461](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65461)
+[ue/ue.d.ts:65461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65461)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65463](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65463)
+[ue/ue.d.ts:65463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65463)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65462](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65462)
+[ue/ue.d.ts:65462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65462)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65464](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65464)
+[ue/ue.d.ts:65464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65464)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65470](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65470)
+[ue/ue.d.ts:65470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65470)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:65468](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65468)
+[ue/ue.d.ts:65468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65468)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65469](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65469)
+[ue/ue.d.ts:65469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65469)

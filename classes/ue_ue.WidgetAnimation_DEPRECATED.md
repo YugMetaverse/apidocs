@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33632](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33632)
+[ue/ue.d.ts:33632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33632)
 
 • **new WidgetAnimation_DEPRECATED**(`MovieScene`, `AnimationBindings`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33633](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33633)
+[ue/ue.d.ts:33633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33633)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33635](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33635)
+[ue/ue.d.ts:33635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33635)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33634](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33634)
+[ue/ue.d.ts:33634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33634)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33641)
+[ue/ue.d.ts:33641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33641)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:33639](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33639)
+[ue/ue.d.ts:33639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33639)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33640](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33640)
+[ue/ue.d.ts:33640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33640)

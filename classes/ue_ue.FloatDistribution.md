@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:56465](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L56465)
+[ue/ue.d.ts:56465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56465)
 
 • **new FloatDistribution**(`Table`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:56466](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L56466)
+[ue/ue.d.ts:56466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56466)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:56467](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L56467)
+[ue/ue.d.ts:56467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56467)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:56473](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L56473)
+[ue/ue.d.ts:56473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56473)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:56471](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L56471)
+[ue/ue.d.ts:56471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56471)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:56472](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L56472)
+[ue/ue.d.ts:56472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L56472)

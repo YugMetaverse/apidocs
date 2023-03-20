@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2119)
+[ue/ue.d.ts:2119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2119)
 
 • **new StaticParameterSet**(`StaticSwitchParameters`, `StaticComponentMaskParameters`, `TerrainLayerWeightParameters`, `MaterialLayersParameters`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2120)
+[ue/ue.d.ts:2120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2120)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2124](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2124)
+[ue/ue.d.ts:2124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2124)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2122](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2122)
+[ue/ue.d.ts:2122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2122)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2121](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2121)
+[ue/ue.d.ts:2121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2121)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2123](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2123)
+[ue/ue.d.ts:2123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2123)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2130](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2130)
+[ue/ue.d.ts:2130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2130)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2128](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2128)
+[ue/ue.d.ts:2128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2128)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2129](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2129)
+[ue/ue.d.ts:2129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2129)

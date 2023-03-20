@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55006](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55006)
+[ue/ue.d.ts:55006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55006)
 
 • **new IntMargin**(`Left`, `Top`, `Right`, `Bottom`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55007](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55007)
+[ue/ue.d.ts:55007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55007)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55011)
+[ue/ue.d.ts:55011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55011)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55008](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55008)
+[ue/ue.d.ts:55008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55008)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55010](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55010)
+[ue/ue.d.ts:55010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55010)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55009](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55009)
+[ue/ue.d.ts:55009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55009)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55017](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55017)
+[ue/ue.d.ts:55017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55017)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:55015](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55015)
+[ue/ue.d.ts:55015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55015)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55016](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55016)
+[ue/ue.d.ts:55016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55016)

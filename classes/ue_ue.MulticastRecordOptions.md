@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9864](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9864)
+[ue/ue.d.ts:9864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9864)
 
 • **new MulticastRecordOptions**(`FuncPathName`, `bServerSkip`, `bClientSkip`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9865](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9865)
+[ue/ue.d.ts:9865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9865)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9866](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9866)
+[ue/ue.d.ts:9866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9866)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9874](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9874)
+[ue/ue.d.ts:9874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9874)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9868](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9868)
+[ue/ue.d.ts:9868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9868)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9867](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9867)
+[ue/ue.d.ts:9867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9867)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9872](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9872)
+[ue/ue.d.ts:9872](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9872)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9873](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9873)
+[ue/ue.d.ts:9873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9873)

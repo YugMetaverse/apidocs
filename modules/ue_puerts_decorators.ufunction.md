@@ -106,7 +106,7 @@ the meta data
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:735](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L735)
+[ue/puerts_decorators.d.ts:735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L735)
 
 ___
 
@@ -120,7 +120,7 @@ the meta data with one key for class meta
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:919](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L919)
+[ue/puerts_decorators.d.ts:919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L919)
 
 ## Variables
 
@@ -139,7 +139,7 @@ currently not supported
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:958](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L958)
+[ue/puerts_decorators.d.ts:958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L958)
 
 ___
 
@@ -157,7 +157,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1307](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1307)
+[ue/puerts_decorators.d.ts:1307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1307)
 
 ___
 
@@ -175,7 +175,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1315](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1315)
+[ue/puerts_decorators.d.ts:1315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1315)
 
 ___
 
@@ -193,7 +193,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:966](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L966)
+[ue/puerts_decorators.d.ts:966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L966)
 
 ___
 
@@ -211,7 +211,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:974](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L974)
+[ue/puerts_decorators.d.ts:974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L974)
 
 ___
 
@@ -230,7 +230,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:983](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L983)
+[ue/puerts_decorators.d.ts:983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L983)
 
 ___
 
@@ -244,7 +244,7 @@ This function will not execute from blueprint code if running on something witho
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:831](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L831)
+[ue/puerts_decorators.d.ts:831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L831)
 
 ___
 
@@ -262,7 +262,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1223](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1223)
+[ue/puerts_decorators.d.ts:1223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1223)
 
 ___
 
@@ -276,7 +276,7 @@ This function can be called from blueprint code and should be exposed to the use
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:809](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L809)
+[ue/puerts_decorators.d.ts:809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L809)
 
 ___
 
@@ -290,7 +290,7 @@ This function is cosmetic and will not run on dedicated servers
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:837](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L837)
+[ue/puerts_decorators.d.ts:837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L837)
 
 ___
 
@@ -308,7 +308,7 @@ metadata "BlueprintGetter" will be discarded
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:817](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L817)
+[ue/puerts_decorators.d.ts:817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L817)
 
 ___
 
@@ -323,7 +323,7 @@ This function is designed to be overridden by a blueprint.  Do not provide a bod
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:742](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L742)
+[ue/puerts_decorators.d.ts:742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L742)
 
 ___
 
@@ -341,7 +341,7 @@ currently not supported
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:927](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L927)
+[ue/puerts_decorators.d.ts:927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L927)
 
 ___
 
@@ -357,7 +357,7 @@ This function is designed to be overridden by a blueprint, but also has a native
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:750](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L750)
+[ue/puerts_decorators.d.ts:750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L750)
 
 ___
 
@@ -375,7 +375,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:991](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L991)
+[ue/puerts_decorators.d.ts:991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L991)
 
 ___
 
@@ -389,7 +389,7 @@ This function fulfills a contract of producing no side effects, and additionally
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:803](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L803)
+[ue/puerts_decorators.d.ts:803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L803)
 
 ___
 
@@ -407,7 +407,7 @@ metadata "BlueprintSetter" will be discarded
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:825](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L825)
+[ue/puerts_decorators.d.ts:825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L825)
 
 ___
 
@@ -421,7 +421,7 @@ This function can be called in the editor on selected instances via a button in 
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:843](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L843)
+[ue/puerts_decorators.d.ts:843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L843)
 
 ___
 
@@ -439,7 +439,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:999](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L999)
+[ue/puerts_decorators.d.ts:999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L999)
 
 ___
 
@@ -454,7 +454,7 @@ Specifies the category of the function when displayed in blueprint editing tools
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:858](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L858)
+[ue/puerts_decorators.d.ts:858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L858)
 
 ___
 
@@ -469,7 +469,7 @@ This function is replicated, and executed on clients.  Provide a body named [Fun
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:777](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L777)
+[ue/puerts_decorators.d.ts:777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L777)
 
 ___
 
@@ -487,7 +487,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1007](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1007)
+[ue/puerts_decorators.d.ts:1007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1007)
 
 ___
 
@@ -501,7 +501,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1013](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1013)
+[ue/puerts_decorators.d.ts:1013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1013)
 
 ___
 
@@ -519,7 +519,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1021](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1021)
+[ue/puerts_decorators.d.ts:1021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1021)
 
 ___
 
@@ -537,7 +537,7 @@ currently custom thunk is meaningless for ufunction
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:851](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L851)
+[ue/puerts_decorators.d.ts:851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L851)
 
 ___
 
@@ -555,7 +555,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1255](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1255)
+[ue/puerts_decorators.d.ts:1255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1255)
 
 ___
 
@@ -573,7 +573,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1029](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1029)
+[ue/puerts_decorators.d.ts:1029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1029)
 
 ___
 
@@ -587,7 +587,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1035](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1035)
+[ue/puerts_decorators.d.ts:1035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1035)
 
 ___
 
@@ -601,7 +601,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1041](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1041)
+[ue/puerts_decorators.d.ts:1041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1041)
 
 ___
 
@@ -619,7 +619,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1239](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1239)
+[ue/puerts_decorators.d.ts:1239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1239)
 
 ___
 
@@ -637,7 +637,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1066)
+[ue/puerts_decorators.d.ts:1066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1066)
 
 ___
 
@@ -655,7 +655,7 @@ currently not supported
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:949](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L949)
+[ue/puerts_decorators.d.ts:949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L949)
 
 ___
 
@@ -673,7 +673,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1247)
+[ue/puerts_decorators.d.ts:1247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1247)
 
 ___
 
@@ -687,7 +687,7 @@ This function is executable from the command line.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:763](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L763)
+[ue/puerts_decorators.d.ts:763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L763)
 
 ___
 
@@ -705,7 +705,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1058](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1058)
+[ue/puerts_decorators.d.ts:1058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1058)
 
 ___
 
@@ -724,7 +724,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1050](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1050)
+[ue/puerts_decorators.d.ts:1050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1050)
 
 ___
 
@@ -742,7 +742,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1145](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1145)
+[ue/puerts_decorators.d.ts:1145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1145)
 
 ___
 
@@ -760,7 +760,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1153](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1153)
+[ue/puerts_decorators.d.ts:1153](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1153)
 
 ___
 
@@ -778,7 +778,7 @@ currently not supported
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:907](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L907)
+[ue/puerts_decorators.d.ts:907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L907)
 
 ___
 
@@ -792,7 +792,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1159](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1159)
+[ue/puerts_decorators.d.ts:1159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1159)
 
 ___
 
@@ -810,7 +810,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1167](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1167)
+[ue/puerts_decorators.d.ts:1167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1167)
 
 ___
 
@@ -828,7 +828,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1175](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1175)
+[ue/puerts_decorators.d.ts:1175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1175)
 
 ___
 
@@ -846,7 +846,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1279](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1279)
+[ue/puerts_decorators.d.ts:1279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1279)
 
 ___
 
@@ -864,7 +864,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1271](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1271)
+[ue/puerts_decorators.d.ts:1271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1271)
 
 ___
 
@@ -882,7 +882,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1287](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1287)
+[ue/puerts_decorators.d.ts:1287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1287)
 
 ___
 
@@ -900,7 +900,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1183](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1183)
+[ue/puerts_decorators.d.ts:1183](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1183)
 
 ___
 
@@ -918,7 +918,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1191](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1191)
+[ue/puerts_decorators.d.ts:1191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1191)
 
 ___
 
@@ -936,7 +936,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1199)
+[ue/puerts_decorators.d.ts:1199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1199)
 
 ___
 
@@ -950,7 +950,7 @@ This function is both executed locally on the server and replicated to all clien
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:783](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L783)
+[ue/puerts_decorators.d.ts:783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L783)
 
 ___
 
@@ -968,7 +968,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1231](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1231)
+[ue/puerts_decorators.d.ts:1231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1231)
 
 ___
 
@@ -983,7 +983,7 @@ Replication of calls to this function should be done on a reliable channel.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:790](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L790)
+[ue/puerts_decorators.d.ts:790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L790)
 
 ___
 
@@ -1001,7 +1001,7 @@ currently not supported
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L899)
+[ue/puerts_decorators.d.ts:899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L899)
 
 ___
 
@@ -1021,7 +1021,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1129](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1129)
+[ue/puerts_decorators.d.ts:1129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1129)
 
 ___
 
@@ -1039,7 +1039,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1137](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1137)
+[ue/puerts_decorators.d.ts:1137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1137)
 
 ___
 
@@ -1058,7 +1058,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1091)
+[ue/puerts_decorators.d.ts:1091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1091)
 
 ___
 
@@ -1076,7 +1076,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1099](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1099)
+[ue/puerts_decorators.d.ts:1099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1099)
 
 ___
 
@@ -1094,7 +1094,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1074)
+[ue/puerts_decorators.d.ts:1074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1074)
 
 ___
 
@@ -1112,7 +1112,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1082)
+[ue/puerts_decorators.d.ts:1082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1082)
 
 ___
 
@@ -1142,7 +1142,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1119)
+[ue/puerts_decorators.d.ts:1119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1119)
 
 ___
 
@@ -1157,7 +1157,7 @@ This function is sealed and cannot be overridden in subclasses.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:757](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L757)
+[ue/puerts_decorators.d.ts:757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L757)
 
 ___
 
@@ -1172,7 +1172,7 @@ This function is replicated, and executed on servers.  Provide a body named [Fun
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:770](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L770)
+[ue/puerts_decorators.d.ts:770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L770)
 
 ___
 
@@ -1190,7 +1190,7 @@ no way to inject information to uht
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:874](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L874)
+[ue/puerts_decorators.d.ts:874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L874)
 
 ___
 
@@ -1208,7 +1208,7 @@ no way to inject information to uht
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:882](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L882)
+[ue/puerts_decorators.d.ts:882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L882)
 
 ___
 
@@ -1226,7 +1226,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1263](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1263)
+[ue/puerts_decorators.d.ts:1263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1263)
 
 ___
 
@@ -1244,7 +1244,7 @@ currently not supported
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:941](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L941)
+[ue/puerts_decorators.d.ts:941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L941)
 
 ___
 
@@ -1258,7 +1258,7 @@ Overrides the automatically generated tooltip from the class comment
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L933)
+[ue/puerts_decorators.d.ts:933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L933)
 
 ___
 
@@ -1273,7 +1273,7 @@ Replication of calls to this function can be done on an unreliable channel.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:797](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L797)
+[ue/puerts_decorators.d.ts:797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L797)
 
 ___
 
@@ -1291,7 +1291,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1207)
+[ue/puerts_decorators.d.ts:1207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1207)
 
 ___
 
@@ -1310,7 +1310,7 @@ currently not supported
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:891](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L891)
+[ue/puerts_decorators.d.ts:891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L891)
 
 ___
 
@@ -1328,7 +1328,7 @@ metadata for WithValidation is discarded
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:866](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L866)
+[ue/puerts_decorators.d.ts:866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L866)
 
 ___
 
@@ -1346,7 +1346,7 @@ currently not supported by blueprint function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1215](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1215)
+[ue/puerts_decorators.d.ts:1215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1215)
 
 ## Functions
 
@@ -1368,7 +1368,7 @@ decorator used to add function specifier
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:913](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L913)
+[ue/puerts_decorators.d.ts:913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L913)
 
 ___
 
@@ -1390,4 +1390,4 @@ the decorator used to add meta data to function
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1321](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1321)
+[ue/puerts_decorators.d.ts:1321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1321)

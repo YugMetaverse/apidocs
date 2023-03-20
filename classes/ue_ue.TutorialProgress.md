@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64303](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64303)
+[ue/ue.d.ts:64303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64303)
 
 • **new TutorialProgress**(`Tutorial`, `CurrentStage`, `bUserDismissed`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64304](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64304)
+[ue/ue.d.ts:64304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64304)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64306](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64306)
+[ue/ue.d.ts:64306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64306)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64305](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64305)
+[ue/ue.d.ts:64305](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64305)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64313](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64313)
+[ue/ue.d.ts:64313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64313)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64307](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64307)
+[ue/ue.d.ts:64307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64307)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64311](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64311)
+[ue/ue.d.ts:64311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64311)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64312](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64312)
+[ue/ue.d.ts:64312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64312)

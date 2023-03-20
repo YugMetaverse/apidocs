@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45820](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45820)
+[ue/ue.d.ts:45820](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45820)
 
 • **new LiveLinkSubjectName**(`Name`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45821](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45821)
+[ue/ue.d.ts:45821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45821)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45822](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45822)
+[ue/ue.d.ts:45822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45822)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45828](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45828)
+[ue/ue.d.ts:45828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45828)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:45826](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45826)
+[ue/ue.d.ts:45826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45826)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45827](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45827)
+[ue/ue.d.ts:45827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45827)

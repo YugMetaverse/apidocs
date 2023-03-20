@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9195](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9195)
+[ue/ue.d.ts:9195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9195)
 
 • **new ReplicatedStaticActorDestructionInfo**(`ObjClass`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9196](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9196)
+[ue/ue.d.ts:9196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9196)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9197](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9197)
+[ue/ue.d.ts:9197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9197)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9203](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9203)
+[ue/ue.d.ts:9203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9203)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9201](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9201)
+[ue/ue.d.ts:9201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9201)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9202](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9202)
+[ue/ue.d.ts:9202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9202)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11318](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11318)
+[ue/ue.d.ts:11318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11318)
 
 • **new FrameNumber**(`Value`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11319](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11319)
+[ue/ue.d.ts:11319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11319)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11320](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11320)
+[ue/ue.d.ts:11320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11320)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11326](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11326)
+[ue/ue.d.ts:11326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11326)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11324](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11324)
+[ue/ue.d.ts:11324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11324)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11325](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11325)
+[ue/ue.d.ts:11325](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11325)

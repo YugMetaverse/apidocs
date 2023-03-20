@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4306](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4306)
+[ue/ue.d.ts:4306](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4306)
 
 • **new BPComponentClassOverride**(`ComponentName`, `ComponentClass`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4307](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4307)
+[ue/ue.d.ts:4307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4307)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4309](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4309)
+[ue/ue.d.ts:4309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4309)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4308](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4308)
+[ue/ue.d.ts:4308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4308)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4315](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4315)
+[ue/ue.d.ts:4315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4315)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4313](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4313)
+[ue/ue.d.ts:4313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4313)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4314](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4314)
+[ue/ue.d.ts:4314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4314)

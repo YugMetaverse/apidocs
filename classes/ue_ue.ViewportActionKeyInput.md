@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14333](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14333)
+[ue/ue.d.ts:14333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14333)
 
 • **new ViewportActionKeyInput**(`ActionType`, `Event`, `bIsInputCaptured`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14334](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14334)
+[ue/ue.d.ts:14334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14334)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14335](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14335)
+[ue/ue.d.ts:14335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14335)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14336](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14336)
+[ue/ue.d.ts:14336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14336)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14343](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14343)
+[ue/ue.d.ts:14343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14343)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14337](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14337)
+[ue/ue.d.ts:14337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14337)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14341](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14341)
+[ue/ue.d.ts:14341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14341)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14342](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14342)
+[ue/ue.d.ts:14342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14342)

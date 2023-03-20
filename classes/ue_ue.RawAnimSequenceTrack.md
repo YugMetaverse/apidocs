@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20537](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20537)
+[ue/ue.d.ts:20537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20537)
 
 • **new RawAnimSequenceTrack**(`PosKeys`, `RotKeys`, `ScaleKeys`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20538](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20538)
+[ue/ue.d.ts:20538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20538)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20539](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20539)
+[ue/ue.d.ts:20539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20539)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20540](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20540)
+[ue/ue.d.ts:20540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20540)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20541](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20541)
+[ue/ue.d.ts:20541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20541)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20547](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20547)
+[ue/ue.d.ts:20547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20547)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:20545](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20545)
+[ue/ue.d.ts:20545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20545)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20546](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20546)
+[ue/ue.d.ts:20546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20546)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32636](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32636)
+[ue/ue.d.ts:32636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32636)
 
 • **new NetDriverDefinition**(`DefName`, `DriverClassName`, `DriverClassNameFallback`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32637](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32637)
+[ue/ue.d.ts:32637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32637)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32638](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32638)
+[ue/ue.d.ts:32638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32638)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32639](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32639)
+[ue/ue.d.ts:32639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32639)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32640](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32640)
+[ue/ue.d.ts:32640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32640)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32646](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32646)
+[ue/ue.d.ts:32646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32646)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:32644](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32644)
+[ue/ue.d.ts:32644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32644)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32645](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32645)
+[ue/ue.d.ts:32645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32645)

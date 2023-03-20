@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55386](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55386)
+[ue/ue.d.ts:55386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55386)
 
 • **new BeamModifierOptions**(`bModify`, `bScale`, `bLock`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55387](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55387)
+[ue/ue.d.ts:55387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55387)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55396)
+[ue/ue.d.ts:55396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55396)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55390](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55390)
+[ue/ue.d.ts:55390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55390)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55388](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55388)
+[ue/ue.d.ts:55388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55388)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55389](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55389)
+[ue/ue.d.ts:55389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55389)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:55394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55394)
+[ue/ue.d.ts:55394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55394)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55395)
+[ue/ue.d.ts:55395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55395)

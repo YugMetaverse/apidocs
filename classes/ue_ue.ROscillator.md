@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7424](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7424)
+[ue/ue.d.ts:7424](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7424)
 
 • **new ROscillator**(`Pitch`, `Yaw`, `Roll`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7425](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7425)
+[ue/ue.d.ts:7425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7425)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7426](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7426)
+[ue/ue.d.ts:7426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7426)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7428](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7428)
+[ue/ue.d.ts:7428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7428)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7427](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7427)
+[ue/ue.d.ts:7427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7427)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7434](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7434)
+[ue/ue.d.ts:7434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7434)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7432](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7432)
+[ue/ue.d.ts:7432](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7432)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7433](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7433)
+[ue/ue.d.ts:7433](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7433)

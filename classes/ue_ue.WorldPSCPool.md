@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10273](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10273)
+[ue/ue.d.ts:10273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10273)
 
 • **new WorldPSCPool**(`WorldParticleSystemPools`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10274](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10274)
+[ue/ue.d.ts:10274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10274)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10275](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10275)
+[ue/ue.d.ts:10275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10275)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10281](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10281)
+[ue/ue.d.ts:10281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10281)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10279](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10279)
+[ue/ue.d.ts:10279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10279)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10280](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10280)
+[ue/ue.d.ts:10280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10280)

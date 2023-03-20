@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3370](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3370)
+[ue/ue.d.ts:3370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3370)
 
 • **new KShapeElem**(`RestOffset`, `Name`, `bContributeToMass`)
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3371](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3371)
+[ue/ue.d.ts:3371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3371)
 
 ## Properties
 
@@ -68,7 +68,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3373](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3373)
+[ue/ue.d.ts:3373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3373)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3372](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3372)
+[ue/ue.d.ts:3372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3372)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3380](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3380)
+[ue/ue.d.ts:3380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3380)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3374](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3374)
+[ue/ue.d.ts:3374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3374)
 
 ## Methods
 
@@ -116,7 +116,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3378](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3378)
+[ue/ue.d.ts:3378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3378)
 
 ___
 
@@ -130,4 +130,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3379](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3379)
+[ue/ue.d.ts:3379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3379)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37188](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37188)
+[ue/ue.d.ts:37188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37188)
 
 • **new RestrictedConfigInfo**(`RestrictedConfigName`, `Owners`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37189](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37189)
+[ue/ue.d.ts:37189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37189)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37191](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37191)
+[ue/ue.d.ts:37191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37191)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37190](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37190)
+[ue/ue.d.ts:37190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37190)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37197](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37197)
+[ue/ue.d.ts:37197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37197)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:37195](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37195)
+[ue/ue.d.ts:37195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37195)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37196](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37196)
+[ue/ue.d.ts:37196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37196)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36240](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36240)
+[ue/ue.d.ts:36240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36240)
 
 • **new RandomStream**(`InitialSeed`, `Seed`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36241](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36241)
+[ue/ue.d.ts:36241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36241)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36242](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36242)
+[ue/ue.d.ts:36242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36242)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36243](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36243)
+[ue/ue.d.ts:36243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36243)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36249](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36249)
+[ue/ue.d.ts:36249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36249)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36247](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36247)
+[ue/ue.d.ts:36247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36247)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36248](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36248)
+[ue/ue.d.ts:36248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36248)

@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60480](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60480)
+[ue/ue.d.ts:60480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60480)
 
 • **new ReplicatedVehicleState**(`SteeringInput`, `ThrottleInput`, `BrakeInput`, `HandbrakeInput`, `CurrentGear`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60481](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60481)
+[ue/ue.d.ts:60481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60481)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60484](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60484)
+[ue/ue.d.ts:60484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60484)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60486](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60486)
+[ue/ue.d.ts:60486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60486)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60485](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60485)
+[ue/ue.d.ts:60485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60485)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60482](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60482)
+[ue/ue.d.ts:60482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60482)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60483](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60483)
+[ue/ue.d.ts:60483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60483)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60492](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60492)
+[ue/ue.d.ts:60492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60492)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:60490](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60490)
+[ue/ue.d.ts:60490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60490)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60491](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60491)
+[ue/ue.d.ts:60491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60491)

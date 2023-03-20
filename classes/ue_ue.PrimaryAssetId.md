@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21678](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21678)
+[ue/ue.d.ts:21678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21678)
 
 • **new PrimaryAssetId**(`PrimaryAssetType`, `PrimaryAssetName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21679](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21679)
+[ue/ue.d.ts:21679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21679)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21681](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21681)
+[ue/ue.d.ts:21681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21681)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21680](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21680)
+[ue/ue.d.ts:21680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21680)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21687](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21687)
+[ue/ue.d.ts:21687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21687)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:21685](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21685)
+[ue/ue.d.ts:21685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21685)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21686](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21686)
+[ue/ue.d.ts:21686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21686)

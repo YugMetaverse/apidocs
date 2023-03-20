@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45992](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45992)
+[ue/ue.d.ts:45992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45992)
 
 • **new GatherTextExcludePath**(`PathRoot`, `Pattern`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45993](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45993)
+[ue/ue.d.ts:45993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45993)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45994](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45994)
+[ue/ue.d.ts:45994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45994)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45995](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45995)
+[ue/ue.d.ts:45995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45995)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46001](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46001)
+[ue/ue.d.ts:46001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46001)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:45999](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45999)
+[ue/ue.d.ts:45999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45999)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46000](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46000)
+[ue/ue.d.ts:46000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46000)

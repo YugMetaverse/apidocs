@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2314](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2314)
+[ue/ue.d.ts:2314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2314)
 
 • **new BoneNode**(`Name`, `ParentIndex`, `TranslationRetargetingMode`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2315](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2315)
+[ue/ue.d.ts:2315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2315)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2316](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2316)
+[ue/ue.d.ts:2316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2316)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2317](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2317)
+[ue/ue.d.ts:2317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2317)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2318](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2318)
+[ue/ue.d.ts:2318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2318)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2324](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2324)
+[ue/ue.d.ts:2324](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2324)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2322](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2322)
+[ue/ue.d.ts:2322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2322)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2323](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2323)
+[ue/ue.d.ts:2323](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2323)

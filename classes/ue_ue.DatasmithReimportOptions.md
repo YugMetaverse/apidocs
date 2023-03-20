@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29717](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29717)
+[ue/ue.d.ts:29717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29717)
 
 • **new DatasmithReimportOptions**(`bUpdateActors`, `bRespawnDeletedActors`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29718](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29718)
+[ue/ue.d.ts:29718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29718)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29726](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29726)
+[ue/ue.d.ts:29726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29726)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29720](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29720)
+[ue/ue.d.ts:29720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29720)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29719](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29719)
+[ue/ue.d.ts:29719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29719)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29724](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29724)
+[ue/ue.d.ts:29724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29724)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29725](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29725)
+[ue/ue.d.ts:29725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29725)

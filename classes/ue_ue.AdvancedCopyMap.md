@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21987](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21987)
+[ue/ue.d.ts:21987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21987)
 
 • **new AdvancedCopyMap**(`ClassToCopy`, `AdvancedCopyCustomization`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21988](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21988)
+[ue/ue.d.ts:21988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21988)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:21990](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21990)
+[ue/ue.d.ts:21990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21990)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21989](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21989)
+[ue/ue.d.ts:21989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21989)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21996](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21996)
+[ue/ue.d.ts:21996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21996)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:21994](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21994)
+[ue/ue.d.ts:21994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21994)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21995](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21995)
+[ue/ue.d.ts:21995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21995)

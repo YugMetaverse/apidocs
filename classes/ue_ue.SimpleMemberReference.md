@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:273](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L273)
+[ue/ue.d.ts:273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L273)
 
 • **new SimpleMemberReference**(`MemberParent`, `MemberName`, `MemberGuid`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:274](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L274)
+[ue/ue.d.ts:274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L274)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:277](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L277)
+[ue/ue.d.ts:277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L277)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:276](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L276)
+[ue/ue.d.ts:276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L276)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:275](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L275)
+[ue/ue.d.ts:275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L275)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:283](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L283)
+[ue/ue.d.ts:283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L283)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:281](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L281)
+[ue/ue.d.ts:281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L281)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:282](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L282)
+[ue/ue.d.ts:282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L282)

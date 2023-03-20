@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30245](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30245)
+[ue/ue.d.ts:30245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30245)
 
 • **new DebugCameraControllerSettingsViewModeIndex**(`ViewModeIndex`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30246](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30246)
+[ue/ue.d.ts:30246](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30246)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30247](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30247)
+[ue/ue.d.ts:30247](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30247)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30253](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30253)
+[ue/ue.d.ts:30253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30253)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30251](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30251)
+[ue/ue.d.ts:30251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30251)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30252](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30252)
+[ue/ue.d.ts:30252](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30252)

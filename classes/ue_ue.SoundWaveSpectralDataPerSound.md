@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16226](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16226)
+[ue/ue.d.ts:16226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16226)
 
 • **new SoundWaveSpectralDataPerSound**(`SpectralData`, `PlaybackTime`, `SoundWave`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16227](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16227)
+[ue/ue.d.ts:16227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16227)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16229](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16229)
+[ue/ue.d.ts:16229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16229)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16230](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16230)
+[ue/ue.d.ts:16230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16230)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16228](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16228)
+[ue/ue.d.ts:16228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16228)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16236](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16236)
+[ue/ue.d.ts:16236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16236)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16234](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16234)
+[ue/ue.d.ts:16234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16234)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16235](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16235)
+[ue/ue.d.ts:16235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16235)

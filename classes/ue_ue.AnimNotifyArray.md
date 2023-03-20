@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5032](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5032)
+[ue/ue.d.ts:5032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5032)
 
 • **new AnimNotifyArray**(`Notifies`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5033](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5033)
+[ue/ue.d.ts:5033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5033)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5034](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5034)
+[ue/ue.d.ts:5034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5034)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5040](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5040)
+[ue/ue.d.ts:5040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5040)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5038)
+[ue/ue.d.ts:5038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5038)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5039)
+[ue/ue.d.ts:5039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5039)

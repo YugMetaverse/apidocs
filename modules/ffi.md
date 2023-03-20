@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ffi/index.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L33)
+[ffi/index.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L33)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L10)
+[ffi/index.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L10)
 
 ## Functions
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L41)
+[ffi/index.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L41)
 
 ▸ **binding**(`funcIndex`, `returnType`, `parameterTypes`, `fixArgNum?`): `Function`
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:42](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L42)
+[ffi/index.d.ts:42](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L42)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L39)
+[ffi/index.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L39)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L37)
+[ffi/index.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L37)
 
 ___
 
@@ -151,4 +151,4 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:35](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L35)
+[ffi/index.d.ts:35](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L35)

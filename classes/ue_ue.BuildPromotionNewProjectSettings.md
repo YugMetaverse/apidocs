@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23072)
+[ue/ue.d.ts:23072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23072)
 
 • **new BuildPromotionNewProjectSettings**(`NewProjectFolderOverride`, `NewProjectNameOverride`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23073](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23073)
+[ue/ue.d.ts:23073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23073)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23074](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23074)
+[ue/ue.d.ts:23074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23074)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23075](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23075)
+[ue/ue.d.ts:23075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23075)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23081](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23081)
+[ue/ue.d.ts:23081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23081)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:23079](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23079)
+[ue/ue.d.ts:23079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23079)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23080](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23080)
+[ue/ue.d.ts:23080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23080)

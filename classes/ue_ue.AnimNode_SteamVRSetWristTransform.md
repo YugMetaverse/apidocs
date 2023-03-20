@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19814](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19814)
+[ue/ue.d.ts:19814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19814)
 
 • **new AnimNode_SteamVRSetWristTransform**(`ReferencePose`, `HandSkeleton`, `TargetPose`)
 
@@ -58,7 +58,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19815](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19815)
+[ue/ue.d.ts:19815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19815)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19817](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19817)
+[ue/ue.d.ts:19817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19817)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19816](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19816)
+[ue/ue.d.ts:19816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19816)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19818](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19818)
+[ue/ue.d.ts:19818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19818)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19824](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19824)
+[ue/ue.d.ts:19824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19824)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19822](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19822)
+[ue/ue.d.ts:19822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19822)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19823](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19823)
+[ue/ue.d.ts:19823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19823)

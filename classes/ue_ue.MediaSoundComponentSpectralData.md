@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50372](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50372)
+[ue/ue.d.ts:50372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50372)
 
 • **new MediaSoundComponentSpectralData**(`FrequencyHz`, `Magnitude`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50373](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50373)
+[ue/ue.d.ts:50373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50373)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50374](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50374)
+[ue/ue.d.ts:50374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50374)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50375](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50375)
+[ue/ue.d.ts:50375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50375)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50381](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50381)
+[ue/ue.d.ts:50381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50381)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:50379](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50379)
+[ue/ue.d.ts:50379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50379)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50380](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50380)
+[ue/ue.d.ts:50380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50380)

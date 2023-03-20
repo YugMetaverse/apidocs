@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44166](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44166)
+[ue/ue.d.ts:44166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44166)
 
 • **new LandscapeLayerBrush**(`BlueprintBrush`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44167](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44167)
+[ue/ue.d.ts:44167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44167)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44168](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44168)
+[ue/ue.d.ts:44168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44168)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44174](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44174)
+[ue/ue.d.ts:44174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44174)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44172](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44172)
+[ue/ue.d.ts:44172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44172)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44173](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44173)
+[ue/ue.d.ts:44173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44173)

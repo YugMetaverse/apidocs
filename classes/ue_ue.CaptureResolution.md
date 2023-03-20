@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22567](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22567)
+[ue/ue.d.ts:22567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22567)
 
 • **new CaptureResolution**(`ResX`, `ResY`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22568](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22568)
+[ue/ue.d.ts:22568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22568)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22569](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22569)
+[ue/ue.d.ts:22569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22569)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22570](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22570)
+[ue/ue.d.ts:22570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22570)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22576](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22576)
+[ue/ue.d.ts:22576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22576)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:22574](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22574)
+[ue/ue.d.ts:22574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22574)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22575](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22575)
+[ue/ue.d.ts:22575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22575)

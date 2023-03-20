@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43224](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43224)
+[ue/ue.d.ts:43224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43224)
 
 • **new CollisionProfileName**(`Name`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43225](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43225)
+[ue/ue.d.ts:43225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43225)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43226](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43226)
+[ue/ue.d.ts:43226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43226)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43232](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43232)
+[ue/ue.d.ts:43232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43232)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43230](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43230)
+[ue/ue.d.ts:43230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43230)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43231](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43231)
+[ue/ue.d.ts:43231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43231)

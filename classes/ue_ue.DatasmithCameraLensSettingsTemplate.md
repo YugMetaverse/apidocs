@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29538](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29538)
+[ue/ue.d.ts:29538](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29538)
 
 • **new DatasmithCameraLensSettingsTemplate**(`MaxFStop`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29539](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29539)
+[ue/ue.d.ts:29539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29539)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29540](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29540)
+[ue/ue.d.ts:29540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29540)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29546](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29546)
+[ue/ue.d.ts:29546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29546)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29544](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29544)
+[ue/ue.d.ts:29544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29544)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29545](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29545)
+[ue/ue.d.ts:29545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29545)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62231](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62231)
+[ue/ue.d.ts:62231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62231)
 
 • **new SteamVRInputOriginInfo**(`TrackedDeviceIndex`, `RenderModelComponentName`, `TrackedDeviceModel`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62232](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62232)
+[ue/ue.d.ts:62232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62232)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62234](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62234)
+[ue/ue.d.ts:62234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62234)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62233](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62233)
+[ue/ue.d.ts:62233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62233)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62235](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62235)
+[ue/ue.d.ts:62235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62235)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62241](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62241)
+[ue/ue.d.ts:62241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62241)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:62239](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62239)
+[ue/ue.d.ts:62239](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62239)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62240](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62240)
+[ue/ue.d.ts:62240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62240)

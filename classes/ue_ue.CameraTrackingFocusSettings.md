@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27273](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27273)
+[ue/ue.d.ts:27273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27273)
 
 • **new CameraTrackingFocusSettings**(`ActorToTrack`, `RelativeOffset`, `bDrawDebugTrackingFocusPoint`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27274](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27274)
+[ue/ue.d.ts:27274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27274)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27275](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27275)
+[ue/ue.d.ts:27275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27275)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27276](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27276)
+[ue/ue.d.ts:27276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27276)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27283](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27283)
+[ue/ue.d.ts:27283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27283)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27277](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27277)
+[ue/ue.d.ts:27277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27277)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27281](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27281)
+[ue/ue.d.ts:27281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27281)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27282](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27282)
+[ue/ue.d.ts:27282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27282)

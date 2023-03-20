@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3144](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3144)
+[ue/ue.d.ts:3144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3144)
 
 • **new TrackToSkeletonMap**(`BoneTreeIndex`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3145](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3145)
+[ue/ue.d.ts:3145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3145)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3146](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3146)
+[ue/ue.d.ts:3146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3146)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3152](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3152)
+[ue/ue.d.ts:3152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3152)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3150](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3150)
+[ue/ue.d.ts:3150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3150)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3151](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3151)
+[ue/ue.d.ts:3151](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3151)

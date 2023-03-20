@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27672](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27672)
+[ue/ue.d.ts:27672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27672)
 
 • **new ClothCollisionPrim_Sphere**(`BoneIndex`, `Radius`, `LocalPosition`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27673](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27673)
+[ue/ue.d.ts:27673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27673)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27674](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27674)
+[ue/ue.d.ts:27674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27674)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27676](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27676)
+[ue/ue.d.ts:27676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27676)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27675](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27675)
+[ue/ue.d.ts:27675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27675)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27682](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27682)
+[ue/ue.d.ts:27682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27682)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27680](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27680)
+[ue/ue.d.ts:27680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27680)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27681](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27681)
+[ue/ue.d.ts:27681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27681)

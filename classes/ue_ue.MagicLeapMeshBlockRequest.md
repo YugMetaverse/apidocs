@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46892)
+[ue/ue.d.ts:46892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46892)
 
 • **new MagicLeapMeshBlockRequest**(`BlockID`, `LevelOfDetail`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46893)
+[ue/ue.d.ts:46893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46893)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46894](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46894)
+[ue/ue.d.ts:46894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46894)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46895](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46895)
+[ue/ue.d.ts:46895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46895)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46901](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46901)
+[ue/ue.d.ts:46901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46901)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46899)
+[ue/ue.d.ts:46899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46899)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46900](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46900)
+[ue/ue.d.ts:46900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46900)

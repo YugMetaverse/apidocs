@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[ue/puerts.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L51)
+[ue/puerts.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L51)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:55](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L55)
+[ue/puerts.d.ts:55](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L55)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:60](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L60)
+[ue/puerts.d.ts:60](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L60)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:56](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L56)
+[ue/puerts.d.ts:56](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L56)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:52](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L52)
+[ue/puerts.d.ts:52](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L52)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:58](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L58)
+[ue/puerts.d.ts:58](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L58)
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:53](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L53)
+[ue/puerts.d.ts:53](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L53)
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:59](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L59)
+[ue/puerts.d.ts:59](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L59)
 
 ___
 
@@ -185,7 +185,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L50)
+[ue/puerts.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L50)
 
 ___
 
@@ -205,4 +205,4 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:57](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L57)
+[ue/puerts.d.ts:57](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L57)

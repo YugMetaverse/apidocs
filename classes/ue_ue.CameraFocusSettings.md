@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27287](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27287)
+[ue/ue.d.ts:27287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27287)
 
 • **new CameraFocusSettings**(`FocusMethod`, `ManualFocusDistance`, `TrackingFocusSettings`, `bDrawDebugFocusPlane`, `DebugFocusPlaneColor`, `bSmoothFocusChanges`, `FocusSmoothingInterpSpeed`, `FocusOffset`)
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27288](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27288)
+[ue/ue.d.ts:27288](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27288)
 
 ## Properties
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27293](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27293)
+[ue/ue.d.ts:27293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27293)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27289](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27289)
+[ue/ue.d.ts:27289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27289)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27296](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27296)
+[ue/ue.d.ts:27296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27296)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27295](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27295)
+[ue/ue.d.ts:27295](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27295)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27290](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27290)
+[ue/ue.d.ts:27290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27290)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27291](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27291)
+[ue/ue.d.ts:27291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27291)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27302](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27302)
+[ue/ue.d.ts:27302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27302)
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27292](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27292)
+[ue/ue.d.ts:27292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27292)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27294](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27294)
+[ue/ue.d.ts:27294](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27294)
 
 ## Methods
 
@@ -162,7 +162,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27300](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27300)
+[ue/ue.d.ts:27300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27300)
 
 ___
 
@@ -176,4 +176,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27301](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27301)
+[ue/ue.d.ts:27301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27301)

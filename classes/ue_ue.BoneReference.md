@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2369](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2369)
+[ue/ue.d.ts:2369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2369)
 
 • **new BoneReference**(`BoneName`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2370](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2370)
+[ue/ue.d.ts:2370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2370)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2371](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2371)
+[ue/ue.d.ts:2371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2371)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2377](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2377)
+[ue/ue.d.ts:2377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2377)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2375](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2375)
+[ue/ue.d.ts:2375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2375)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2376](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2376)
+[ue/ue.d.ts:2376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2376)

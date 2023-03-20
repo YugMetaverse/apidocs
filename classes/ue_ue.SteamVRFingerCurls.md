@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62260](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62260)
+[ue/ue.d.ts:62260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62260)
 
 • **new SteamVRFingerCurls**(`Thumb`, `Index`, `Middle`, `Ring`, `Pinky`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62261](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62261)
+[ue/ue.d.ts:62261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62261)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62263](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62263)
+[ue/ue.d.ts:62263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62263)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62264](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62264)
+[ue/ue.d.ts:62264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62264)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62266](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62266)
+[ue/ue.d.ts:62266](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62266)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62265](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62265)
+[ue/ue.d.ts:62265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62265)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62262](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62262)
+[ue/ue.d.ts:62262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62262)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62272](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62272)
+[ue/ue.d.ts:62272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62272)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:62270](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62270)
+[ue/ue.d.ts:62270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62270)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62271](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62271)
+[ue/ue.d.ts:62271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62271)

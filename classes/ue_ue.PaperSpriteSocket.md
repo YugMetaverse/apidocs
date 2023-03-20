@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54456](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54456)
+[ue/ue.d.ts:54456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54456)
 
 • **new PaperSpriteSocket**(`LocalTransform`, `SocketName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54457](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54457)
+[ue/ue.d.ts:54457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54457)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54458](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54458)
+[ue/ue.d.ts:54458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54458)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54459](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54459)
+[ue/ue.d.ts:54459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54459)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54465](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54465)
+[ue/ue.d.ts:54465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54465)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:54463](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54463)
+[ue/ue.d.ts:54463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54463)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54464](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54464)
+[ue/ue.d.ts:54464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54464)

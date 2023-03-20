@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53002](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53002)
+[ue/ue.d.ts:53002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53002)
 
 • **new NavGraphNode**(`Owner`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53003](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53003)
+[ue/ue.d.ts:53003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53003)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53004](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53004)
+[ue/ue.d.ts:53004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53004)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53010](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53010)
+[ue/ue.d.ts:53010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53010)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:53008](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53008)
+[ue/ue.d.ts:53008](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53008)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53009](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53009)
+[ue/ue.d.ts:53009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53009)

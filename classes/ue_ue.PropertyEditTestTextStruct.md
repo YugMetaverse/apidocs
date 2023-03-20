@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58737](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58737)
+[ue/ue.d.ts:58737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58737)
 
 • **new PropertyEditTestTextStruct**(`NormalProperty`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58738](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58738)
+[ue/ue.d.ts:58738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58738)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58739](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58739)
+[ue/ue.d.ts:58739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58739)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58745](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58745)
+[ue/ue.d.ts:58745](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58745)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:58743](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58743)
+[ue/ue.d.ts:58743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58743)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58744](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58744)
+[ue/ue.d.ts:58744](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58744)

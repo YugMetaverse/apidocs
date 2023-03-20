@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31010](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31010)
+[ue/ue.d.ts:31010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31010)
 
 • **new InterpCurvePointVector2D**(`InVal`, `OutVal`, `ArriveTangent`, `LeaveTangent`, `InterpMode`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31011)
+[ue/ue.d.ts:31011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31011)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31014](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31014)
+[ue/ue.d.ts:31014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31014)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31012](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31012)
+[ue/ue.d.ts:31012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31012)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31016](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31016)
+[ue/ue.d.ts:31016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31016)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31015](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31015)
+[ue/ue.d.ts:31015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31015)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31013](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31013)
+[ue/ue.d.ts:31013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31013)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31022](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31022)
+[ue/ue.d.ts:31022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31022)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31020](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31020)
+[ue/ue.d.ts:31020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31020)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31021](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31021)
+[ue/ue.d.ts:31021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31021)

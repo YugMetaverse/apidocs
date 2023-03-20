@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ffi/index.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L13)
+[ffi/index.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L13)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ffi/index.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L15)
+[ffi/index.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L15)
 
 ## Methods
 
@@ -72,7 +72,7 @@
 
 #### Defined in
 
-[ffi/index.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L17)
+[ffi/index.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L17)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:23](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L23)
+[ffi/index.d.ts:23](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L23)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:19](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L19)
+[ffi/index.d.ts:19](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L19)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:25](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L25)
+[ffi/index.d.ts:25](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L25)
 
 ___
 
@@ -158,4 +158,4 @@ ___
 
 #### Defined in
 
-[ffi/index.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ffi/index.d.ts#L21)
+[ffi/index.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ffi/index.d.ts#L21)

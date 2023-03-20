@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4045](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4045)
+[ue/ue.d.ts:4045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4045)
 
 • **new SkeletalMeshSamplingInfo**(`Regions`, `BuiltData`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4046](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4046)
+[ue/ue.d.ts:4046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4046)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4048](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4048)
+[ue/ue.d.ts:4048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4048)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4047](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4047)
+[ue/ue.d.ts:4047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4047)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4054](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4054)
+[ue/ue.d.ts:4054](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4054)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4052](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4052)
+[ue/ue.d.ts:4052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4052)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4053](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4053)
+[ue/ue.d.ts:4053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4053)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46146](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46146)
+[ue/ue.d.ts:46146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46146)
 
 • **new LocalizationImportDialogueSettings**(`RawAudioPath`, `ImportedDialogueFolder`, `bImportNativeAsSource`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46147](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46147)
+[ue/ue.d.ts:46147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46147)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46149](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46149)
+[ue/ue.d.ts:46149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46149)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46148](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46148)
+[ue/ue.d.ts:46148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46148)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46156](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46156)
+[ue/ue.d.ts:46156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46156)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46150](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46150)
+[ue/ue.d.ts:46150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46150)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46154](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46154)
+[ue/ue.d.ts:46154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46154)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46155](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46155)
+[ue/ue.d.ts:46155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46155)

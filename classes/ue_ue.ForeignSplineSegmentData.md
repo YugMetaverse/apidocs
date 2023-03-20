@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43770](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43770)
+[ue/ue.d.ts:43770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43770)
 
 • **new ForeignSplineSegmentData**(`ModificationKey`, `MeshComponents`, `Identifier`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43771](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43771)
+[ue/ue.d.ts:43771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43771)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43774](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43774)
+[ue/ue.d.ts:43774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43774)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43773](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43773)
+[ue/ue.d.ts:43773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43773)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43772](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43772)
+[ue/ue.d.ts:43772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43772)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43780](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43780)
+[ue/ue.d.ts:43780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43780)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43778](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43778)
+[ue/ue.d.ts:43778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43778)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43779](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43779)
+[ue/ue.d.ts:43779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43779)

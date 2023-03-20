@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18618](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18618)
+[ue/ue.d.ts:18618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18618)
 
 • **new PerBoneBlendWeight**(`SourceIndex`, `BlendWeight`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18619](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18619)
+[ue/ue.d.ts:18619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18619)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18621)
+[ue/ue.d.ts:18621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18621)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18620)
+[ue/ue.d.ts:18620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18620)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18627](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18627)
+[ue/ue.d.ts:18627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18627)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18625](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18625)
+[ue/ue.d.ts:18625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18625)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18626)
+[ue/ue.d.ts:18626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18626)

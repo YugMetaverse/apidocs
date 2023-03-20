@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43784](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43784)
+[ue/ue.d.ts:43784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43784)
 
 • **new ForeignWorldSplineData**(`ForeignControlPointDataMap`, `ForeignControlPointData`, `ForeignSplineSegmentDataMap`, `ForeignSplineSegmentData`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43785](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43785)
+[ue/ue.d.ts:43785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43785)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43787](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43787)
+[ue/ue.d.ts:43787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43787)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43786](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43786)
+[ue/ue.d.ts:43786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43786)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43789](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43789)
+[ue/ue.d.ts:43789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43789)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43788)
+[ue/ue.d.ts:43788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43788)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43795)
+[ue/ue.d.ts:43795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43795)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43793](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43793)
+[ue/ue.d.ts:43793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43793)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43794](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43794)
+[ue/ue.d.ts:43794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43794)

@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7891](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7891)
+[ue/ue.d.ts:7891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7891)
 
 • **new ElementID**(`IDValue`)
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7892)
+[ue/ue.d.ts:7892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7892)
 
 ## Properties
 
@@ -66,7 +66,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7893)
+[ue/ue.d.ts:7893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7893)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7899)
+[ue/ue.d.ts:7899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7899)
 
 ## Methods
 
@@ -94,7 +94,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7897](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7897)
+[ue/ue.d.ts:7897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7897)
 
 ___
 
@@ -108,4 +108,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7898](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7898)
+[ue/ue.d.ts:7898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7898)

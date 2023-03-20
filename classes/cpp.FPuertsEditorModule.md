@@ -38,4 +38,4 @@
 
 #### Defined in
 
-[cpp/index.d.ts:18](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L18)
+[cpp/index.d.ts:18](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L18)

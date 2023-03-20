@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24079](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24079)
+[ue/ue.d.ts:24079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24079)
 
 • **new GameplayTagContainer**(`GameplayTags`, `ParentTags`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24080](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24080)
+[ue/ue.d.ts:24080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24080)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24081](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24081)
+[ue/ue.d.ts:24081](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24081)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24082](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24082)
+[ue/ue.d.ts:24082](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24082)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24088](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24088)
+[ue/ue.d.ts:24088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24088)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:24086](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24086)
+[ue/ue.d.ts:24086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24086)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24087](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24087)
+[ue/ue.d.ts:24087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24087)

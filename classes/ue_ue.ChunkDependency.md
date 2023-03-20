@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27201](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27201)
+[ue/ue.d.ts:27201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27201)
 
 • **new ChunkDependency**(`ChunkID`, `ParentChunkID`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27202](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27202)
+[ue/ue.d.ts:27202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27202)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27203](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27203)
+[ue/ue.d.ts:27203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27203)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27204](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27204)
+[ue/ue.d.ts:27204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27204)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27210](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27210)
+[ue/ue.d.ts:27210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27210)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27208](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27208)
+[ue/ue.d.ts:27208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27208)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27209](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27209)
+[ue/ue.d.ts:27209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27209)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14135](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14135)
+[ue/ue.d.ts:14135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14135)
 
 • **new MovieSceneSequenceLoopCount**(`Value`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14136](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14136)
+[ue/ue.d.ts:14136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14136)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14137](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14137)
+[ue/ue.d.ts:14137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14137)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14143](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14143)
+[ue/ue.d.ts:14143](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14143)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14141](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14141)
+[ue/ue.d.ts:14141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14141)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14142](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14142)
+[ue/ue.d.ts:14142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14142)

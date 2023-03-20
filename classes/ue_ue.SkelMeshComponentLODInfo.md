@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4588](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4588)
+[ue/ue.d.ts:4588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4588)
 
 • **new SkelMeshComponentLODInfo**(`HiddenMaterials`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4589](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4589)
+[ue/ue.d.ts:4589](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4589)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4590](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4590)
+[ue/ue.d.ts:4590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4590)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4596](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4596)
+[ue/ue.d.ts:4596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4596)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4594](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4594)
+[ue/ue.d.ts:4594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4594)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4595](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4595)
+[ue/ue.d.ts:4595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4595)

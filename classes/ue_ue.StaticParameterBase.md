@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2035](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2035)
+[ue/ue.d.ts:2035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2035)
 
 • **new StaticParameterBase**(`ParameterInfo`, `bOverride`, `ExpressionGUID`)
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2036](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2036)
+[ue/ue.d.ts:2036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2036)
 
 ## Properties
 
@@ -66,7 +66,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2039)
+[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2039)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2037)
+[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2037)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2045](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2045)
+[ue/ue.d.ts:2045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2045)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2038)
+[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2038)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2043](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2043)
+[ue/ue.d.ts:2043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2043)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2044](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2044)
+[ue/ue.d.ts:2044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2044)

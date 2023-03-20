@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31696)
+[ue/ue.d.ts:31696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31696)
 
 • **new VertexAttributesForPolygonHole**(`VertexAttributeList`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31697](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31697)
+[ue/ue.d.ts:31697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31697)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31698](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31698)
+[ue/ue.d.ts:31698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31698)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31704)
+[ue/ue.d.ts:31704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31704)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31702)
+[ue/ue.d.ts:31702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31702)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31703](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31703)
+[ue/ue.d.ts:31703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31703)

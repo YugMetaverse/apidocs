@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47191](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47191)
+[ue/ue.d.ts:47191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47191)
 
 • **new SomeData**(`Alignment`, `WillSerialize`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47192](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47192)
+[ue/ue.d.ts:47192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47192)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47193](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47193)
+[ue/ue.d.ts:47193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47193)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47194](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47194)
+[ue/ue.d.ts:47194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47194)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47200](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47200)
+[ue/ue.d.ts:47200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47200)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:47198](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47198)
+[ue/ue.d.ts:47198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47198)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47199)
+[ue/ue.d.ts:47199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47199)

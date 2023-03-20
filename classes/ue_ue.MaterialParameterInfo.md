@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1715](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1715)
+[ue/ue.d.ts:1715](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1715)
 
 • **new MaterialParameterInfo**(`Name`, `Association`, `Index`, `ParameterLocation`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1716](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1716)
+[ue/ue.d.ts:1716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1716)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1718](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1718)
+[ue/ue.d.ts:1718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1718)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1719](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1719)
+[ue/ue.d.ts:1719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1719)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1717](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1717)
+[ue/ue.d.ts:1717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1717)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1720](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1720)
+[ue/ue.d.ts:1720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1720)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1726](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1726)
+[ue/ue.d.ts:1726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1726)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1724](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1724)
+[ue/ue.d.ts:1724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1724)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1725](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1725)
+[ue/ue.d.ts:1725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1725)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39890](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39890)
+[ue/ue.d.ts:39890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39890)
 
 • **new EventTrackKey**(`Time`, `EventName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39891](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39891)
+[ue/ue.d.ts:39891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39891)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39893)
+[ue/ue.d.ts:39893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39893)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39892)
+[ue/ue.d.ts:39892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39892)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39899)
+[ue/ue.d.ts:39899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39899)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39897](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39897)
+[ue/ue.d.ts:39897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39897)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39898](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39898)
+[ue/ue.d.ts:39898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39898)

@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39668](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39668)
+[ue/ue.d.ts:39668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39668)
 
 • **new CameraPreviewInfo**(`PawnClass`, `AnimSeq`, `Location`, `Rotation`, `PawnInst`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39669](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39669)
+[ue/ue.d.ts:39669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39669)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39671](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39671)
+[ue/ue.d.ts:39671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39671)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39672](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39672)
+[ue/ue.d.ts:39672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39672)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39670](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39670)
+[ue/ue.d.ts:39670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39670)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39674](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39674)
+[ue/ue.d.ts:39674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39674)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39673](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39673)
+[ue/ue.d.ts:39673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39673)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39680](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39680)
+[ue/ue.d.ts:39680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39680)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39678](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39678)
+[ue/ue.d.ts:39678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39678)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39679](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39679)
+[ue/ue.d.ts:39679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39679)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13036](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13036)
+[ue/ue.d.ts:13036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13036)
 
 • **new CameraCutInfo**(`Location`, `TimeStamp`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13037)
+[ue/ue.d.ts:13037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13037)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13038)
+[ue/ue.d.ts:13038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13038)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13039)
+[ue/ue.d.ts:13039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13039)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13045](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13045)
+[ue/ue.d.ts:13045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13045)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:13043](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13043)
+[ue/ue.d.ts:13043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13043)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13044](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13044)
+[ue/ue.d.ts:13044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13044)

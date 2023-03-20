@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64925](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64925)
+[ue/ue.d.ts:64925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64925)
 
 • **new HardwareCursorReference**(`CursorPath`, `HotSpot`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64926](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64926)
+[ue/ue.d.ts:64926](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64926)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64927](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64927)
+[ue/ue.d.ts:64927](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64927)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64928)
+[ue/ue.d.ts:64928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64928)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64934](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64934)
+[ue/ue.d.ts:64934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64934)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64932)
+[ue/ue.d.ts:64932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64932)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64933)
+[ue/ue.d.ts:64933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64933)

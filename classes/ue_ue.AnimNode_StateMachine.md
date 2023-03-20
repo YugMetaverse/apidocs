@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19701](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19701)
+[ue/ue.d.ts:19701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19701)
 
 • **new AnimNode_StateMachine**(`StateMachineIndexInClass`, `MaxTransitionsPerFrame`, `bSkipFirstUpdateTransition`, `bReinitializeOnBecomingRelevant`)
 
@@ -60,7 +60,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19702)
+[ue/ue.d.ts:19702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19702)
 
 ## Properties
 
@@ -70,7 +70,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19704)
+[ue/ue.d.ts:19704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19704)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19703](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19703)
+[ue/ue.d.ts:19703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19703)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19712](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19712)
+[ue/ue.d.ts:19712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19712)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19706](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19706)
+[ue/ue.d.ts:19706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19706)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19705](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19705)
+[ue/ue.d.ts:19705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19705)
 
 ## Methods
 
@@ -132,7 +132,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19710](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19710)
+[ue/ue.d.ts:19710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19710)
 
 ___
 
@@ -150,4 +150,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19711](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19711)
+[ue/ue.d.ts:19711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19711)

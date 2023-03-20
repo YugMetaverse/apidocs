@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:34892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34892)
+[ue/ue.d.ts:34892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34892)
 
 • **new ExpandableAreaStyle**(`CollapsedImage`, `ExpandedImage`, `RolloutAnimationSeconds`)
 
@@ -58,7 +58,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:34893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34893)
+[ue/ue.d.ts:34893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34893)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:34894](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34894)
+[ue/ue.d.ts:34894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34894)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34895](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34895)
+[ue/ue.d.ts:34895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34895)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34896](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34896)
+[ue/ue.d.ts:34896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34896)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34902](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34902)
+[ue/ue.d.ts:34902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34902)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:34900](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34900)
+[ue/ue.d.ts:34900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34900)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34901](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34901)
+[ue/ue.d.ts:34901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34901)

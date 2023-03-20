@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18283](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18283)
+[ue/ue.d.ts:18283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18283)
 
 • **new FilterOptionPerAxis**(`bX`, `bY`, `bZ`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18284](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18284)
+[ue/ue.d.ts:18284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18284)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18293](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18293)
+[ue/ue.d.ts:18293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18293)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18285](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18285)
+[ue/ue.d.ts:18285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18285)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18286](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18286)
+[ue/ue.d.ts:18286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18286)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18287](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18287)
+[ue/ue.d.ts:18287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18287)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18291](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18291)
+[ue/ue.d.ts:18291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18291)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18292](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18292)
+[ue/ue.d.ts:18292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18292)

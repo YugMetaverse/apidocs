@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30084](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30084)
+[ue/ue.d.ts:30084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30084)
 
 • **new DatasmithMeshSectionInfoMapTemplate**(`Map`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30085](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30085)
+[ue/ue.d.ts:30085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30085)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30086](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30086)
+[ue/ue.d.ts:30086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30086)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30092)
+[ue/ue.d.ts:30092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30092)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30090](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30090)
+[ue/ue.d.ts:30090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30090)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30091)
+[ue/ue.d.ts:30091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30091)

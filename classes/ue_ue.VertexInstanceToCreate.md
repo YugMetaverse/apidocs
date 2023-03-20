@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31834](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31834)
+[ue/ue.d.ts:31834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31834)
 
 • **new VertexInstanceToCreate**(`VertexID`, `VertexInstanceAttributes`, `OriginalVertexInstanceID`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31835](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31835)
+[ue/ue.d.ts:31835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31835)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31838](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31838)
+[ue/ue.d.ts:31838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31838)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31836](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31836)
+[ue/ue.d.ts:31836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31836)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31837](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31837)
+[ue/ue.d.ts:31837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31837)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31844](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31844)
+[ue/ue.d.ts:31844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31844)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31842](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31842)
+[ue/ue.d.ts:31842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31842)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31843](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31843)
+[ue/ue.d.ts:31843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31843)

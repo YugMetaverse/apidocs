@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51782](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51782)
+[ue/ue.d.ts:51782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51782)
 
 • **new MovieSceneEventSectionData**(`Times`, `KeyValues`, `KeyTimes`)
 
@@ -58,7 +58,7 @@ UE.MovieSceneChannel.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:51783](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51783)
+[ue/ue.d.ts:51783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51783)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.MovieSceneChannel.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:51786](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51786)
+[ue/ue.d.ts:51786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51786)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51785](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51785)
+[ue/ue.d.ts:51785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51785)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51784](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51784)
+[ue/ue.d.ts:51784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51784)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51792](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51792)
+[ue/ue.d.ts:51792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51792)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:51790](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51790)
+[ue/ue.d.ts:51790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51790)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51791](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51791)
+[ue/ue.d.ts:51791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51791)

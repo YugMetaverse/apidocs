@@ -37799,7 +37799,7 @@ Re-exports [puerts_unreal_demoGameModeBase](../classes/ue_ue.puerts_unreal_demoG
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:104](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L104)
+[ue/puerts_decorators.d.ts:104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L104)
 
 ___
 
@@ -37813,7 +37813,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L46)
+[ue/puerts_decorators.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L46)
 
 ___
 
@@ -37827,7 +37827,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L48)
+[ue/puerts_decorators.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L48)
 
 ___
 
@@ -37847,4 +37847,4 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:102](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L102)
+[ue/puerts_decorators.d.ts:102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L102)

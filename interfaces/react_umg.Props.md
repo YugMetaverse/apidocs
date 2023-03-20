@@ -24,4 +24,4 @@
 
 #### Defined in
 
-[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L129)
+[react-umg/index.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L129)

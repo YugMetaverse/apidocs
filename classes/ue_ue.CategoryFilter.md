@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46346](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46346)
+[ue/ue.d.ts:46346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46346)
 
 • **new CategoryFilter**(`CategoryName`, `LogVerbosity`, `Enabled`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46347](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46347)
+[ue/ue.d.ts:46347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46347)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46348](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46348)
+[ue/ue.d.ts:46348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46348)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46350](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46350)
+[ue/ue.d.ts:46350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46350)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46349](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46349)
+[ue/ue.d.ts:46349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46349)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46356](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46356)
+[ue/ue.d.ts:46356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46356)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46354](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46354)
+[ue/ue.d.ts:46354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46354)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46355](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46355)
+[ue/ue.d.ts:46355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46355)

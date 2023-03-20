@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35138](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35138)
+[ue/ue.d.ts:35138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35138)
 
 • **new Int32Interval**(`Min`, `Max`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35139](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35139)
+[ue/ue.d.ts:35139](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35139)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35141](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35141)
+[ue/ue.d.ts:35141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35141)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35140](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35140)
+[ue/ue.d.ts:35140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35140)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35147](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35147)
+[ue/ue.d.ts:35147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35147)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:35145](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35145)
+[ue/ue.d.ts:35145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35145)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35146](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35146)
+[ue/ue.d.ts:35146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35146)

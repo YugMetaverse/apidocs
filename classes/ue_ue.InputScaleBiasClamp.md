@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17691](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17691)
+[ue/ue.d.ts:17691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17691)
 
 • **new InputScaleBiasClamp**(`bMapRange`, `bClampResult`, `bInterpResult`, `InRange`, `OutRange`, `Scale`, `Bias`, `ClampMin`, `ClampMax`, `InterpSpeedIncreasing`, `InterpSpeedDecreasing`)
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17692](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17692)
+[ue/ue.d.ts:17692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17692)
 
 ## Properties
 
@@ -70,7 +70,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17699](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17699)
+[ue/ue.d.ts:17699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17699)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17701](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17701)
+[ue/ue.d.ts:17701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17701)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17700](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17700)
+[ue/ue.d.ts:17700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17700)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17696)
+[ue/ue.d.ts:17696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17696)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17703](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17703)
+[ue/ue.d.ts:17703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17703)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17702)
+[ue/ue.d.ts:17702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17702)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17697](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17697)
+[ue/ue.d.ts:17697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17697)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17698](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17698)
+[ue/ue.d.ts:17698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17698)
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17709](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17709)
+[ue/ue.d.ts:17709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17709)
 
 ___
 
@@ -160,7 +160,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17694](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17694)
+[ue/ue.d.ts:17694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17694)
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17695](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17695)
+[ue/ue.d.ts:17695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17695)
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17693](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17693)
+[ue/ue.d.ts:17693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17693)
 
 ## Methods
 
@@ -198,7 +198,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:17707](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17707)
+[ue/ue.d.ts:17707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17707)
 
 ___
 
@@ -212,4 +212,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17708](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17708)
+[ue/ue.d.ts:17708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17708)

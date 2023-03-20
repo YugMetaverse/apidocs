@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52860](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52860)
+[ue/ue.d.ts:52860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52860)
 
 • **new NavCollisionCylinder**(`Offset`, `Radius`, `Height`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52861](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52861)
+[ue/ue.d.ts:52861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52861)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52864](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52864)
+[ue/ue.d.ts:52864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52864)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52862](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52862)
+[ue/ue.d.ts:52862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52862)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52863](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52863)
+[ue/ue.d.ts:52863](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52863)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52870](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52870)
+[ue/ue.d.ts:52870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52870)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:52868](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52868)
+[ue/ue.d.ts:52868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52868)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52869](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52869)
+[ue/ue.d.ts:52869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52869)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32539](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32539)
+[ue/ue.d.ts:32539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32539)
 
 • **new GameNameRedirect**(`OldGameName`, `NewGameName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32540](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32540)
+[ue/ue.d.ts:32540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32540)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32542](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32542)
+[ue/ue.d.ts:32542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32542)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32541](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32541)
+[ue/ue.d.ts:32541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32541)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32548](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32548)
+[ue/ue.d.ts:32548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32548)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:32546](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32546)
+[ue/ue.d.ts:32546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32546)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32547](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32547)
+[ue/ue.d.ts:32547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32547)

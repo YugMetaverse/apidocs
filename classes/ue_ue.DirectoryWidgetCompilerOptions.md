@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64446](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64446)
+[ue/ue.d.ts:64446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64446)
 
 • **new DirectoryWidgetCompilerOptions**(`Directory`, `IgnoredWidgets`, `Options`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64447](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64447)
+[ue/ue.d.ts:64447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64447)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64448](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64448)
+[ue/ue.d.ts:64448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64448)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64449](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64449)
+[ue/ue.d.ts:64449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64449)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64450](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64450)
+[ue/ue.d.ts:64450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64450)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64456](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64456)
+[ue/ue.d.ts:64456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64456)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64454](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64454)
+[ue/ue.d.ts:64454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64454)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64455](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64455)
+[ue/ue.d.ts:64455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64455)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62206](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62206)
+[ue/ue.d.ts:62206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62206)
 
 • **new SteamVRAction**(`Name`, `Path`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62207)
+[ue/ue.d.ts:62207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62207)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62208](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62208)
+[ue/ue.d.ts:62208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62208)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62209](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62209)
+[ue/ue.d.ts:62209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62209)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62215](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62215)
+[ue/ue.d.ts:62215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62215)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:62213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62213)
+[ue/ue.d.ts:62213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62213)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62214)
+[ue/ue.d.ts:62214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62214)

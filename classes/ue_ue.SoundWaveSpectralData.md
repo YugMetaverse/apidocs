@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16212](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16212)
+[ue/ue.d.ts:16212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16212)
 
 • **new SoundWaveSpectralData**(`FrequencyHz`, `Magnitude`, `NormalizedMagnitude`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16213)
+[ue/ue.d.ts:16213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16213)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16214)
+[ue/ue.d.ts:16214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16214)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16215](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16215)
+[ue/ue.d.ts:16215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16215)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16216](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16216)
+[ue/ue.d.ts:16216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16216)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16222](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16222)
+[ue/ue.d.ts:16222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16222)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16220](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16220)
+[ue/ue.d.ts:16220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16220)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16221](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16221)
+[ue/ue.d.ts:16221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16221)

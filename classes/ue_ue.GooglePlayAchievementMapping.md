@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16408](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16408)
+[ue/ue.d.ts:16408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16408)
 
 • **new GooglePlayAchievementMapping**(`Name`, `AchievementID`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16409](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16409)
+[ue/ue.d.ts:16409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16409)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16411](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16411)
+[ue/ue.d.ts:16411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16411)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16410](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16410)
+[ue/ue.d.ts:16410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16410)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16417](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16417)
+[ue/ue.d.ts:16417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16417)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16415](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16415)
+[ue/ue.d.ts:16415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16415)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16416](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16416)
+[ue/ue.d.ts:16416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16416)

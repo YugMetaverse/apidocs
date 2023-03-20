@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17206](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17206)
+[ue/ue.d.ts:17206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17206)
 
 • **new AnimNode_TransitionResult**(`bCanEnterTransition`)
 
@@ -54,7 +54,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:17207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17207)
+[ue/ue.d.ts:17207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17207)
 
 ## Properties
 
@@ -64,7 +64,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:17214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17214)
+[ue/ue.d.ts:17214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17214)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17208](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17208)
+[ue/ue.d.ts:17208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17208)
 
 ## Methods
 
@@ -96,7 +96,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:17212](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17212)
+[ue/ue.d.ts:17212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17212)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17213)
+[ue/ue.d.ts:17213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17213)

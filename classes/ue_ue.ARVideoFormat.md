@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20753](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20753)
+[ue/ue.d.ts:20753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20753)
 
 • **new ARVideoFormat**(`FPS`, `Width`, `Height`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20754](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20754)
+[ue/ue.d.ts:20754](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20754)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20755](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20755)
+[ue/ue.d.ts:20755](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20755)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20757](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20757)
+[ue/ue.d.ts:20757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20757)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20756](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20756)
+[ue/ue.d.ts:20756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20756)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20763](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20763)
+[ue/ue.d.ts:20763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20763)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:20761](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20761)
+[ue/ue.d.ts:20761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20761)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20762](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20762)
+[ue/ue.d.ts:20762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20762)

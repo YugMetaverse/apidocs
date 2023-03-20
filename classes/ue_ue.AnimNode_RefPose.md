@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18539](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18539)
+[ue/ue.d.ts:18539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18539)
 
 • **new AnimNode_RefPose**(`RefPoseType`)
 
@@ -54,7 +54,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18540](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18540)
+[ue/ue.d.ts:18540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18540)
 
 ## Properties
 
@@ -64,7 +64,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18541](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18541)
+[ue/ue.d.ts:18541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18541)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18547](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18547)
+[ue/ue.d.ts:18547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18547)
 
 ## Methods
 
@@ -96,7 +96,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18545](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18545)
+[ue/ue.d.ts:18545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18545)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18546](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18546)
+[ue/ue.d.ts:18546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18546)

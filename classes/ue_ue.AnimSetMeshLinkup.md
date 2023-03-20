@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20389](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20389)
+[ue/ue.d.ts:20389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20389)
 
 • **new AnimSetMeshLinkup**(`BoneToTrackTable`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20390](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20390)
+[ue/ue.d.ts:20390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20390)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20391](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20391)
+[ue/ue.d.ts:20391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20391)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20397](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20397)
+[ue/ue.d.ts:20397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20397)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:20395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20395)
+[ue/ue.d.ts:20395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20395)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20396)
+[ue/ue.d.ts:20396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20396)

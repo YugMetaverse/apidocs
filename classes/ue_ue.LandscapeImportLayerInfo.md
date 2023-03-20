@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44240](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44240)
+[ue/ue.d.ts:44240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44240)
 
 • **new LandscapeImportLayerInfo**(`LayerName`, `LayerInfo`, `SourceFilePath`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44241](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44241)
+[ue/ue.d.ts:44241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44241)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44243](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44243)
+[ue/ue.d.ts:44243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44243)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44242](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44242)
+[ue/ue.d.ts:44242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44242)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44244](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44244)
+[ue/ue.d.ts:44244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44244)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44250](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44250)
+[ue/ue.d.ts:44250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44250)
 
 ## Methods
 
@@ -108,7 +108,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44248](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44248)
+[ue/ue.d.ts:44248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44248)
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44249](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44249)
+[ue/ue.d.ts:44249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44249)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31931](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31931)
+[ue/ue.d.ts:31931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31931)
 
 • **new ChangeVertexInstancesForPolygon**(`PolygonID`, `PerimeterVertexIndicesAndInstanceIDs`, `VertexIndicesAndInstanceIDsForEachHole`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31932)
+[ue/ue.d.ts:31932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31932)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31934](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31934)
+[ue/ue.d.ts:31934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31934)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31933)
+[ue/ue.d.ts:31933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31933)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31935](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31935)
+[ue/ue.d.ts:31935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31935)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31941](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31941)
+[ue/ue.d.ts:31941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31941)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31939](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31939)
+[ue/ue.d.ts:31939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31939)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31940](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31940)
+[ue/ue.d.ts:31940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31940)

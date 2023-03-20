@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52063](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52063)
+[ue/ue.d.ts:52063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52063)
 
 • **new MovieSceneObjectPathChannelKeyValue**(`SoftPtr`, `HardPtr`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52064](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52064)
+[ue/ue.d.ts:52064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52064)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52066](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52066)
+[ue/ue.d.ts:52066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52066)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52065](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52065)
+[ue/ue.d.ts:52065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52065)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52072)
+[ue/ue.d.ts:52072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52072)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:52070](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52070)
+[ue/ue.d.ts:52070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52070)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52071](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52071)
+[ue/ue.d.ts:52071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52071)

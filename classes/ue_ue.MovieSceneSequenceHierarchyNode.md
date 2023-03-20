@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11402](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11402)
+[ue/ue.d.ts:11402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11402)
 
 • **new MovieSceneSequenceHierarchyNode**(`ParentID`, `Children`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11403](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11403)
+[ue/ue.d.ts:11403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11403)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11405](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11405)
+[ue/ue.d.ts:11405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11405)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11404](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11404)
+[ue/ue.d.ts:11404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11404)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11411](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11411)
+[ue/ue.d.ts:11411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11411)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11409](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11409)
+[ue/ue.d.ts:11409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11409)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11410](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11410)
+[ue/ue.d.ts:11410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11410)

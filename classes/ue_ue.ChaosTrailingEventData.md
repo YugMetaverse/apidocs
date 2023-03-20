@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27011)
+[ue/ue.d.ts:27011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27011)
 
 • **new ChaosTrailingEventData**(`Location`, `Velocity`, `AngularVelocity`, `Mass`, `ParticleIndex`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27012](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27012)
+[ue/ue.d.ts:27012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27012)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27015](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27015)
+[ue/ue.d.ts:27015](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27015)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27013](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27013)
+[ue/ue.d.ts:27013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27013)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27016](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27016)
+[ue/ue.d.ts:27016](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27016)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27017](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27017)
+[ue/ue.d.ts:27017](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27017)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27014](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27014)
+[ue/ue.d.ts:27014](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27014)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27023](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27023)
+[ue/ue.d.ts:27023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27023)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27021](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27021)
+[ue/ue.d.ts:27021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27021)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27022](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27022)
+[ue/ue.d.ts:27022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27022)

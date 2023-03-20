@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51821](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51821)
+[ue/ue.d.ts:51821](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51821)
 
 • **new MovieSceneEventChannel**(`KeyTimes`, `KeyValues`)
 
@@ -56,7 +56,7 @@ UE.MovieSceneChannel.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:51822](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51822)
+[ue/ue.d.ts:51822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51822)
 
 ## Properties
 
@@ -66,7 +66,7 @@ UE.MovieSceneChannel.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:51823](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51823)
+[ue/ue.d.ts:51823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51823)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51824](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51824)
+[ue/ue.d.ts:51824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51824)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51830](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51830)
+[ue/ue.d.ts:51830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51830)
 
 ## Methods
 
@@ -108,7 +108,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:51828](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51828)
+[ue/ue.d.ts:51828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51828)
 
 ___
 
@@ -126,4 +126,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51829](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51829)
+[ue/ue.d.ts:51829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51829)

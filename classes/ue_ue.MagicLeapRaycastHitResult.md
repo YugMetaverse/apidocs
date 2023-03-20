@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47033](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47033)
+[ue/ue.d.ts:47033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47033)
 
 • **new MagicLeapRaycastHitResult**(`HitState`, `HitPoint`, `Normal`, `Confidence`, `UserData`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47034](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47034)
+[ue/ue.d.ts:47034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47034)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47038)
+[ue/ue.d.ts:47038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47038)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47036](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47036)
+[ue/ue.d.ts:47036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47036)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47035](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47035)
+[ue/ue.d.ts:47035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47035)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47037)
+[ue/ue.d.ts:47037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47037)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47039)
+[ue/ue.d.ts:47039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47039)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47045](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47045)
+[ue/ue.d.ts:47045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47045)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:47043](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47043)
+[ue/ue.d.ts:47043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47043)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47044](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47044)
+[ue/ue.d.ts:47044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47044)

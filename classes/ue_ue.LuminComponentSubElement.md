@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46474](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46474)
+[ue/ue.d.ts:46474](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46474)
 
 • **new LuminComponentSubElement**(`ElementType`, `Value`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46475](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46475)
+[ue/ue.d.ts:46475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46475)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46476](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46476)
+[ue/ue.d.ts:46476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46476)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46477](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46477)
+[ue/ue.d.ts:46477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46477)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46483](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46483)
+[ue/ue.d.ts:46483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46483)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46481](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46481)
+[ue/ue.d.ts:46481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46481)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46482](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46482)
+[ue/ue.d.ts:46482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46482)

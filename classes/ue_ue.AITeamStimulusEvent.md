@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15902](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15902)
+[ue/ue.d.ts:15902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15902)
 
 • **new AITeamStimulusEvent**(`Broadcaster`, `Enemy`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15903](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15903)
+[ue/ue.d.ts:15903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15903)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15904](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15904)
+[ue/ue.d.ts:15904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15904)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15905](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15905)
+[ue/ue.d.ts:15905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15905)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15911](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15911)
+[ue/ue.d.ts:15911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15911)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:15909](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15909)
+[ue/ue.d.ts:15909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15909)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15910](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15910)
+[ue/ue.d.ts:15910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15910)

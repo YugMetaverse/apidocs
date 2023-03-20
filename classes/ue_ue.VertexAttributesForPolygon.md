@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31708](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31708)
+[ue/ue.d.ts:31708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31708)
 
 • **new VertexAttributesForPolygon**(`PolygonID`, `PerimeterVertexAttributeLists`, `VertexAttributeListsForEachHole`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31709](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31709)
+[ue/ue.d.ts:31709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31709)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31711](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31711)
+[ue/ue.d.ts:31711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31711)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31710](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31710)
+[ue/ue.d.ts:31710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31710)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31712](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31712)
+[ue/ue.d.ts:31712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31712)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31718](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31718)
+[ue/ue.d.ts:31718](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31718)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31716](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31716)
+[ue/ue.d.ts:31716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31716)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31717](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31717)
+[ue/ue.d.ts:31717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31717)

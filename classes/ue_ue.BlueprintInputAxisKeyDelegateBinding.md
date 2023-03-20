@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39162](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39162)
+[ue/ue.d.ts:39162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39162)
 
 • **new BlueprintInputAxisKeyDelegateBinding**(`AxisKey`, `FunctionNameToBind`)
 
@@ -59,7 +59,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39163](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39163)
+[ue/ue.d.ts:39163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39163)
 
 ## Properties
 
@@ -69,7 +69,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39164](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39164)
+[ue/ue.d.ts:39164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39164)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39165](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39165)
+[ue/ue.d.ts:39165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39165)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39171](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39171)
+[ue/ue.d.ts:39171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39171)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39103](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39103)
+[ue/ue.d.ts:39103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39103)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39104](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39104)
+[ue/ue.d.ts:39104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39104)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39105](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39105)
+[ue/ue.d.ts:39105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39105)
 
 ## Methods
 
@@ -153,7 +153,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39169](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39169)
+[ue/ue.d.ts:39169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39169)
 
 ___
 
@@ -171,4 +171,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39170](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39170)
+[ue/ue.d.ts:39170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39170)

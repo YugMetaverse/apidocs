@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11606](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11606)
+[ue/ue.d.ts:11606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11606)
 
 • **new MovieSceneObjectBindingIDs**(`IDs`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11607](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11607)
+[ue/ue.d.ts:11607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11607)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11608)
+[ue/ue.d.ts:11608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11608)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11614](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11614)
+[ue/ue.d.ts:11614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11614)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11612](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11612)
+[ue/ue.d.ts:11612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11612)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11613](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11613)
+[ue/ue.d.ts:11613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11613)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2829](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2829)
+[ue/ue.d.ts:2829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2829)
 
 • **new MarkerSyncData**(`AuthoredSyncMarkers`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2830](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2830)
+[ue/ue.d.ts:2830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2830)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2831](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2831)
+[ue/ue.d.ts:2831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2831)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2837](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2837)
+[ue/ue.d.ts:2837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2837)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2835](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2835)
+[ue/ue.d.ts:2835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2835)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2836](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2836)
+[ue/ue.d.ts:2836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2836)

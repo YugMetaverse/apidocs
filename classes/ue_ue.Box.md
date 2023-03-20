@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1569](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1569)
+[ue/ue.d.ts:1569](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1569)
 
 • **new Box**(`Min`, `Max`, `IsValid`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1570](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1570)
+[ue/ue.d.ts:1570](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1570)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1573](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1573)
+[ue/ue.d.ts:1573](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1573)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1572](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1572)
+[ue/ue.d.ts:1572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1572)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1571](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1571)
+[ue/ue.d.ts:1571](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1571)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1579](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1579)
+[ue/ue.d.ts:1579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1579)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1577](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1577)
+[ue/ue.d.ts:1577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1577)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1578](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1578)
+[ue/ue.d.ts:1578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1578)

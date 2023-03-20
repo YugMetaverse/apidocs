@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[cpp/index.d.ts:26](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L26)
+[cpp/index.d.ts:26](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L26)
 
 • **new TestClass**()
 
@@ -68,7 +68,7 @@ BaseClass.constructor
 
 #### Defined in
 
-[cpp/index.d.ts:27](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L27)
+[cpp/index.d.ts:27](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L27)
 
 ## Properties
 
@@ -78,7 +78,7 @@ BaseClass.constructor
 
 #### Defined in
 
-[cpp/index.d.ts:28](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L28)
+[cpp/index.d.ts:28](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L28)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:29](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L29)
+[cpp/index.d.ts:29](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L29)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:30](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L30)
+[cpp/index.d.ts:30](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L30)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:31](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L31)
+[cpp/index.d.ts:31](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L31)
 
 ## Methods
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:43](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L43)
+[cpp/index.d.ts:43](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L43)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L45)
+[cpp/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L45)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L14)
+[cpp/index.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L14)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L38)
+[cpp/index.d.ts:38](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L38)
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L39)
+[cpp/index.d.ts:39](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L39)
 
 ___
 
@@ -220,7 +220,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L46)
+[cpp/index.d.ts:46](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L46)
 
 ▸ **OverloadMethod**(`p0`): `number`
 
@@ -236,7 +236,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L47)
+[cpp/index.d.ts:47](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L47)
 
 ▸ **OverloadMethod**(`p0`): `bigint`
 
@@ -252,7 +252,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L48)
+[cpp/index.d.ts:48](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L48)
 
 ___
 
@@ -272,7 +272,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:42](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L42)
+[cpp/index.d.ts:42](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L42)
 
 ___
 
@@ -292,7 +292,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L40)
+[cpp/index.d.ts:40](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L40)
 
 ___
 
@@ -312,7 +312,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:44](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L44)
+[cpp/index.d.ts:44](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L44)
 
 ___
 
@@ -332,7 +332,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L41)
+[cpp/index.d.ts:41](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L41)
 
 ___
 
@@ -353,7 +353,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:32](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L32)
+[cpp/index.d.ts:32](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L32)
 
 ___
 
@@ -367,7 +367,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:34](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L34)
+[cpp/index.d.ts:34](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L34)
 
 ▸ `Static` **Overload**(`p0`): `void`
 
@@ -383,7 +383,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:35](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L35)
+[cpp/index.d.ts:35](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L35)
 
 ▸ `Static` **Overload**(`p0`, `p1`): `void`
 
@@ -400,7 +400,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L36)
+[cpp/index.d.ts:36](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L36)
 
 ▸ `Static` **Overload**(`p0`, `p1`): `void`
 
@@ -417,7 +417,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L37)
+[cpp/index.d.ts:37](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L37)
 
 ___
 
@@ -437,4 +437,4 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L33)
+[cpp/index.d.ts:33](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L33)

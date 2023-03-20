@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65618](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65618)
+[ue/ue.d.ts:65618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65618)
 
 • **new VREditorFloatingUICreationContext**(`WidgetClass`, `PanelID`, `ParentActor`, `PanelSpawnOffset`, `PanelSize`, `PanelMesh`, `EditorUISize`, `bHideWindowHandles`, `bMaskOutWidgetBackground`, `bNoCloseButton`)
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65619](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65619)
+[ue/ue.d.ts:65619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65619)
 
 ## Properties
 
@@ -68,7 +68,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65626)
+[ue/ue.d.ts:65626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65626)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65621)
+[ue/ue.d.ts:65621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65621)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65625](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65625)
+[ue/ue.d.ts:65625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65625)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65624)
+[ue/ue.d.ts:65624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65624)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65623](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65623)
+[ue/ue.d.ts:65623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65623)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65622)
+[ue/ue.d.ts:65622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65622)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65620)
+[ue/ue.d.ts:65620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65620)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65635](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65635)
+[ue/ue.d.ts:65635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65635)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65627](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65627)
+[ue/ue.d.ts:65627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65627)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65628](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65628)
+[ue/ue.d.ts:65628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65628)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65629](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65629)
+[ue/ue.d.ts:65629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65629)
 
 ## Methods
 
@@ -186,7 +186,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:65633](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65633)
+[ue/ue.d.ts:65633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65633)
 
 ___
 
@@ -200,4 +200,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65634](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65634)
+[ue/ue.d.ts:65634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65634)

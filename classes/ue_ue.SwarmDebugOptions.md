@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45460](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45460)
+[ue/ue.d.ts:45460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45460)
 
 • **new SwarmDebugOptions**(`bDistributionEnabled`, `bForceContentExport`, `bInitialized`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45461](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45461)
+[ue/ue.d.ts:45461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45461)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45470](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45470)
+[ue/ue.d.ts:45470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45470)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45462](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45462)
+[ue/ue.d.ts:45462](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45462)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45463](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45463)
+[ue/ue.d.ts:45463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45463)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45464](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45464)
+[ue/ue.d.ts:45464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45464)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:45468](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45468)
+[ue/ue.d.ts:45468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45468)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45469](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45469)
+[ue/ue.d.ts:45469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45469)

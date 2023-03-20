@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11766](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11766)
+[ue/ue.d.ts:11766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11766)
 
 • **new OptionalMovieSceneBlendType**(`BlendType`, `bIsValid`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11767](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11767)
+[ue/ue.d.ts:11767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11767)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11768](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11768)
+[ue/ue.d.ts:11768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11768)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11775](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11775)
+[ue/ue.d.ts:11775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11775)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11769](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11769)
+[ue/ue.d.ts:11769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11769)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11773](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11773)
+[ue/ue.d.ts:11773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11773)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11774](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11774)
+[ue/ue.d.ts:11774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11774)

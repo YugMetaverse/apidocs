@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17779](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17779)
+[ue/ue.d.ts:17779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17779)
 
 • **new AnimPhysPlanarLimit**(`DrivingBone`, `PlaneTransform`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17780](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17780)
+[ue/ue.d.ts:17780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17780)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17781](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17781)
+[ue/ue.d.ts:17781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17781)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17782](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17782)
+[ue/ue.d.ts:17782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17782)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17788)
+[ue/ue.d.ts:17788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17788)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:17786](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17786)
+[ue/ue.d.ts:17786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17786)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17787](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17787)
+[ue/ue.d.ts:17787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17787)

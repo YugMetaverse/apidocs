@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15594](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15594)
+[ue/ue.d.ts:15594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15594)
 
 • **new EnvQueryInstanceCache**(`Template`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15595](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15595)
+[ue/ue.d.ts:15595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15595)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15596](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15596)
+[ue/ue.d.ts:15596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15596)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15602](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15602)
+[ue/ue.d.ts:15602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15602)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:15600](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15600)
+[ue/ue.d.ts:15600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15600)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15601](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15601)
+[ue/ue.d.ts:15601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15601)

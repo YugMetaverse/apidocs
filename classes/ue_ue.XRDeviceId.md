@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22147](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22147)
+[ue/ue.d.ts:22147](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22147)
 
 • **new XRDeviceId**(`SystemName`, `DeviceId`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22148](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22148)
+[ue/ue.d.ts:22148](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22148)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22150](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22150)
+[ue/ue.d.ts:22150](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22150)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22149](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22149)
+[ue/ue.d.ts:22149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22149)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22156](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22156)
+[ue/ue.d.ts:22156](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22156)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:22154](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22154)
+[ue/ue.d.ts:22154](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22154)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22155](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22155)
+[ue/ue.d.ts:22155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22155)

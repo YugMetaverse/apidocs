@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:644](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L644)
+[ue/ue.d.ts:644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L644)
 
 • **new ResponseChannel**(`Channel`, `Response`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:645](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L645)
+[ue/ue.d.ts:645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L645)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:646](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L646)
+[ue/ue.d.ts:646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L646)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L647)
+[ue/ue.d.ts:647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L647)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:653](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L653)
+[ue/ue.d.ts:653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L653)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:651](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L651)
+[ue/ue.d.ts:651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L651)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:652](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L652)
+[ue/ue.d.ts:652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L652)

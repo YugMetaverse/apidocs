@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5057](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5057)
+[ue/ue.d.ts:5057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5057)
 
 • **new PoseSnapshot**(`LocalTransforms`, `BoneNames`, `SkeletalMeshName`, `SnapshotName`, `bIsValid`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5058](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5058)
+[ue/ue.d.ts:5058](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5058)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5060](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5060)
+[ue/ue.d.ts:5060](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5060)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5059](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5059)
+[ue/ue.d.ts:5059](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5059)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5061](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5061)
+[ue/ue.d.ts:5061](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5061)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5062](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5062)
+[ue/ue.d.ts:5062](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5062)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5069](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5069)
+[ue/ue.d.ts:5069](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5069)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5063](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5063)
+[ue/ue.d.ts:5063](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5063)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5067](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5067)
+[ue/ue.d.ts:5067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5067)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5068](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5068)
+[ue/ue.d.ts:5068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5068)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60157](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60157)
+[ue/ue.d.ts:60157](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60157)
 
 • **new SettingsForActorClass**(`Class`, `bRecordToPossessable`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60158](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60158)
+[ue/ue.d.ts:60158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60158)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60159](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60159)
+[ue/ue.d.ts:60159](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60159)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60166](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60166)
+[ue/ue.d.ts:60166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60166)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60160](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60160)
+[ue/ue.d.ts:60160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60160)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:60164](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60164)
+[ue/ue.d.ts:60164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60164)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60165](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60165)
+[ue/ue.d.ts:60165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60165)

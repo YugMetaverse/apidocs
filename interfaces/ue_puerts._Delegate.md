@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[ue/puerts.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L14)
+[ue/puerts.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L14)
 
 ▸ **Bind**(`target`, `methodName`): `void`
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/puerts.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L15)
+[ue/puerts.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L15)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:18](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L18)
+[ue/puerts.d.ts:18](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L18)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L17)
+[ue/puerts.d.ts:17](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L17)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L16)
+[ue/puerts.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L16)

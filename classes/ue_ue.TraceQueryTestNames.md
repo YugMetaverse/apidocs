@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36253](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36253)
+[ue/ue.d.ts:36253](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36253)
 
 • **new TraceQueryTestNames**(`ComponentName`, `PhysicalMaterialName`, `ActorName`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36254](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36254)
+[ue/ue.d.ts:36254](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36254)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36257](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36257)
+[ue/ue.d.ts:36257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36257)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36255](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36255)
+[ue/ue.d.ts:36255](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36255)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36256](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36256)
+[ue/ue.d.ts:36256](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36256)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36263](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36263)
+[ue/ue.d.ts:36263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36263)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36261](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36261)
+[ue/ue.d.ts:36261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36261)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36262](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36262)
+[ue/ue.d.ts:36262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36262)

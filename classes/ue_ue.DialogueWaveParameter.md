@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:61337](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61337)
+[ue/ue.d.ts:61337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61337)
 
 • **new DialogueWaveParameter**(`DialogueWave`, `Context`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:61338](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61338)
+[ue/ue.d.ts:61338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61338)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:61340](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61340)
+[ue/ue.d.ts:61340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61340)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:61339](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61339)
+[ue/ue.d.ts:61339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61339)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:61346](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61346)
+[ue/ue.d.ts:61346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61346)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:61344](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61344)
+[ue/ue.d.ts:61344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61344)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:61345](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61345)
+[ue/ue.d.ts:61345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61345)

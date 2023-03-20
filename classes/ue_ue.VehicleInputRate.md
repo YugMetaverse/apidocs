@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60496](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60496)
+[ue/ue.d.ts:60496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60496)
 
 • **new VehicleInputRate**(`RiseRate`, `FallRate`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60497](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60497)
+[ue/ue.d.ts:60497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60497)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60499](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60499)
+[ue/ue.d.ts:60499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60499)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60498](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60498)
+[ue/ue.d.ts:60498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60498)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60505](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60505)
+[ue/ue.d.ts:60505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60505)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:60503](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60503)
+[ue/ue.d.ts:60503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60503)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60504](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60504)
+[ue/ue.d.ts:60504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60504)

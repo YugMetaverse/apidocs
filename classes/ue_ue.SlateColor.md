@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10867](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10867)
+[ue/ue.d.ts:10867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10867)
 
 • **new SlateColor**(`SpecifiedColor`, `ColorUseRule`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10868](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10868)
+[ue/ue.d.ts:10868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10868)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10870](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10870)
+[ue/ue.d.ts:10870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10870)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10869](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10869)
+[ue/ue.d.ts:10869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10869)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10876](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10876)
+[ue/ue.d.ts:10876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10876)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10874](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10874)
+[ue/ue.d.ts:10874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10874)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10875](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10875)
+[ue/ue.d.ts:10875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10875)

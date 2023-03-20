@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40271](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40271)
+[ue/ue.d.ts:40271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40271)
 
 • **new ParticleReplayTrackKey**(`Time`, `Duration`, `ClipIDNumber`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40272](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40272)
+[ue/ue.d.ts:40272](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40272)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40275](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40275)
+[ue/ue.d.ts:40275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40275)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40274](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40274)
+[ue/ue.d.ts:40274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40274)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40273](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40273)
+[ue/ue.d.ts:40273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40273)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40281](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40281)
+[ue/ue.d.ts:40281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40281)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:40279](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40279)
+[ue/ue.d.ts:40279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40279)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40280](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40280)
+[ue/ue.d.ts:40280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40280)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30590](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30590)
+[ue/ue.d.ts:30590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30590)
 
 • **new FeaturePackLevelSet**(`DetailLevels`, `MountName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30591](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30591)
+[ue/ue.d.ts:30591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30591)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30592](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30592)
+[ue/ue.d.ts:30592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30592)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30593](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30593)
+[ue/ue.d.ts:30593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30593)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30599](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30599)
+[ue/ue.d.ts:30599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30599)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30597](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30597)
+[ue/ue.d.ts:30597](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30597)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30598](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30598)
+[ue/ue.d.ts:30598](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30598)

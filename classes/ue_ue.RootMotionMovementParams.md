@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5616](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5616)
+[ue/ue.d.ts:5616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5616)
 
 • **new RootMotionMovementParams**(`bHasRootMotion`, `BlendWeight`, `RootMotionTransform`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5617](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5617)
+[ue/ue.d.ts:5617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5617)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5619](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5619)
+[ue/ue.d.ts:5619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5619)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5620)
+[ue/ue.d.ts:5620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5620)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5626)
+[ue/ue.d.ts:5626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5626)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5618](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5618)
+[ue/ue.d.ts:5618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5618)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5624)
+[ue/ue.d.ts:5624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5624)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5625](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5625)
+[ue/ue.d.ts:5625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5625)

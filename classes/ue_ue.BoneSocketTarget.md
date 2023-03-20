@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18214)
+[ue/ue.d.ts:18214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18214)
 
 • **new BoneSocketTarget**(`bUseSocket`, `BoneReference`, `SocketReference`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18215](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18215)
+[ue/ue.d.ts:18215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18215)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18217](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18217)
+[ue/ue.d.ts:18217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18217)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18218](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18218)
+[ue/ue.d.ts:18218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18218)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18224](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18224)
+[ue/ue.d.ts:18224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18224)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18216](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18216)
+[ue/ue.d.ts:18216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18216)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18222](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18222)
+[ue/ue.d.ts:18222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18222)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18223](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18223)
+[ue/ue.d.ts:18223](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18223)

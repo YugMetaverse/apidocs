@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39203](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39203)
+[ue/ue.d.ts:39203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39203)
 
 • **new InputChord**(`Key`, `bShift`, `bCtrl`, `bAlt`, `bCmd`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39204](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39204)
+[ue/ue.d.ts:39204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39204)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39205](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39205)
+[ue/ue.d.ts:39205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39205)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39215](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39215)
+[ue/ue.d.ts:39215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39215)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39208](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39208)
+[ue/ue.d.ts:39208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39208)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39209](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39209)
+[ue/ue.d.ts:39209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39209)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39207)
+[ue/ue.d.ts:39207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39207)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39206](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39206)
+[ue/ue.d.ts:39206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39206)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39213)
+[ue/ue.d.ts:39213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39213)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39214)
+[ue/ue.d.ts:39214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39214)

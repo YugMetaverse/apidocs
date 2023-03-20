@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63992](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63992)
+[ue/ue.d.ts:63992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63992)
 
 • **new CustomizedToolMenuSection**(`Visibility`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63993](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63993)
+[ue/ue.d.ts:63993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63993)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63994](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63994)
+[ue/ue.d.ts:63994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63994)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64000](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64000)
+[ue/ue.d.ts:64000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64000)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:63998](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63998)
+[ue/ue.d.ts:63998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63998)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63999](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63999)
+[ue/ue.d.ts:63999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63999)

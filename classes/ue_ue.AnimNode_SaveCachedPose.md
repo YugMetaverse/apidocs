@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19500](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19500)
+[ue/ue.d.ts:19500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19500)
 
 • **new AnimNode_SaveCachedPose**(`Pose`, `CachePoseName`)
 
@@ -56,7 +56,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19501](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19501)
+[ue/ue.d.ts:19501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19501)
 
 ## Properties
 
@@ -66,7 +66,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19503](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19503)
+[ue/ue.d.ts:19503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19503)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19502](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19502)
+[ue/ue.d.ts:19502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19502)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19509](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19509)
+[ue/ue.d.ts:19509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19509)
 
 ## Methods
 
@@ -108,7 +108,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19507](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19507)
+[ue/ue.d.ts:19507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19507)
 
 ___
 
@@ -126,4 +126,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19508](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19508)
+[ue/ue.d.ts:19508](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19508)

@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51273](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51273)
+[ue/ue.d.ts:51273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51273)
 
 • **new MovieSceneBoolChannel**(`Times`, `DefaultValue`, `bHasDefaultValue`, `Values`)
 
@@ -60,7 +60,7 @@ UE.MovieSceneChannel.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:51274](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51274)
+[ue/ue.d.ts:51274](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51274)
 
 ## Properties
 
@@ -70,7 +70,7 @@ UE.MovieSceneChannel.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:51276](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51276)
+[ue/ue.d.ts:51276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51276)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51275](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51275)
+[ue/ue.d.ts:51275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51275)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51278](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51278)
+[ue/ue.d.ts:51278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51278)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51284](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51284)
+[ue/ue.d.ts:51284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51284)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51277](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51277)
+[ue/ue.d.ts:51277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51277)
 
 ## Methods
 
@@ -132,7 +132,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:51282](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51282)
+[ue/ue.d.ts:51282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51282)
 
 ___
 
@@ -150,4 +150,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51283](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51283)
+[ue/ue.d.ts:51283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51283)

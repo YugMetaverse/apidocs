@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4090](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4090)
+[ue/ue.d.ts:4090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4090)
 
 • **new BlueprintComponentChangedPropertyInfo**(`PropertyName`, `ArrayIndex`, `PropertyScope`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4091)
+[ue/ue.d.ts:4091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4091)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4093](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4093)
+[ue/ue.d.ts:4093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4093)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4092)
+[ue/ue.d.ts:4092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4092)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4094](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4094)
+[ue/ue.d.ts:4094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4094)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4100](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4100)
+[ue/ue.d.ts:4100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4100)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4098](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4098)
+[ue/ue.d.ts:4098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4098)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4099](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4099)
+[ue/ue.d.ts:4099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4099)

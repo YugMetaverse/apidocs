@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22705](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22705)
+[ue/ue.d.ts:22705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22705)
 
 • **new LevelSequenceSnapshotSettings**(`ZeroPadAmount`, `FrameRate`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22706](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22706)
+[ue/ue.d.ts:22706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22706)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22708](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22708)
+[ue/ue.d.ts:22708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22708)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22707](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22707)
+[ue/ue.d.ts:22707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22707)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22714](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22714)
+[ue/ue.d.ts:22714](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22714)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:22712](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22712)
+[ue/ue.d.ts:22712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22712)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22713](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22713)
+[ue/ue.d.ts:22713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22713)

@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18394)
+[ue/ue.d.ts:18394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18394)
 
 • **new AnimNode_CopyPoseFromMesh**(`SourceMeshComponent`, `bUseAttachedParent`, `bCopyCurves`)
 
@@ -58,7 +58,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18395)
+[ue/ue.d.ts:18395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18395)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18396)
+[ue/ue.d.ts:18396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18396)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18404](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18404)
+[ue/ue.d.ts:18404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18404)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18398](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18398)
+[ue/ue.d.ts:18398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18398)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18397](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18397)
+[ue/ue.d.ts:18397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18397)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18402](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18402)
+[ue/ue.d.ts:18402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18402)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18403](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18403)
+[ue/ue.d.ts:18403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18403)

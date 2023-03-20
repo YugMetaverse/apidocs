@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54094](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54094)
+[ue/ue.d.ts:54094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54094)
 
 • **new RedistPackage**(`Included`, `Name`, `Id`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54095](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54095)
+[ue/ue.d.ts:54095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54095)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54098](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54098)
+[ue/ue.d.ts:54098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54098)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54096](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54096)
+[ue/ue.d.ts:54096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54096)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54097](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54097)
+[ue/ue.d.ts:54097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54097)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54104](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54104)
+[ue/ue.d.ts:54104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54104)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:54102](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54102)
+[ue/ue.d.ts:54102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54102)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54103](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54103)
+[ue/ue.d.ts:54103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54103)

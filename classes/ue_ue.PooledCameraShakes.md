@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7694](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7694)
+[ue/ue.d.ts:7694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7694)
 
 • **new PooledCameraShakes**(`PooledShakes`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7695](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7695)
+[ue/ue.d.ts:7695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7695)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7696)
+[ue/ue.d.ts:7696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7696)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7702)
+[ue/ue.d.ts:7702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7702)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7700](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7700)
+[ue/ue.d.ts:7700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7700)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7701](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7701)
+[ue/ue.d.ts:7701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7701)

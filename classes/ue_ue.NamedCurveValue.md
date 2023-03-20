@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18418](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18418)
+[ue/ue.d.ts:18418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18418)
 
 • **new NamedCurveValue**(`Name`, `Value`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18419](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18419)
+[ue/ue.d.ts:18419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18419)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18420](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18420)
+[ue/ue.d.ts:18420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18420)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18421](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18421)
+[ue/ue.d.ts:18421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18421)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18427](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18427)
+[ue/ue.d.ts:18427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18427)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18425](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18425)
+[ue/ue.d.ts:18425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18425)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18426](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18426)
+[ue/ue.d.ts:18426](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18426)

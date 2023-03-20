@@ -54,7 +54,7 @@ Class is abstract and can't be instantiated directly.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:112](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L112)
+[ue/puerts_decorators.d.ts:112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L112)
 
 ___
 
@@ -66,7 +66,7 @@ Display properties in the editor without using categories.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L140)
+[ue/puerts_decorators.d.ts:140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L140)
 
 ___
 
@@ -78,7 +78,7 @@ Indicates that the class was created from blueprint source material
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L152)
+[ue/puerts_decorators.d.ts:152](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L152)
 
 ___
 
@@ -90,7 +90,7 @@ Load object configuration at construction time.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:116](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L116)
+[ue/puerts_decorators.d.ts:116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L116)
 
 ___
 
@@ -102,7 +102,7 @@ Indicates that object configuration will not check against ini base/defaults whe
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:180](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L180)
+[ue/puerts_decorators.d.ts:180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L180)
 
 ___
 
@@ -114,7 +114,7 @@ all properties and functions in this class are const and should be exported as c
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L146)
+[ue/puerts_decorators.d.ts:146](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L146)
 
 ___
 
@@ -126,7 +126,7 @@ Class has already been constructed (maybe in a previous DLL version before hot-r
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:178](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L178)
+[ue/puerts_decorators.d.ts:178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L178)
 
 ___
 
@@ -138,7 +138,7 @@ Do not export a constructor for this class, assuming it is in the cpptext *
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L144)
+[ue/puerts_decorators.d.ts:144](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L144)
 
 ___
 
@@ -150,7 +150,7 @@ Save object configuration only to Default INIs, never to local INIs. Must be com
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:114](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L114)
+[ue/puerts_decorators.d.ts:114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L114)
 
 ___
 
@@ -162,7 +162,7 @@ Indicates that references to this class default to instanced. Used to be subclas
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L161)
+[ue/puerts_decorators.d.ts:161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L161)
 
 ___
 
@@ -174,7 +174,7 @@ Don't save objects of this class when serializing
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:170](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L170)
+[ue/puerts_decorators.d.ts:170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L170)
 
 ___
 
@@ -186,7 +186,7 @@ Class can be constructed from editinline New button.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L138)
+[ue/puerts_decorators.d.ts:138](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L138)
 
 ___
 
@@ -198,7 +198,7 @@ Class settings are saved to <AppData>/..../Blah.ini (as opposed to CLASS_Default
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:174](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L174)
+[ue/puerts_decorators.d.ts:174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L174)
 
 ___
 
@@ -210,7 +210,7 @@ Class has component properties.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:166](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L166)
+[ue/puerts_decorators.d.ts:166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L166)
 
 ___
 
@@ -222,7 +222,7 @@ Don't show this class in the editor class browser or edit inline new menus.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:168](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L168)
+[ue/puerts_decorators.d.ts:168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L168)
 
 ___
 
@@ -234,7 +234,7 @@ Class not shown in editor drop down for class selection
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:172](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L172)
+[ue/puerts_decorators.d.ts:172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L172)
 
 ___
 
@@ -246,7 +246,7 @@ Class is an interface *
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L142)
+[ue/puerts_decorators.d.ts:142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L142)
 
 ___
 
@@ -258,7 +258,7 @@ Class was declared directly in C++ and has no boilerplate generated by UnrealHea
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:176](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L176)
+[ue/puerts_decorators.d.ts:176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L176)
 
 ___
 
@@ -270,7 +270,7 @@ Class flag indicating the class is having its layout changed, and therefore is n
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L149)
+[ue/puerts_decorators.d.ts:149](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L149)
 
 ___
 
@@ -280,7 +280,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:122](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L122)
+[ue/puerts_decorators.d.ts:122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L122)
 
 ___
 
@@ -292,7 +292,7 @@ Indicates that only the bare minimum bits of this class should be DLL exported/i
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L155)
+[ue/puerts_decorators.d.ts:155](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L155)
 
 ___
 
@@ -304,7 +304,7 @@ Class is a native class - native interfaces will have CLASS_Native set, but not 
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L126)
+[ue/puerts_decorators.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L126)
 
 ___
 
@@ -316,7 +316,7 @@ Class has been consigned to oblivion as part of a blueprint recompile, and a new
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:182](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L182)
+[ue/puerts_decorators.d.ts:182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L182)
 
 ___
 
@@ -328,7 +328,7 @@ Don't export to C++ header.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L128)
+[ue/puerts_decorators.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L128)
 
 ___
 
@@ -338,7 +338,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:110](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L110)
+[ue/puerts_decorators.d.ts:110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L110)
 
 ___
 
@@ -350,7 +350,7 @@ Do not allow users to create in the editor.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:130](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L130)
+[ue/puerts_decorators.d.ts:130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L130)
 
 ___
 
@@ -362,7 +362,7 @@ Successfully parsed.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L120)
+[ue/puerts_decorators.d.ts:120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L120)
 
 ___
 
@@ -374,7 +374,7 @@ Handle object configuration on a per-object basis, rather than per-class.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:132](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L132)
+[ue/puerts_decorators.d.ts:132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L132)
 
 ___
 
@@ -386,7 +386,7 @@ Indicates that the config settings for this class will be saved to Project/User*
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:124](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L124)
+[ue/puerts_decorators.d.ts:124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L124)
 
 ___
 
@@ -398,7 +398,7 @@ Whether SetUpRuntimeReplicationData still needs to be called for this class
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L135)
+[ue/puerts_decorators.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L135)
 
 ___
 
@@ -410,7 +410,7 @@ Indicates this class must be DLL exported/imported (along with all of it's membe
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L158)
+[ue/puerts_decorators.d.ts:158](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L158)
 
 ___
 
@@ -422,7 +422,7 @@ Indicates that the parent token stream has been merged with ours.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:164](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L164)
+[ue/puerts_decorators.d.ts:164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L164)
 
 ___
 
@@ -434,4 +434,4 @@ This object type can't be saved; null it out at save time.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:118](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L118)
+[ue/puerts_decorators.d.ts:118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L118)

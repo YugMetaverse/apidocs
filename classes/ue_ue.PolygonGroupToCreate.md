@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31878](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31878)
+[ue/ue.d.ts:31878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31878)
 
 • **new PolygonGroupToCreate**(`PolygonGroupAttributes`, `OriginalPolygonGroupID`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31879](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31879)
+[ue/ue.d.ts:31879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31879)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31881](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31881)
+[ue/ue.d.ts:31881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31881)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31880](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31880)
+[ue/ue.d.ts:31880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31880)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31887](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31887)
+[ue/ue.d.ts:31887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31887)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31885](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31885)
+[ue/ue.d.ts:31885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31885)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31886](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31886)
+[ue/ue.d.ts:31886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31886)

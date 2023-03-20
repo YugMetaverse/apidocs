@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4979](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4979)
+[ue/ue.d.ts:4979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4979)
 
 • **new AnimGraphBlendOptions**(`BlendInTime`, `BlendOutTime`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4980](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4980)
+[ue/ue.d.ts:4980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4980)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4981](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4981)
+[ue/ue.d.ts:4981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4981)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4982](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4982)
+[ue/ue.d.ts:4982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4982)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4988](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4988)
+[ue/ue.d.ts:4988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4988)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4986](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4986)
+[ue/ue.d.ts:4986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4986)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4987](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4987)
+[ue/ue.d.ts:4987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4987)

@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4209](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4209)
+[ue/ue.d.ts:4209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4209)
 
 • **new TTEventTrack**(`FunctionName`, `CurveKeys`)
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4210](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4210)
+[ue/ue.d.ts:4210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4210)
 
 ## Properties
 
@@ -68,7 +68,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4212](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4212)
+[ue/ue.d.ts:4212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4212)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4211](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4211)
+[ue/ue.d.ts:4211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4211)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4198)
+[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4218](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4218)
+[ue/ue.d.ts:4218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4218)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4199)
+[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -138,7 +138,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4216](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4216)
+[ue/ue.d.ts:4216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4216)
 
 ___
 
@@ -156,4 +156,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4217](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4217)
+[ue/ue.d.ts:4217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4217)

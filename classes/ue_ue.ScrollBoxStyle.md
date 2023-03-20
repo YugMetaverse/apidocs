@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:59978](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59978)
+[ue/ue.d.ts:59978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59978)
 
 • **new ScrollBoxStyle**(`TopShadowBrush`, `BottomShadowBrush`, `LeftShadowBrush`, `RightShadowBrush`)
 
@@ -60,7 +60,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:59979](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59979)
+[ue/ue.d.ts:59979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59979)
 
 ## Properties
 
@@ -70,7 +70,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:59981](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59981)
+[ue/ue.d.ts:59981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59981)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:59982](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59982)
+[ue/ue.d.ts:59982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59982)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:59983](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59983)
+[ue/ue.d.ts:59983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59983)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:59980](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59980)
+[ue/ue.d.ts:59980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59980)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:59989](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59989)
+[ue/ue.d.ts:59989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59989)
 
 ## Methods
 
@@ -132,7 +132,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:59987](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59987)
+[ue/ue.d.ts:59987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59987)
 
 ___
 
@@ -150,4 +150,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:59988](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L59988)
+[ue/ue.d.ts:59988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L59988)

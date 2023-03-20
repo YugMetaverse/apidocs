@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:671](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L671)
+[ue/ue.d.ts:671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L671)
 
 • **new WalkableSlopeOverride**(`WalkableSlopeBehavior`, `WalkableSlopeAngle`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:672](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L672)
+[ue/ue.d.ts:672](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L672)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:674](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L674)
+[ue/ue.d.ts:674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L674)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:673](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L673)
+[ue/ue.d.ts:673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L673)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:680](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L680)
+[ue/ue.d.ts:680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L680)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:678](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L678)
+[ue/ue.d.ts:678](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L678)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:679](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L679)
+[ue/ue.d.ts:679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L679)

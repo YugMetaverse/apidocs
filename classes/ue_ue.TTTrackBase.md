@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4196](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4196)
+[ue/ue.d.ts:4196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4196)
 
 • **new TTTrackBase**(`TrackName`, `bIsExternalCurve`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4197](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4197)
+[ue/ue.d.ts:4197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4197)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4198)
+[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4205](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4205)
+[ue/ue.d.ts:4205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4205)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4199)
+[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -98,7 +98,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4203](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4203)
+[ue/ue.d.ts:4203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4203)
 
 ___
 
@@ -112,4 +112,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4204](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4204)
+[ue/ue.d.ts:4204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4204)

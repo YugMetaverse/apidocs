@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3876](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3876)
+[ue/ue.d.ts:3876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3876)
 
 • **new NodeItem**(`ParentName`, `Transform`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3877](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3877)
+[ue/ue.d.ts:3877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3877)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3878](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3878)
+[ue/ue.d.ts:3878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3878)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3879](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3879)
+[ue/ue.d.ts:3879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3879)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3885](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3885)
+[ue/ue.d.ts:3885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3885)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3883](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3883)
+[ue/ue.d.ts:3883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3883)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3884](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3884)
+[ue/ue.d.ts:3884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3884)

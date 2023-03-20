@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44616](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44616)
+[ue/ue.d.ts:44616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44616)
 
 • **new ActorLayer**(`Name`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44617](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44617)
+[ue/ue.d.ts:44617](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44617)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44618](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44618)
+[ue/ue.d.ts:44618](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44618)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44624)
+[ue/ue.d.ts:44624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44624)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44622)
+[ue/ue.d.ts:44622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44622)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44623](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44623)
+[ue/ue.d.ts:44623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44623)

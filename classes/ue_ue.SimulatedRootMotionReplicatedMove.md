@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5932)
+[ue/ue.d.ts:5932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5932)
 
 • **new SimulatedRootMotionReplicatedMove**(`Time`, `RootMotion`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5933)
+[ue/ue.d.ts:5933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5933)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5935](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5935)
+[ue/ue.d.ts:5935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5935)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5934](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5934)
+[ue/ue.d.ts:5934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5934)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5941](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5941)
+[ue/ue.d.ts:5941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5941)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5939](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5939)
+[ue/ue.d.ts:5939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5939)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5940](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5940)
+[ue/ue.d.ts:5940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5940)

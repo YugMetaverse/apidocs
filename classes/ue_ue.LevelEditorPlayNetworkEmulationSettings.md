@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44879](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44879)
+[ue/ue.d.ts:44879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44879)
 
 • **new LevelEditorPlayNetworkEmulationSettings**(`bIsNetworkEmulationEnabled`, `EmulationTarget`, `CurrentProfile`, `OutPackets`, `InPackets`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44880](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44880)
+[ue/ue.d.ts:44880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44880)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44883](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44883)
+[ue/ue.d.ts:44883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44883)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44882](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44882)
+[ue/ue.d.ts:44882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44882)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44885](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44885)
+[ue/ue.d.ts:44885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44885)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44884](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44884)
+[ue/ue.d.ts:44884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44884)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44891](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44891)
+[ue/ue.d.ts:44891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44891)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44881](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44881)
+[ue/ue.d.ts:44881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44881)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44889](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44889)
+[ue/ue.d.ts:44889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44889)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44890](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44890)
+[ue/ue.d.ts:44890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44890)

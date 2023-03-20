@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25406](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25406)
+[ue/ue.d.ts:25406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25406)
 
 • **new EnvNamedValue**(`ParamName`, `ParamType`, `Value`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25407](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25407)
+[ue/ue.d.ts:25407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25407)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25408](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25408)
+[ue/ue.d.ts:25408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25408)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25409](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25409)
+[ue/ue.d.ts:25409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25409)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25410](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25410)
+[ue/ue.d.ts:25410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25410)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25416](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25416)
+[ue/ue.d.ts:25416](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25416)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:25414](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25414)
+[ue/ue.d.ts:25414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25414)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25415](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25415)
+[ue/ue.d.ts:25415](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25415)

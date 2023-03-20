@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31767](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31767)
+[ue/ue.d.ts:31767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31767)
 
 • **new SubdividedQuad**(`QuadVertex0`, `QuadVertex1`, `QuadVertex2`, `QuadVertex3`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31768](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31768)
+[ue/ue.d.ts:31768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31768)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31769](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31769)
+[ue/ue.d.ts:31769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31769)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31770](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31770)
+[ue/ue.d.ts:31770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31770)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31771](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31771)
+[ue/ue.d.ts:31771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31771)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31772](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31772)
+[ue/ue.d.ts:31772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31772)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31778](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31778)
+[ue/ue.d.ts:31778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31778)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31776](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31776)
+[ue/ue.d.ts:31776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31776)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31777](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31777)
+[ue/ue.d.ts:31777](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31777)

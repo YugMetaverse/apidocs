@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28226](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28226)
+[ue/ue.d.ts:28226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28226)
 
 • **new ComboBoxStyle**(`ComboButtonStyle`, `PressedSlateSound`, `SelectionChangeSlateSound`, `PressedSound`, `SelectionChangeSound`)
 
@@ -62,7 +62,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:28227](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28227)
+[ue/ue.d.ts:28227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28227)
 
 ## Properties
 
@@ -72,7 +72,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:28228](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28228)
+[ue/ue.d.ts:28228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28228)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28229](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28229)
+[ue/ue.d.ts:28229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28229)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28231](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28231)
+[ue/ue.d.ts:28231](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28231)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28230](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28230)
+[ue/ue.d.ts:28230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28230)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28232](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28232)
+[ue/ue.d.ts:28232](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28232)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28238](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28238)
+[ue/ue.d.ts:28238](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28238)
 
 ## Methods
 
@@ -144,7 +144,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28236](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28236)
+[ue/ue.d.ts:28236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28236)
 
 ___
 
@@ -162,4 +162,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28237](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28237)
+[ue/ue.d.ts:28237](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28237)

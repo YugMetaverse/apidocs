@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8436](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8436)
+[ue/ue.d.ts:8436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8436)
 
 • **new RuntimeFloatCurve**(`EditorCurveData`, `ExternalCurve`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8437](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8437)
+[ue/ue.d.ts:8437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8437)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8438](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8438)
+[ue/ue.d.ts:8438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8438)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8439](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8439)
+[ue/ue.d.ts:8439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8439)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8445](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8445)
+[ue/ue.d.ts:8445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8445)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:8443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8443)
+[ue/ue.d.ts:8443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8443)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8444](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8444)
+[ue/ue.d.ts:8444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8444)

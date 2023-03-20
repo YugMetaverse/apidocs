@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58358](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58358)
+[ue/ue.d.ts:58358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58358)
 
 • **new AssetBundleData**(`Bundles`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58359](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58359)
+[ue/ue.d.ts:58359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58359)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58360](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58360)
+[ue/ue.d.ts:58360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58360)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58366](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58366)
+[ue/ue.d.ts:58366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58366)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:58364](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58364)
+[ue/ue.d.ts:58364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58364)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58365](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58365)
+[ue/ue.d.ts:58365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58365)

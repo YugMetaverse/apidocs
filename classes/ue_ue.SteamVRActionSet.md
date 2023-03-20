@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62219](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62219)
+[ue/ue.d.ts:62219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62219)
 
 • **new SteamVRActionSet**(`Path`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62220](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62220)
+[ue/ue.d.ts:62220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62220)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62221](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62221)
+[ue/ue.d.ts:62221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62221)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62227](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62227)
+[ue/ue.d.ts:62227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62227)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:62225](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62225)
+[ue/ue.d.ts:62225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62225)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62226](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62226)
+[ue/ue.d.ts:62226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62226)

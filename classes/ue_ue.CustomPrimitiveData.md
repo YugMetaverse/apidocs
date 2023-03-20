@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:370](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L370)
+[ue/ue.d.ts:370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L370)
 
 • **new CustomPrimitiveData**(`Data`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:371](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L371)
+[ue/ue.d.ts:371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L371)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:372](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L372)
+[ue/ue.d.ts:372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L372)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:378](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L378)
+[ue/ue.d.ts:378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L378)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:376](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L376)
+[ue/ue.d.ts:376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L376)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:377](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L377)
+[ue/ue.d.ts:377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L377)

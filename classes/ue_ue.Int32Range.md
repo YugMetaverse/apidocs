@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1930)
+[ue/ue.d.ts:1930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1930)
 
 • **new Int32Range**(`LowerBound`, `UpperBound`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1931](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1931)
+[ue/ue.d.ts:1931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1931)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1932)
+[ue/ue.d.ts:1932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1932)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1933)
+[ue/ue.d.ts:1933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1933)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1939](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1939)
+[ue/ue.d.ts:1939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1939)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1937](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1937)
+[ue/ue.d.ts:1937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1937)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1938](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1938)
+[ue/ue.d.ts:1938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1938)

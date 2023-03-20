@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25481](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25481)
+[ue/ue.d.ts:25481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25481)
 
 • **new ChunkPartData**(`Guid`, `Offset`, `Size`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25482](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25482)
+[ue/ue.d.ts:25482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25482)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:25483](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25483)
+[ue/ue.d.ts:25483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25483)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25484](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25484)
+[ue/ue.d.ts:25484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25484)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25485](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25485)
+[ue/ue.d.ts:25485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25485)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25491](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25491)
+[ue/ue.d.ts:25491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25491)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:25489](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25489)
+[ue/ue.d.ts:25489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25489)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:25490](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L25490)
+[ue/ue.d.ts:25490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L25490)

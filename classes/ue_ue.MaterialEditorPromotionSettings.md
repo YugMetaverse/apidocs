@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23101](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23101)
+[ue/ue.d.ts:23101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23101)
 
 • **new MaterialEditorPromotionSettings**(`DefaultMaterialAsset`, `DefaultDiffuseTexture`, `DefaultNormalTexture`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23102](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23102)
+[ue/ue.d.ts:23102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23102)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23104](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23104)
+[ue/ue.d.ts:23104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23104)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23103](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23103)
+[ue/ue.d.ts:23103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23103)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23105](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23105)
+[ue/ue.d.ts:23105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23105)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23111](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23111)
+[ue/ue.d.ts:23111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23111)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:23109](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23109)
+[ue/ue.d.ts:23109](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23109)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23110](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23110)
+[ue/ue.d.ts:23110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23110)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29840](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29840)
+[ue/ue.d.ts:29840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29840)
 
 • **new CapturedPropSegment**(`PropertyName`, `PropertyIndex`, `ComponentName`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29841](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29841)
+[ue/ue.d.ts:29841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29841)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29844](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29844)
+[ue/ue.d.ts:29844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29844)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29843](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29843)
+[ue/ue.d.ts:29843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29843)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29842](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29842)
+[ue/ue.d.ts:29842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29842)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29850](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29850)
+[ue/ue.d.ts:29850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29850)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29848](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29848)
+[ue/ue.d.ts:29848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29848)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29849](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29849)
+[ue/ue.d.ts:29849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29849)

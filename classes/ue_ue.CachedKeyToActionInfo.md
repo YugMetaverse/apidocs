@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10459](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10459)
+[ue/ue.d.ts:10459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10459)
 
 • **new CachedKeyToActionInfo**(`PlayerInput`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10460](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10460)
+[ue/ue.d.ts:10460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10460)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10461](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10461)
+[ue/ue.d.ts:10461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10461)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10467](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10467)
+[ue/ue.d.ts:10467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10467)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10465](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10465)
+[ue/ue.d.ts:10465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10465)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10466](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10466)
+[ue/ue.d.ts:10466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10466)

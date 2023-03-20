@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35783](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35783)
+[ue/ue.d.ts:35783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35783)
 
 • **new InstancedStaticMeshInstanceData**(`Transform`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35784](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35784)
+[ue/ue.d.ts:35784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35784)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35785](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35785)
+[ue/ue.d.ts:35785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35785)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35791](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35791)
+[ue/ue.d.ts:35791](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35791)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:35789](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35789)
+[ue/ue.d.ts:35789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35789)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35790](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35790)
+[ue/ue.d.ts:35790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35790)

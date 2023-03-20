@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40064](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40064)
+[ue/ue.d.ts:40064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40064)
 
 • **new PrimitiveMaterialRef**(`Primitive`, `Decal`, `ElementIndex`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40065](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40065)
+[ue/ue.d.ts:40065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40065)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40067](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40067)
+[ue/ue.d.ts:40067](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40067)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40068](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40068)
+[ue/ue.d.ts:40068](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40068)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40066](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40066)
+[ue/ue.d.ts:40066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40066)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40074](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40074)
+[ue/ue.d.ts:40074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40074)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:40072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40072)
+[ue/ue.d.ts:40072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40072)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40073](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40073)
+[ue/ue.d.ts:40073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40073)

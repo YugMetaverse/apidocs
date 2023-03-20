@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57177](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57177)
+[ue/ue.d.ts:57177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57177)
 
 • **new ViewportConfigOptions**(`ViewModeIndex`, `ViewFOV`, `CameraFollowMode`, `CameraFollowBoneName`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57178](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57178)
+[ue/ue.d.ts:57178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57178)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57182](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57182)
+[ue/ue.d.ts:57182](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57182)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57181](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57181)
+[ue/ue.d.ts:57181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57181)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57180](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57180)
+[ue/ue.d.ts:57180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57180)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57179](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57179)
+[ue/ue.d.ts:57179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57179)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57188](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57188)
+[ue/ue.d.ts:57188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57188)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:57186](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57186)
+[ue/ue.d.ts:57186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57186)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57187](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57187)
+[ue/ue.d.ts:57187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57187)

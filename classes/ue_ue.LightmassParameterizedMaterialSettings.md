@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47387](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47387)
+[ue/ue.d.ts:47387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47387)
 
 • **new LightmassParameterizedMaterialSettings**(`CastShadowAsMasked`, `EmissiveBoost`, `DiffuseBoost`, `ExportResolutionScale`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47388](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47388)
+[ue/ue.d.ts:47388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47388)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47389](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47389)
+[ue/ue.d.ts:47389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47389)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47391](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47391)
+[ue/ue.d.ts:47391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47391)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47390](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47390)
+[ue/ue.d.ts:47390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47390)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47392](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47392)
+[ue/ue.d.ts:47392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47392)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47398](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47398)
+[ue/ue.d.ts:47398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47398)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:47396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47396)
+[ue/ue.d.ts:47396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47396)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47397](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47397)
+[ue/ue.d.ts:47397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47397)

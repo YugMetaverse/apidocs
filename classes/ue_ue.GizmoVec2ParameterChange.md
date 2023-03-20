@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38092)
+[ue/ue.d.ts:38092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38092)
 
 • **new GizmoVec2ParameterChange**(`InitialValue`, `CurrentValue`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38093](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38093)
+[ue/ue.d.ts:38093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38093)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38095](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38095)
+[ue/ue.d.ts:38095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38095)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38094](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38094)
+[ue/ue.d.ts:38094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38094)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38101](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38101)
+[ue/ue.d.ts:38101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38101)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:38099](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38099)
+[ue/ue.d.ts:38099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38099)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38100](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38100)
+[ue/ue.d.ts:38100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38100)

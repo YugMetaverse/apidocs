@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57578](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57578)
+[ue/ue.d.ts:57578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57578)
 
 • **new PhysicalSurfaceName**(`Type`, `Name`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57579](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57579)
+[ue/ue.d.ts:57579](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57579)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57581](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57581)
+[ue/ue.d.ts:57581](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57581)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57580](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57580)
+[ue/ue.d.ts:57580](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57580)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57587](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57587)
+[ue/ue.d.ts:57587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57587)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:57585](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57585)
+[ue/ue.d.ts:57585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57585)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57586](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57586)
+[ue/ue.d.ts:57586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57586)

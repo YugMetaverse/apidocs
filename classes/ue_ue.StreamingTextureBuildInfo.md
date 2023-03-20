@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10552](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10552)
+[ue/ue.d.ts:10552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10552)
 
 • **new StreamingTextureBuildInfo**(`PackedRelativeBox`, `TextureLevelIndex`, `TexelFactor`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10553](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10553)
+[ue/ue.d.ts:10553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10553)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10554](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10554)
+[ue/ue.d.ts:10554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10554)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10556](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10556)
+[ue/ue.d.ts:10556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10556)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10555](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10555)
+[ue/ue.d.ts:10555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10555)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10562](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10562)
+[ue/ue.d.ts:10562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10562)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10560](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10560)
+[ue/ue.d.ts:10560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10560)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10561](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10561)
+[ue/ue.d.ts:10561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10561)

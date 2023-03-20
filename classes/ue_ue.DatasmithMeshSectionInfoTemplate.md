@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30072)
+[ue/ue.d.ts:30072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30072)
 
 • **new DatasmithMeshSectionInfoTemplate**(`MaterialIndex`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30073](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30073)
+[ue/ue.d.ts:30073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30073)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30074](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30074)
+[ue/ue.d.ts:30074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30074)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30080](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30080)
+[ue/ue.d.ts:30080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30080)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30078](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30078)
+[ue/ue.d.ts:30078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30078)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30079](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30079)
+[ue/ue.d.ts:30079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30079)

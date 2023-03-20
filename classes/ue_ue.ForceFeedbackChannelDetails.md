@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8449](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8449)
+[ue/ue.d.ts:8449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8449)
 
 • **new ForceFeedbackChannelDetails**(`bAffectsLeftLarge`, `bAffectsLeftSmall`, `bAffectsRightLarge`, `bAffectsRightSmall`, `Curve`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8450](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8450)
+[ue/ue.d.ts:8450](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8450)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8455](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8455)
+[ue/ue.d.ts:8455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8455)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8461](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8461)
+[ue/ue.d.ts:8461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8461)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8451](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8451)
+[ue/ue.d.ts:8451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8451)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8452](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8452)
+[ue/ue.d.ts:8452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8452)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8453](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8453)
+[ue/ue.d.ts:8453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8453)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8454](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8454)
+[ue/ue.d.ts:8454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8454)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:8459](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8459)
+[ue/ue.d.ts:8459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8459)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8460](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8460)
+[ue/ue.d.ts:8460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8460)

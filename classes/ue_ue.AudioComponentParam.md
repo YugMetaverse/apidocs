@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16195](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16195)
+[ue/ue.d.ts:16195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16195)
 
 • **new AudioComponentParam**(`ParamName`, `FloatParam`, `BoolParam`, `IntParam`, `SoundWaveParam`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16196](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16196)
+[ue/ue.d.ts:16196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16196)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16199)
+[ue/ue.d.ts:16199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16199)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16198](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16198)
+[ue/ue.d.ts:16198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16198)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16200](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16200)
+[ue/ue.d.ts:16200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16200)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16197](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16197)
+[ue/ue.d.ts:16197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16197)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16201](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16201)
+[ue/ue.d.ts:16201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16201)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16207)
+[ue/ue.d.ts:16207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16207)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16205](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16205)
+[ue/ue.d.ts:16205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16205)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16206](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16206)
+[ue/ue.d.ts:16206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16206)

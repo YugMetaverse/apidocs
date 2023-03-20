@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2381](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2381)
+[ue/ue.d.ts:2381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2381)
 
 • **new BlendProfileBoneEntry**(`BoneReference`, `BlendScale`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2382](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2382)
+[ue/ue.d.ts:2382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2382)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2384](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2384)
+[ue/ue.d.ts:2384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2384)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2383](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2383)
+[ue/ue.d.ts:2383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2383)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2390](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2390)
+[ue/ue.d.ts:2390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2390)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2388](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2388)
+[ue/ue.d.ts:2388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2388)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2389](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2389)
+[ue/ue.d.ts:2389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2389)

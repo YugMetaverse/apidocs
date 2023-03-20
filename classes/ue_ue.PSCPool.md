@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10259](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10259)
+[ue/ue.d.ts:10259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10259)
 
 • **new PSCPool**(`FreeElements`, `InUseComponents_Auto`, `InUseComponents_Manual`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10260](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10260)
+[ue/ue.d.ts:10260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10260)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10261](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10261)
+[ue/ue.d.ts:10261](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10261)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10262](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10262)
+[ue/ue.d.ts:10262](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10262)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10263](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10263)
+[ue/ue.d.ts:10263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10263)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10269](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10269)
+[ue/ue.d.ts:10269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10269)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10267](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10267)
+[ue/ue.d.ts:10267](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10267)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10268](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10268)
+[ue/ue.d.ts:10268](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10268)

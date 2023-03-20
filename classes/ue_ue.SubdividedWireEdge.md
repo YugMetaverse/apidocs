@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31794](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31794)
+[ue/ue.d.ts:31794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31794)
 
 • **new SubdividedWireEdge**(`EdgeVertex0PositionIndex`, `EdgeVertex1PositionIndex`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31795)
+[ue/ue.d.ts:31795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31795)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31796)
+[ue/ue.d.ts:31796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31796)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31797](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31797)
+[ue/ue.d.ts:31797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31797)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31803](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31803)
+[ue/ue.d.ts:31803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31803)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31801](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31801)
+[ue/ue.d.ts:31801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31801)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31802](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31802)
+[ue/ue.d.ts:31802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31802)

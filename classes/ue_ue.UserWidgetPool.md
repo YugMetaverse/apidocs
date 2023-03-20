@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31313](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31313)
+[ue/ue.d.ts:31313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31313)
 
 • **new UserWidgetPool**(`ActiveWidgets`, `InactiveWidgets`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31314](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31314)
+[ue/ue.d.ts:31314](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31314)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31315](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31315)
+[ue/ue.d.ts:31315](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31315)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31316](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31316)
+[ue/ue.d.ts:31316](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31316)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31322](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31322)
+[ue/ue.d.ts:31322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31322)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31320](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31320)
+[ue/ue.d.ts:31320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31320)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31321](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31321)
+[ue/ue.d.ts:31321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31321)

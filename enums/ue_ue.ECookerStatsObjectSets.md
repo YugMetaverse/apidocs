@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31420](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31420)
+[ue/ue.d.ts:31420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31420)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31420](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31420)
+[ue/ue.d.ts:31420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31420)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31420](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31420)
+[ue/ue.d.ts:31420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31420)

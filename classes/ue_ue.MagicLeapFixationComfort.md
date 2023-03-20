@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46627](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46627)
+[ue/ue.d.ts:46627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46627)
 
 • **new MagicLeapFixationComfort**(`FixationDepthIsUncomfortable`, `FixationDepthViolationHasOccurred`, `RemainingTimeAtUncomfortableDepth`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46628](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46628)
+[ue/ue.d.ts:46628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46628)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46629](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46629)
+[ue/ue.d.ts:46629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46629)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46630](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46630)
+[ue/ue.d.ts:46630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46630)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46631](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46631)
+[ue/ue.d.ts:46631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46631)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46637](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46637)
+[ue/ue.d.ts:46637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46637)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46635](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46635)
+[ue/ue.d.ts:46635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46635)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46636](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46636)
+[ue/ue.d.ts:46636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46636)

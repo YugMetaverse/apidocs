@@ -96,7 +96,7 @@ the meta data
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:273](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L273)
+[ue/puerts_decorators.d.ts:273](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L273)
 
 ___
 
@@ -110,7 +110,7 @@ the meta data
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:594](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L594)
+[ue/puerts_decorators.d.ts:594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L594)
 
 ## Variables
 
@@ -124,7 +124,7 @@ Class is abstract and can't be instantiated directly.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L388)
+[ue/puerts_decorators.d.ts:388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L388)
 
 ___
 
@@ -138,7 +138,7 @@ All the properties of the class are hidden in the main display by default, and a
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:550](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L550)
+[ue/puerts_decorators.d.ts:550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L550)
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:619](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L619)
+[ue/puerts_decorators.d.ts:619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L619)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:710](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L710)
+[ue/puerts_decorators.d.ts:710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L710)
 
 ___
 
@@ -182,7 +182,7 @@ Exposes this class as a type that can be used for variables in blueprints
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L296)
+[ue/puerts_decorators.d.ts:296](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L296)
 
 ___
 
@@ -197,7 +197,7 @@ Exposes this class as an acceptable base class for creating blueprints. The defa
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L311)
+[ue/puerts_decorators.d.ts:311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L311)
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:625](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L625)
+[ue/puerts_decorators.d.ts:625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L625)
 
 ___
 
@@ -225,7 +225,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:631](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L631)
+[ue/puerts_decorators.d.ts:631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L631)
 
 ___
 
@@ -243,7 +243,7 @@ the blueprint's class group is always 'Custom'
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:281](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L281)
+[ue/puerts_decorators.d.ts:281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L281)
 
 ___
 
@@ -257,7 +257,7 @@ Indicates that this class is a wrapper class for a component with little intrins
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:488](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L488)
+[ue/puerts_decorators.d.ts:488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L488)
 
 ___
 
@@ -271,7 +271,7 @@ All properties and functions in this class are const and should be exported as c
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:382](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L382)
+[ue/puerts_decorators.d.ts:382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L382)
 
 ___
 
@@ -285,7 +285,7 @@ A root convert limits a sub-class to only be able to convert to child classes of
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:556](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L556)
+[ue/puerts_decorators.d.ts:556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L556)
 
 ___
 
@@ -303,7 +303,7 @@ the blueprint custom chunk is meaningless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:582](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L582)
+[ue/puerts_decorators.d.ts:582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L582)
 
 ___
 
@@ -321,7 +321,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:376](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L376)
+[ue/puerts_decorators.d.ts:376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L376)
 
 ___
 
@@ -335,7 +335,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:643](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L643)
+[ue/puerts_decorators.d.ts:643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L643)
 
 ___
 
@@ -349,7 +349,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:649](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L649)
+[ue/puerts_decorators.d.ts:649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L649)
 
 ___
 
@@ -363,7 +363,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:655](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L655)
+[ue/puerts_decorators.d.ts:655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L655)
 
 ___
 
@@ -377,7 +377,7 @@ A setting to determine validation of tooltips and comments. Needs to be set to "
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:612](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L612)
+[ue/puerts_decorators.d.ts:612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L612)
 
 ___
 
@@ -391,7 +391,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:698](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L698)
+[ue/puerts_decorators.d.ts:698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L698)
 
 ___
 
@@ -405,7 +405,7 @@ Marks this class as an 'early access' preview (while not considered production-r
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:568](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L568)
+[ue/puerts_decorators.d.ts:568](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L568)
 
 ___
 
@@ -419,7 +419,7 @@ Marks this class as 'experimental' (a totally unsupported and undocumented proto
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:562](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L562)
+[ue/puerts_decorators.d.ts:562](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L562)
 
 ___
 
@@ -433,7 +433,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L704)
+[ue/puerts_decorators.d.ts:704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L704)
 
 ___
 
@@ -447,7 +447,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:637](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L637)
+[ue/puerts_decorators.d.ts:637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L637)
 
 ___
 
@@ -466,7 +466,7 @@ blueprint never could be intrinsic
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:343](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L343)
+[ue/puerts_decorators.d.ts:343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L343)
 
 ___
 
@@ -480,7 +480,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:667](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L667)
+[ue/puerts_decorators.d.ts:667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L667)
 
 ___
 
@@ -494,7 +494,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:673](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L673)
+[ue/puerts_decorators.d.ts:673](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L673)
 
 ___
 
@@ -513,7 +513,7 @@ the export issue is not work for blueprint, the blueprint is more or less an ass
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L326)
+[ue/puerts_decorators.d.ts:326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L326)
 
 ___
 
@@ -529,7 +529,7 @@ Prevents this class from being used for variables in blueprints
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L304)
+[ue/puerts_decorators.d.ts:304](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L304)
 
 ___
 
@@ -543,7 +543,7 @@ Specifies that this class is *NOT* an acceptable base class for creating bluepri
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L317)
+[ue/puerts_decorators.d.ts:317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L317)
 
 ___
 
@@ -557,7 +557,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:679](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L679)
+[ue/puerts_decorators.d.ts:679](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L679)
 
 ___
 
@@ -571,7 +571,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:685](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L685)
+[ue/puerts_decorators.d.ts:685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L685)
 
 ___
 
@@ -585,7 +585,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:661](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L661)
+[ue/puerts_decorators.d.ts:661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L661)
 
 ___
 
@@ -599,7 +599,7 @@ A short tooltip that is used in some contexts where the full tooltip might be ov
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:606](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L606)
+[ue/puerts_decorators.d.ts:606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L606)
 
 ___
 
@@ -614,7 +614,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:692](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L692)
+[ue/puerts_decorators.d.ts:692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L692)
 
 ___
 
@@ -628,7 +628,7 @@ Some properties are stored once per class in a sidecar structure and not on inst
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:574](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L574)
+[ue/puerts_decorators.d.ts:574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L574)
 
 ___
 
@@ -642,7 +642,7 @@ Overrides the automatically generated tooltip from the class comment
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:600](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L600)
+[ue/puerts_decorators.d.ts:600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L600)
 
 ___
 
@@ -660,7 +660,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:402](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L402)
+[ue/puerts_decorators.d.ts:402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L402)
 
 ___
 
@@ -674,7 +674,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:716](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L716)
+[ue/puerts_decorators.d.ts:716](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L716)
 
 ___
 
@@ -692,7 +692,7 @@ the blueprint's class with in always come from parent class, otherwise Object
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L289)
+[ue/puerts_decorators.d.ts:289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L289)
 
 ___
 
@@ -710,7 +710,7 @@ the blueprint autoCollapseCategories will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:520](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L520)
+[ue/puerts_decorators.d.ts:520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L520)
 
 ___
 
@@ -728,7 +728,7 @@ the blueprint autoExpandCategories will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:512](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L512)
+[ue/puerts_decorators.d.ts:512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L512)
 
 ___
 
@@ -746,7 +746,7 @@ the blueprint collapseCategories will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:536](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L536)
+[ue/puerts_decorators.d.ts:536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L536)
 
 ___
 
@@ -765,7 +765,7 @@ the blueprint is always config from its parent
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:419](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L419)
+[ue/puerts_decorators.d.ts:419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L419)
 
 ___
 
@@ -783,7 +783,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:435](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L435)
+[ue/puerts_decorators.d.ts:435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L435)
 
 ___
 
@@ -801,7 +801,7 @@ useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:334](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L334)
+[ue/puerts_decorators.d.ts:334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L334)
 
 ___
 
@@ -819,7 +819,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L443)
+[ue/puerts_decorators.d.ts:443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L443)
 
 ___
 
@@ -833,7 +833,7 @@ This class is deprecated and objects of this class won't be saved when serializi
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L394)
+[ue/puerts_decorators.d.ts:394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L394)
 
 ___
 
@@ -851,7 +851,7 @@ the blueprint dontAutoCollapseCategories will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:528](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L528)
+[ue/puerts_decorators.d.ts:528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L528)
 
 ___
 
@@ -869,7 +869,7 @@ the blueprint dontCollapseCategories will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:544](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L544)
+[ue/puerts_decorators.d.ts:544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L544)
 
 ___
 
@@ -888,7 +888,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:452](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L452)
+[ue/puerts_decorators.d.ts:452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L452)
 
 ___
 
@@ -902,7 +902,7 @@ Hides the specified categories in a property viewer. Usage: hideCategories=Categ
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:482](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L482)
+[ue/puerts_decorators.d.ts:482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L482)
 
 ___
 
@@ -920,7 +920,7 @@ the blueprint hideFunctions will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:504](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L504)
+[ue/puerts_decorators.d.ts:504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L504)
 
 ___
 
@@ -938,7 +938,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L468)
+[ue/puerts_decorators.d.ts:468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L468)
 
 ___
 
@@ -957,7 +957,7 @@ blueprint has no export issue
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L352)
+[ue/puerts_decorators.d.ts:352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L352)
 
 ___
 
@@ -975,7 +975,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:410](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L410)
+[ue/puerts_decorators.d.ts:410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L410)
 
 ___
 
@@ -993,7 +993,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:460](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L460)
+[ue/puerts_decorators.d.ts:460](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L460)
 
 ___
 
@@ -1011,7 +1011,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L368)
+[ue/puerts_decorators.d.ts:368](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L368)
 
 ___
 
@@ -1029,7 +1029,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:427](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L427)
+[ue/puerts_decorators.d.ts:427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L427)
 
 ___
 
@@ -1047,7 +1047,7 @@ the blueprint flag is reset by compile process, useless
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:360](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L360)
+[ue/puerts_decorators.d.ts:360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L360)
 
 ___
 
@@ -1065,7 +1065,7 @@ the blueprint showCategories will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:476](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L476)
+[ue/puerts_decorators.d.ts:476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L476)
 
 ___
 
@@ -1083,7 +1083,7 @@ the blueprint showFunctions will be clear in compilation
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:496](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L496)
+[ue/puerts_decorators.d.ts:496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L496)
 
 ## Functions
 
@@ -1105,7 +1105,7 @@ decorator used to add class specifier
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:588](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L588)
+[ue/puerts_decorators.d.ts:588](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L588)
 
 ___
 
@@ -1127,4 +1127,4 @@ the decorator used to add meta data to class
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:722](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L722)
+[ue/puerts_decorators.d.ts:722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L722)

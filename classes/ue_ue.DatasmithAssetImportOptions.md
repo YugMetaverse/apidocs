@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29394)
+[ue/ue.d.ts:29394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29394)
 
 • **new DatasmithAssetImportOptions**(`PackagePath`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29395)
+[ue/ue.d.ts:29395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29395)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29396)
+[ue/ue.d.ts:29396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29396)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29402](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29402)
+[ue/ue.d.ts:29402](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29402)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29400](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29400)
+[ue/ue.d.ts:29400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29400)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29401](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29401)
+[ue/ue.d.ts:29401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29401)

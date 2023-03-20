@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24681](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24681)
+[ue/ue.d.ts:24681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24681)
 
 • **new LightmassLightSettings**(`IndirectLightingSaturation`, `ShadowExponent`, `bUseAreaShadowsForStationaryLight`)
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24682](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24682)
+[ue/ue.d.ts:24682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24682)
 
 ## Properties
 
@@ -62,7 +62,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24683](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24683)
+[ue/ue.d.ts:24683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24683)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24684](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24684)
+[ue/ue.d.ts:24684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24684)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24691](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24691)
+[ue/ue.d.ts:24691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24691)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24685](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24685)
+[ue/ue.d.ts:24685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24685)
 
 ## Methods
 
@@ -110,7 +110,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:24689](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24689)
+[ue/ue.d.ts:24689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24689)
 
 ___
 
@@ -124,4 +124,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24690](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24690)
+[ue/ue.d.ts:24690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24690)

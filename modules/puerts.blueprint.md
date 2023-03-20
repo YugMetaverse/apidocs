@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[puerts/index.d.ts:43](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/puerts/index.d.ts#L43)
+[puerts/index.d.ts:43](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L43)
 
 ## Functions
 
@@ -55,7 +55,7 @@
 
 #### Defined in
 
-[puerts/index.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/puerts/index.d.ts#L50)
+[puerts/index.d.ts:50](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L50)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[puerts/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/puerts/index.d.ts#L45)
+[puerts/index.d.ts:45](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L45)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[puerts/index.d.ts:44](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/puerts/index.d.ts#L44)
+[puerts/index.d.ts:44](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L44)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[puerts/index.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/puerts/index.d.ts#L51)
+[puerts/index.d.ts:51](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L51)
 
 ___
 
@@ -174,4 +174,4 @@ ___
 
 #### Defined in
 
-[puerts/index.d.ts:49](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/puerts/index.d.ts#L49)
+[puerts/index.d.ts:49](https://github.com/YugMetaverse/yug_typings/blob/25cad34/puerts/index.d.ts#L49)

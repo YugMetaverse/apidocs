@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5075](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5075)
+[ue/ue.d.ts:5075](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5075)
 
 • **new MarkerSyncAnimPosition**(`PreviousMarkerName`, `NextMarkerName`, `PositionBetweenMarkers`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5076](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5076)
+[ue/ue.d.ts:5076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5076)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5078](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5078)
+[ue/ue.d.ts:5078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5078)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5079](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5079)
+[ue/ue.d.ts:5079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5079)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5077](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5077)
+[ue/ue.d.ts:5077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5077)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5085](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5085)
+[ue/ue.d.ts:5085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5085)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5083](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5083)
+[ue/ue.d.ts:5083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5083)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5084](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5084)
+[ue/ue.d.ts:5084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5084)

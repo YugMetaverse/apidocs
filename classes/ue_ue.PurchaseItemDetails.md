@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38989](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38989)
+[ue/ue.d.ts:38989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38989)
 
 • **new PurchaseItemDetails**(`Price`, `Name`, `Type`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38990](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38990)
+[ue/ue.d.ts:38990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38990)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38992](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38992)
+[ue/ue.d.ts:38992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38992)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38991](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38991)
+[ue/ue.d.ts:38991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38991)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38993](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38993)
+[ue/ue.d.ts:38993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38993)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38999](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38999)
+[ue/ue.d.ts:38999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38999)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:38997](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38997)
+[ue/ue.d.ts:38997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38997)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38998](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38998)
+[ue/ue.d.ts:38998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38998)

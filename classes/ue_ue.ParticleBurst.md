@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6825](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6825)
+[ue/ue.d.ts:6825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6825)
 
 • **new ParticleBurst**(`Count`, `CountLow`, `Time`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6826](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6826)
+[ue/ue.d.ts:6826](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6826)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6827](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6827)
+[ue/ue.d.ts:6827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6827)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6828](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6828)
+[ue/ue.d.ts:6828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6828)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6829](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6829)
+[ue/ue.d.ts:6829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6829)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6835](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6835)
+[ue/ue.d.ts:6835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6835)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:6833](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6833)
+[ue/ue.d.ts:6833](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6833)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6834](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6834)
+[ue/ue.d.ts:6834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6834)

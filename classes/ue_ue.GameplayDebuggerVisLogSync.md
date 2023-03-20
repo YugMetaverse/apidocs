@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36647)
+[ue/ue.d.ts:36647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36647)
 
 • **new GameplayDebuggerVisLogSync**(`DeviceIDs`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36648)
+[ue/ue.d.ts:36648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36648)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36649](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36649)
+[ue/ue.d.ts:36649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36649)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36655](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36655)
+[ue/ue.d.ts:36655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36655)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36653](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36653)
+[ue/ue.d.ts:36653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36653)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36654](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36654)
+[ue/ue.d.ts:36654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36654)

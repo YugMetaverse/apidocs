@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4117](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4117)
+[ue/ue.d.ts:4117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4117)
 
 • **new BPVariableMetaDataEntry**(`DataKey`, `DataValue`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4118](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4118)
+[ue/ue.d.ts:4118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4118)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4119)
+[ue/ue.d.ts:4119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4119)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4120)
+[ue/ue.d.ts:4120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4120)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4126)
+[ue/ue.d.ts:4126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4126)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4124](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4124)
+[ue/ue.d.ts:4124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4124)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4125](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4125)
+[ue/ue.d.ts:4125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4125)

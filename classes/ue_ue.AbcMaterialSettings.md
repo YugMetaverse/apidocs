@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L94)
+[ue/ue.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L94)
 
 • **new AbcMaterialSettings**(`bCreateMaterials`, `bFindMaterials`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L95)
+[ue/ue.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L95)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:103](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L103)
+[ue/ue.d.ts:103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L103)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L96)
+[ue/ue.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L96)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L97)
+[ue/ue.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L97)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:101](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L101)
+[ue/ue.d.ts:101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L101)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:102](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L102)
+[ue/ue.d.ts:102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L102)

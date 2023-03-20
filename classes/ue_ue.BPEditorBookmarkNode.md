@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4409](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4409)
+[ue/ue.d.ts:4409](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4409)
 
 • **new BPEditorBookmarkNode**(`NodeGuid`, `ParentGuid`, `DisplayName`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4410](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4410)
+[ue/ue.d.ts:4410](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4410)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4413](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4413)
+[ue/ue.d.ts:4413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4413)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4411](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4411)
+[ue/ue.d.ts:4411](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4411)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4412](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4412)
+[ue/ue.d.ts:4412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4412)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4419](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4419)
+[ue/ue.d.ts:4419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4419)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4417](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4417)
+[ue/ue.d.ts:4417](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4417)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4418](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4418)
+[ue/ue.d.ts:4418](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4418)

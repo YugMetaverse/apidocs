@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2076](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2076)
+[ue/ue.d.ts:2076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2076)
 
 • **new StaticTerrainLayerWeightParameter**(`WeightmapIndex`, `bWeightBasedBlend`)
 
@@ -59,7 +59,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2077](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2077)
+[ue/ue.d.ts:2077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2077)
 
 ## Properties
 
@@ -73,7 +73,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2039)
+[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2039)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2037)
+[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2037)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2078](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2078)
+[ue/ue.d.ts:2078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2078)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2085](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2085)
+[ue/ue.d.ts:2085](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2085)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2038)
+[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2038)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2079](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2079)
+[ue/ue.d.ts:2079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2079)
 
 ## Methods
 
@@ -153,7 +153,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2083](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2083)
+[ue/ue.d.ts:2083](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2083)
 
 ___
 
@@ -171,4 +171,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2084](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2084)
+[ue/ue.d.ts:2084](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2084)

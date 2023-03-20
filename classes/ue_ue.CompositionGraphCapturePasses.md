@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28464](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28464)
+[ue/ue.d.ts:28464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28464)
 
 • **new CompositionGraphCapturePasses**(`Value`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28465](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28465)
+[ue/ue.d.ts:28465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28465)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28466](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28466)
+[ue/ue.d.ts:28466](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28466)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28472](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28472)
+[ue/ue.d.ts:28472](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28472)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28470](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28470)
+[ue/ue.d.ts:28470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28470)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28471](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28471)
+[ue/ue.d.ts:28471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28471)

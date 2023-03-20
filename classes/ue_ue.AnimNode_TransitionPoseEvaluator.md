@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19901](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19901)
+[ue/ue.d.ts:19901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19901)
 
 • **new AnimNode_TransitionPoseEvaluator**(`FramesToCachePose`, `DataSource`, `EvaluatorMode`)
 
@@ -58,7 +58,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19902](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19902)
+[ue/ue.d.ts:19902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19902)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:19904](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19904)
+[ue/ue.d.ts:19904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19904)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19905](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19905)
+[ue/ue.d.ts:19905](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19905)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19903](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19903)
+[ue/ue.d.ts:19903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19903)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19911](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19911)
+[ue/ue.d.ts:19911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19911)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19909](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19909)
+[ue/ue.d.ts:19909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19909)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19910](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19910)
+[ue/ue.d.ts:19910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19910)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23127](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23127)
+[ue/ue.d.ts:23127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23127)
 
 • **new BlueprintEditorPromotionSettings**(`FirstMeshPath`, `SecondMeshPath`, `DefaultParticleAsset`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23128](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23128)
+[ue/ue.d.ts:23128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23128)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23131](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23131)
+[ue/ue.d.ts:23131](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23131)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23129](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23129)
+[ue/ue.d.ts:23129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23129)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23130](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23130)
+[ue/ue.d.ts:23130](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23130)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23137](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23137)
+[ue/ue.d.ts:23137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23137)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:23135](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23135)
+[ue/ue.d.ts:23135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23135)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23136](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23136)
+[ue/ue.d.ts:23136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23136)

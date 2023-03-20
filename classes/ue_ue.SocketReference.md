@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18202](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18202)
+[ue/ue.d.ts:18202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18202)
 
 • **new SocketReference**(`SocketName`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18203](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18203)
+[ue/ue.d.ts:18203](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18203)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18204](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18204)
+[ue/ue.d.ts:18204](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18204)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18210](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18210)
+[ue/ue.d.ts:18210](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18210)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18208](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18208)
+[ue/ue.d.ts:18208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18208)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18209](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18209)
+[ue/ue.d.ts:18209](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18209)

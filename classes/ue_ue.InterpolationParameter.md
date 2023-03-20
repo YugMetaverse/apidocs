@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15161](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15161)
+[ue/ue.d.ts:15161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15161)
 
 • **new InterpolationParameter**(`InterpolationTime`, `InterpolationType`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15162](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15162)
+[ue/ue.d.ts:15162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15162)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15163](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15163)
+[ue/ue.d.ts:15163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15163)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15164](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15164)
+[ue/ue.d.ts:15164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15164)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15170](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15170)
+[ue/ue.d.ts:15170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15170)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:15168](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15168)
+[ue/ue.d.ts:15168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15168)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15169](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15169)
+[ue/ue.d.ts:15169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15169)

@@ -177,7 +177,7 @@
 
 #### Defined in
 
-[react-umg/index.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L9)
+[react-umg/index.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L9)
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 #### Defined in
 
-[react-umg/index.d.ts:5](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L5)
+[react-umg/index.d.ts:5](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L5)
 
 ___
 
@@ -210,7 +210,7 @@ ___
 
 #### Defined in
 
-[react-umg/index.d.ts:7](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L7)
+[react-umg/index.d.ts:7](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L7)
 
 ___
 
@@ -226,7 +226,7 @@ ___
 
 #### Defined in
 
-[react-umg/index.d.ts:6](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L6)
+[react-umg/index.d.ts:6](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L6)
 
 ## Variables
 
@@ -236,4 +236,4 @@ ___
 
 #### Defined in
 
-[react-umg/index.d.ts:985](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L985)
+[react-umg/index.d.ts:985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L985)

@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2049](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2049)
+[ue/ue.d.ts:2049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2049)
 
 • **new StaticSwitchParameter**(`Value`)
 
@@ -57,7 +57,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2050](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2050)
+[ue/ue.d.ts:2050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2050)
 
 ## Properties
 
@@ -71,7 +71,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2039)
+[ue/ue.d.ts:2039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2039)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2037)
+[ue/ue.d.ts:2037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2037)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2051](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2051)
+[ue/ue.d.ts:2051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2051)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2057](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2057)
+[ue/ue.d.ts:2057](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2057)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2038)
+[ue/ue.d.ts:2038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2038)
 
 ## Methods
 
@@ -141,7 +141,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2055](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2055)
+[ue/ue.d.ts:2055](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2055)
 
 ___
 
@@ -159,4 +159,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2056](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2056)
+[ue/ue.d.ts:2056](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2056)

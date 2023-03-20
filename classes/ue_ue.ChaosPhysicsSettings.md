@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57591](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57591)
+[ue/ue.d.ts:57591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57591)
 
 • **new ChaosPhysicsSettings**(`DefaultThreadingModel`, `DedicatedThreadTickMode`, `DedicatedThreadBufferMode`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57592](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57592)
+[ue/ue.d.ts:57592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57592)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57595](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57595)
+[ue/ue.d.ts:57595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57595)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57594](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57594)
+[ue/ue.d.ts:57594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57594)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57593](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57593)
+[ue/ue.d.ts:57593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57593)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57601](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57601)
+[ue/ue.d.ts:57601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57601)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:57599](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57599)
+[ue/ue.d.ts:57599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57599)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57600](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57600)
+[ue/ue.d.ts:57600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57600)

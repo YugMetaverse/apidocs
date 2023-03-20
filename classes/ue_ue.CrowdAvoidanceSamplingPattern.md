@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28893)
+[ue/ue.d.ts:28893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28893)
 
 • **new CrowdAvoidanceSamplingPattern**(`Angles`, `Radii`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28894](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28894)
+[ue/ue.d.ts:28894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28894)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28895](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28895)
+[ue/ue.d.ts:28895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28895)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28896](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28896)
+[ue/ue.d.ts:28896](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28896)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28902](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28902)
+[ue/ue.d.ts:28902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28902)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28900](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28900)
+[ue/ue.d.ts:28900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28900)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28901](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28901)
+[ue/ue.d.ts:28901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28901)

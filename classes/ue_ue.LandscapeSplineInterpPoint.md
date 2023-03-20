@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43639](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43639)
+[ue/ue.d.ts:43639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43639)
 
 • **new LandscapeSplineInterpPoint**(`Center`, `Left`, `Right`, `FalloffLeft`, `FalloffRight`, `LayerLeft`, `LayerRight`, `LayerFalloffLeft`, `LayerFalloffRight`, `StartEndFalloff`)
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43640](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43640)
+[ue/ue.d.ts:43640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43640)
 
 ## Properties
 
@@ -68,7 +68,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43641)
+[ue/ue.d.ts:43641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43641)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43644](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43644)
+[ue/ue.d.ts:43644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43644)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43645](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43645)
+[ue/ue.d.ts:43645](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43645)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43648)
+[ue/ue.d.ts:43648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43648)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43649](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43649)
+[ue/ue.d.ts:43649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43649)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43646](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43646)
+[ue/ue.d.ts:43646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43646)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43647)
+[ue/ue.d.ts:43647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43647)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43642](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43642)
+[ue/ue.d.ts:43642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43642)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43643](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43643)
+[ue/ue.d.ts:43643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43643)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43650](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43650)
+[ue/ue.d.ts:43650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43650)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43656](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43656)
+[ue/ue.d.ts:43656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43656)
 
 ## Methods
 
@@ -186,7 +186,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43654](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43654)
+[ue/ue.d.ts:43654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43654)
 
 ___
 
@@ -200,4 +200,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43655](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43655)
+[ue/ue.d.ts:43655](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43655)

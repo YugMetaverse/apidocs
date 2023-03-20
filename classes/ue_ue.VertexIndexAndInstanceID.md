@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31906](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31906)
+[ue/ue.d.ts:31906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31906)
 
 • **new VertexIndexAndInstanceID**(`ContourIndex`, `VertexInstanceID`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31907](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31907)
+[ue/ue.d.ts:31907](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31907)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31908](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31908)
+[ue/ue.d.ts:31908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31908)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31909](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31909)
+[ue/ue.d.ts:31909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31909)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31915](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31915)
+[ue/ue.d.ts:31915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31915)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31913](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31913)
+[ue/ue.d.ts:31913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31913)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31914](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31914)
+[ue/ue.d.ts:31914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31914)

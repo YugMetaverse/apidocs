@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7555](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7555)
+[ue/ue.d.ts:7555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7555)
 
 • **new InterpCurvePointVector**(`InVal`, `OutVal`, `ArriveTangent`, `LeaveTangent`, `InterpMode`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7556](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7556)
+[ue/ue.d.ts:7556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7556)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7559](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7559)
+[ue/ue.d.ts:7559](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7559)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7557](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7557)
+[ue/ue.d.ts:7557](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7557)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7561](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7561)
+[ue/ue.d.ts:7561](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7561)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7560](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7560)
+[ue/ue.d.ts:7560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7560)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7558](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7558)
+[ue/ue.d.ts:7558](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7558)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7567](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7567)
+[ue/ue.d.ts:7567](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7567)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7565](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7565)
+[ue/ue.d.ts:7565](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7565)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7566](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7566)
+[ue/ue.d.ts:7566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7566)

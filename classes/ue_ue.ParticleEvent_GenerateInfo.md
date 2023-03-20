@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6953](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6953)
+[ue/ue.d.ts:6953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6953)
 
 • **new ParticleEvent_GenerateInfo**(`Type`, `Frequency`, `ParticleFrequency`, `FirstTimeOnly`, `LastTimeOnly`, `UseReflectedImpactVector`, `bUseOrbitOffset`, `CustomName`, `ParticleModuleEventsToSendToGame`)
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6954](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6954)
+[ue/ue.d.ts:6954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6954)
 
 ## Properties
 
@@ -66,7 +66,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6962](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6962)
+[ue/ue.d.ts:6962](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6962)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6958](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6958)
+[ue/ue.d.ts:6958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6958)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6956](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6956)
+[ue/ue.d.ts:6956](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6956)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6959](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6959)
+[ue/ue.d.ts:6959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6959)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6957](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6957)
+[ue/ue.d.ts:6957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6957)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6963](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6963)
+[ue/ue.d.ts:6963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6963)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6955](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6955)
+[ue/ue.d.ts:6955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6955)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6960](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6960)
+[ue/ue.d.ts:6960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6960)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6969](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6969)
+[ue/ue.d.ts:6969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6969)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6961](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6961)
+[ue/ue.d.ts:6961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6961)
 
 ## Methods
 
@@ -174,7 +174,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:6967](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6967)
+[ue/ue.d.ts:6967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6967)
 
 ___
 
@@ -188,4 +188,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6968](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6968)
+[ue/ue.d.ts:6968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6968)

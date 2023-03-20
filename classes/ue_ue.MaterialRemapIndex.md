@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7822](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7822)
+[ue/ue.d.ts:7822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7822)
 
 • **new MaterialRemapIndex**(`ImportVersionKey`, `MaterialRemap`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7823](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7823)
+[ue/ue.d.ts:7823](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7823)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7824](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7824)
+[ue/ue.d.ts:7824](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7824)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7825](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7825)
+[ue/ue.d.ts:7825](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7825)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7831](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7831)
+[ue/ue.d.ts:7831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7831)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7829](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7829)
+[ue/ue.d.ts:7829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7829)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7830](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7830)
+[ue/ue.d.ts:7830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7830)

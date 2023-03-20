@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18592](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18592)
+[ue/ue.d.ts:18592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18592)
 
 • **new BranchFilter**(`BoneName`, `BlendDepth`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18593](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18593)
+[ue/ue.d.ts:18593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18593)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18595](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18595)
+[ue/ue.d.ts:18595](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18595)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18594](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18594)
+[ue/ue.d.ts:18594](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18594)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18601](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18601)
+[ue/ue.d.ts:18601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18601)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18599](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18599)
+[ue/ue.d.ts:18599](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18599)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18600](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18600)
+[ue/ue.d.ts:18600](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18600)

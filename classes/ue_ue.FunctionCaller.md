@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29877](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29877)
+[ue/ue.d.ts:29877](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29877)
 
 • **new FunctionCaller**(`FunctionName`, `FunctionEntry`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29878](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29878)
+[ue/ue.d.ts:29878](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29878)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29880](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29880)
+[ue/ue.d.ts:29880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29880)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29879](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29879)
+[ue/ue.d.ts:29879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29879)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29886](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29886)
+[ue/ue.d.ts:29886](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29886)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29884](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29884)
+[ue/ue.d.ts:29884](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29884)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29885](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29885)
+[ue/ue.d.ts:29885](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29885)

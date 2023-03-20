@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7022](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7022)
+[ue/ue.d.ts:7022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7022)
 
 • **new OrbitOptions**(`bProcessDuringSpawn`, `bProcessDuringUpdate`, `bUseEmitterTime`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7023](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7023)
+[ue/ue.d.ts:7023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7023)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7032](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7032)
+[ue/ue.d.ts:7032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7032)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7024](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7024)
+[ue/ue.d.ts:7024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7024)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7025](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7025)
+[ue/ue.d.ts:7025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7025)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7026](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7026)
+[ue/ue.d.ts:7026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7026)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7030](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7030)
+[ue/ue.d.ts:7030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7030)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7031](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7031)
+[ue/ue.d.ts:7031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7031)

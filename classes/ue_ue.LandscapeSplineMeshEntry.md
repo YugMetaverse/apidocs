@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43619](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43619)
+[ue/ue.d.ts:43619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43619)
 
 • **new LandscapeSplineMeshEntry**(`Mesh`, `MaterialOverrides`, `bCenterH`, `CenterAdjust`, `bScaleToWidth`, `Scale`, `Orientation`, `ForwardAxis`, `UpAxis`)
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43620)
+[ue/ue.d.ts:43620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43620)
 
 ## Properties
 
@@ -66,7 +66,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43624)
+[ue/ue.d.ts:43624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43624)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43628](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43628)
+[ue/ue.d.ts:43628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43628)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43622)
+[ue/ue.d.ts:43622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43622)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43621)
+[ue/ue.d.ts:43621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43621)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43627](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43627)
+[ue/ue.d.ts:43627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43627)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43626)
+[ue/ue.d.ts:43626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43626)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43629](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43629)
+[ue/ue.d.ts:43629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43629)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43635](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43635)
+[ue/ue.d.ts:43635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43635)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43623](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43623)
+[ue/ue.d.ts:43623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43623)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43625](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43625)
+[ue/ue.d.ts:43625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43625)
 
 ## Methods
 
@@ -174,7 +174,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43633](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43633)
+[ue/ue.d.ts:43633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43633)
 
 ___
 
@@ -188,4 +188,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43634](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43634)
+[ue/ue.d.ts:43634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43634)

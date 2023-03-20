@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1619](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1619)
+[ue/ue.d.ts:1619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1619)
 
 • **new RealCurve**(`DefaultValue`, `PreInfinityExtrap`, `PostInfinityExtrap`)
 
@@ -61,7 +61,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1620)
+[ue/ue.d.ts:1620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1620)
 
 ## Properties
 
@@ -71,7 +71,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1621)
+[ue/ue.d.ts:1621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1621)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1608)
+[ue/ue.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1608)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1623](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1623)
+[ue/ue.d.ts:1623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1623)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1622)
+[ue/ue.d.ts:1622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1622)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1629](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1629)
+[ue/ue.d.ts:1629](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1629)
 
 ## Methods
 
@@ -137,7 +137,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1627](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1627)
+[ue/ue.d.ts:1627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1627)
 
 ___
 
@@ -155,4 +155,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1628](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1628)
+[ue/ue.d.ts:1628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1628)

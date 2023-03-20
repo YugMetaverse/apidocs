@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40441](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40441)
+[ue/ue.d.ts:40441](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40441)
 
 • **new IOSBuildResourceDirectory**(`Path`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40442](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40442)
+[ue/ue.d.ts:40442](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40442)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40443)
+[ue/ue.d.ts:40443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40443)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40449](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40449)
+[ue/ue.d.ts:40449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40449)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:40447](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40447)
+[ue/ue.d.ts:40447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40447)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40448](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40448)
+[ue/ue.d.ts:40448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40448)

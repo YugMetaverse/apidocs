@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16798](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16798)
+[ue/ue.d.ts:16798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16798)
 
 • **new PoseLinkBase**(`LinkID`, `SourceLinkID`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16799](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16799)
+[ue/ue.d.ts:16799](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16799)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16800](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16800)
+[ue/ue.d.ts:16800](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16800)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16801](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16801)
+[ue/ue.d.ts:16801](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16801)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16807](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16807)
+[ue/ue.d.ts:16807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16807)
 
 ## Methods
 
@@ -98,7 +98,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16805](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16805)
+[ue/ue.d.ts:16805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16805)
 
 ___
 
@@ -112,4 +112,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16806](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16806)
+[ue/ue.d.ts:16806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16806)

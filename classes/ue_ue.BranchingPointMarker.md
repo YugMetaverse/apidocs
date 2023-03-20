@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2914](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2914)
+[ue/ue.d.ts:2914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2914)
 
 • **new BranchingPointMarker**(`NotifyIndex`, `TriggerTime`, `NotifyEventType`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2915](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2915)
+[ue/ue.d.ts:2915](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2915)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2918](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2918)
+[ue/ue.d.ts:2918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2918)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2916](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2916)
+[ue/ue.d.ts:2916](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2916)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2917](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2917)
+[ue/ue.d.ts:2917](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2917)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2924](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2924)
+[ue/ue.d.ts:2924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2924)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2922](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2922)
+[ue/ue.d.ts:2922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2922)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2923](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2923)
+[ue/ue.d.ts:2923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2923)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64650](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64650)
+[ue/ue.d.ts:64650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64650)
 
 • **new EditorCommandCategory**(`Parent`, `Name`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64651](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64651)
+[ue/ue.d.ts:64651](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64651)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64653](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64653)
+[ue/ue.d.ts:64653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64653)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64652](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64652)
+[ue/ue.d.ts:64652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64652)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64659](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64659)
+[ue/ue.d.ts:64659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64659)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64657](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64657)
+[ue/ue.d.ts:64657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64657)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64658](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64658)
+[ue/ue.d.ts:64658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64658)

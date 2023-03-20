@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54584](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54584)
+[ue/ue.d.ts:54584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54584)
 
 • **new PaperFlipbookKeyFrame**(`Sprite`, `FrameRun`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54585](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54585)
+[ue/ue.d.ts:54585](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54585)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54587](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54587)
+[ue/ue.d.ts:54587](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54587)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54586](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54586)
+[ue/ue.d.ts:54586](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54586)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54593](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54593)
+[ue/ue.d.ts:54593](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54593)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:54591](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54591)
+[ue/ue.d.ts:54591](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54591)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54592](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54592)
+[ue/ue.d.ts:54592](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54592)

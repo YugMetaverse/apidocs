@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9502](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9502)
+[ue/ue.d.ts:9502](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9502)
 
 • **new SoundWaveSpectralTimeData**(`Data`, `TimeSec`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9503](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9503)
+[ue/ue.d.ts:9503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9503)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9504](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9504)
+[ue/ue.d.ts:9504](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9504)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9505](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9505)
+[ue/ue.d.ts:9505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9505)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9511](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9511)
+[ue/ue.d.ts:9511](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9511)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9509](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9509)
+[ue/ue.d.ts:9509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9509)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9510](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9510)
+[ue/ue.d.ts:9510](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9510)

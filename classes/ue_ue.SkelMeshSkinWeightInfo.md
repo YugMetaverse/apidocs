@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4601](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4601)
+[ue/ue.d.ts:4601](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4601)
 
 • **new SkelMeshSkinWeightInfo**(`Bones`, `Weights`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4602](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4602)
+[ue/ue.d.ts:4602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4602)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4603](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4603)
+[ue/ue.d.ts:4603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4603)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4604](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4604)
+[ue/ue.d.ts:4604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4604)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4610](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4610)
+[ue/ue.d.ts:4610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4610)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4608)
+[ue/ue.d.ts:4608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4608)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4609](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4609)
+[ue/ue.d.ts:4609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4609)

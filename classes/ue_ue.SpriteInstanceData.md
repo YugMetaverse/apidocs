@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54748](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54748)
+[ue/ue.d.ts:54748](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54748)
 
 • **new SpriteInstanceData**(`Transform`, `SourceSprite`, `VertexColor`, `MaterialIndex`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54749](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54749)
+[ue/ue.d.ts:54749](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54749)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:54753](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54753)
+[ue/ue.d.ts:54753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54753)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54751](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54751)
+[ue/ue.d.ts:54751](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54751)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54750](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54750)
+[ue/ue.d.ts:54750](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54750)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54752](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54752)
+[ue/ue.d.ts:54752](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54752)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54759](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54759)
+[ue/ue.d.ts:54759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54759)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:54757](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54757)
+[ue/ue.d.ts:54757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54757)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:54758](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L54758)
+[ue/ue.d.ts:54758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L54758)

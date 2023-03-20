@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23115](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23115)
+[ue/ue.d.ts:23115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23115)
 
 • **new ParticleEditorPromotionSettings**(`DefaultParticleAsset`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23116](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23116)
+[ue/ue.d.ts:23116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23116)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23117](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23117)
+[ue/ue.d.ts:23117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23117)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23123](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23123)
+[ue/ue.d.ts:23123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23123)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:23121](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23121)
+[ue/ue.d.ts:23121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23121)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23122](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23122)
+[ue/ue.d.ts:23122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23122)

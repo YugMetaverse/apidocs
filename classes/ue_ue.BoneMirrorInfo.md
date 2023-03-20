@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2606](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2606)
+[ue/ue.d.ts:2606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2606)
 
 • **new BoneMirrorInfo**(`SourceIndex`, `BoneFlipAxis`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2607](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2607)
+[ue/ue.d.ts:2607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2607)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2609](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2609)
+[ue/ue.d.ts:2609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2609)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2608)
+[ue/ue.d.ts:2608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2608)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2615](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2615)
+[ue/ue.d.ts:2615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2615)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2613](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2613)
+[ue/ue.d.ts:2613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2613)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2614](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2614)
+[ue/ue.d.ts:2614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2614)

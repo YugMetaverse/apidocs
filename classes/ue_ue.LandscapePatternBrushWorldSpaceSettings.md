@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44281](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44281)
+[ue/ue.d.ts:44281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44281)
 
 • **new LandscapePatternBrushWorldSpaceSettings**(`Origin`, `Rotation`, `bCenterTextureOnOrigin`, `RepeatSize`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44282](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44282)
+[ue/ue.d.ts:44282](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44282)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44283](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44283)
+[ue/ue.d.ts:44283](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44283)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44286](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44286)
+[ue/ue.d.ts:44286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44286)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44284](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44284)
+[ue/ue.d.ts:44284](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44284)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44292](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44292)
+[ue/ue.d.ts:44292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44292)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44285](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44285)
+[ue/ue.d.ts:44285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44285)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44290](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44290)
+[ue/ue.d.ts:44290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44290)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44291](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44291)
+[ue/ue.d.ts:44291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44291)

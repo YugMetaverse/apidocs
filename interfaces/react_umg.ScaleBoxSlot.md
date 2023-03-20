@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[react-umg/index.d.ts:78](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L78)
+[react-umg/index.d.ts:78](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L78)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[react-umg/index.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L77)
+[react-umg/index.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L77)
 
 ___
 
@@ -46,4 +46,4 @@ ___
 
 #### Defined in
 
-[react-umg/index.d.ts:79](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L79)
+[react-umg/index.d.ts:79](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L79)

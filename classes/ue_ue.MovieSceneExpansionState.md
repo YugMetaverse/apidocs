@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11646](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11646)
+[ue/ue.d.ts:11646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11646)
 
 • **new MovieSceneExpansionState**(`bExpanded`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11647)
+[ue/ue.d.ts:11647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11647)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11654](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11654)
+[ue/ue.d.ts:11654](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11654)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11648)
+[ue/ue.d.ts:11648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11648)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11652](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11652)
+[ue/ue.d.ts:11652](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11652)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11653](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11653)
+[ue/ue.d.ts:11653](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11653)

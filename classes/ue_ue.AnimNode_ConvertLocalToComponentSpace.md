@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18847](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18847)
+[ue/ue.d.ts:18847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18847)
 
 • **new AnimNode_ConvertLocalToComponentSpace**(`LocalPose`)
 
@@ -54,7 +54,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18848](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18848)
+[ue/ue.d.ts:18848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18848)
 
 ## Properties
 
@@ -64,7 +64,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18849](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18849)
+[ue/ue.d.ts:18849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18849)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18855](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18855)
+[ue/ue.d.ts:18855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18855)
 
 ## Methods
 
@@ -96,7 +96,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18853](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18853)
+[ue/ue.d.ts:18853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18853)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18854](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18854)
+[ue/ue.d.ts:18854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18854)

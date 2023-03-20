@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37113](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37113)
+[ue/ue.d.ts:37113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37113)
 
 • **new RestrictedGameplayTagTableRow**(`bAllowNonRestrictedChildren`)
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37114](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37114)
+[ue/ue.d.ts:37114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37114)
 
 ## Properties
 
@@ -70,7 +70,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37092)
+[ue/ue.d.ts:37092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37092)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37091)
+[ue/ue.d.ts:37091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37091)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37121](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37121)
+[ue/ue.d.ts:37121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37121)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37115](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37115)
+[ue/ue.d.ts:37115](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37115)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:37119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37119)
+[ue/ue.d.ts:37119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37119)
 
 ___
 
@@ -144,4 +144,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37120)
+[ue/ue.d.ts:37120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37120)

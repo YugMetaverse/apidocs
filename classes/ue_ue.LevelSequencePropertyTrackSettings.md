@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45205](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45205)
+[ue/ue.d.ts:45205](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45205)
 
 • **new LevelSequencePropertyTrackSettings**(`ComponentPath`, `PropertyPath`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45206](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45206)
+[ue/ue.d.ts:45206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45206)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45207)
+[ue/ue.d.ts:45207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45207)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45208](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45208)
+[ue/ue.d.ts:45208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45208)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45214)
+[ue/ue.d.ts:45214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45214)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:45212](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45212)
+[ue/ue.d.ts:45212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45212)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45213)
+[ue/ue.d.ts:45213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45213)

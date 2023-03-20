@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44044](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44044)
+[ue/ue.d.ts:44044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44044)
 
 • **new LandscapeEditorLayerSettings**(`LayerInfoObj`, `ReimportLayerFilePath`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44045](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44045)
+[ue/ue.d.ts:44045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44045)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44046](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44046)
+[ue/ue.d.ts:44046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44046)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44047](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44047)
+[ue/ue.d.ts:44047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44047)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44053](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44053)
+[ue/ue.d.ts:44053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44053)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44051](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44051)
+[ue/ue.d.ts:44051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44051)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44052](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44052)
+[ue/ue.d.ts:44052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44052)

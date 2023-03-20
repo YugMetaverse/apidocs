@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38963](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38963)
+[ue/ue.d.ts:38963](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38963)
 
 • **new InAppPurchaseProductRequest**(`ProductIdentifier`, `bIsConsumable`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38964](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38964)
+[ue/ue.d.ts:38964](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38964)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38965](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38965)
+[ue/ue.d.ts:38965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38965)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38972](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38972)
+[ue/ue.d.ts:38972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38972)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38966](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38966)
+[ue/ue.d.ts:38966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38966)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:38970](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38970)
+[ue/ue.d.ts:38970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38970)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38971](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38971)
+[ue/ue.d.ts:38971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38971)

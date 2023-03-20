@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:125](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L125)
+[ue/ue.d.ts:125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L125)
 
 • **new AbcStaticMeshSettings**(`bMergeMeshes`, `bPropagateMatrixTransformations`, `bGenerateLightmapUVs`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L126)
+[ue/ue.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L126)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L135)
+[ue/ue.d.ts:135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L135)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L129)
+[ue/ue.d.ts:129](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L129)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:127](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L127)
+[ue/ue.d.ts:127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L127)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L128)
+[ue/ue.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L128)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L133)
+[ue/ue.d.ts:133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L133)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L134)
+[ue/ue.d.ts:134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L134)

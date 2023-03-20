@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26132](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26132)
+[ue/ue.d.ts:26132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26132)
 
 • **new AnchorData**(`Offsets`, `Anchors`, `Alignment`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26133](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26133)
+[ue/ue.d.ts:26133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26133)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26136](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26136)
+[ue/ue.d.ts:26136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26136)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26135](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26135)
+[ue/ue.d.ts:26135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26135)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26134](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26134)
+[ue/ue.d.ts:26134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26134)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26142](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26142)
+[ue/ue.d.ts:26142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26142)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:26140](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26140)
+[ue/ue.d.ts:26140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26140)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26141](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26141)
+[ue/ue.d.ts:26141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26141)

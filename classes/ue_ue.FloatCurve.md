@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3064](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3064)
+[ue/ue.d.ts:3064](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3064)
 
 • **new FloatCurve**(`FloatCurve`)
 
@@ -57,7 +57,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3065](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3065)
+[ue/ue.d.ts:3065](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3065)
 
 ## Properties
 
@@ -71,7 +71,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2721](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2721)
+[ue/ue.d.ts:2721](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2721)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3066](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3066)
+[ue/ue.d.ts:3066](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3066)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2719](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2719)
+[ue/ue.d.ts:2719](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2719)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2720](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2720)
+[ue/ue.d.ts:2720](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2720)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3072)
+[ue/ue.d.ts:3072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3072)
 
 ## Methods
 
@@ -141,7 +141,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3070](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3070)
+[ue/ue.d.ts:3070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3070)
 
 ___
 
@@ -159,4 +159,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3071](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3071)
+[ue/ue.d.ts:3071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3071)

@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4333](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4333)
+[ue/ue.d.ts:4333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4333)
 
 • **new ComponentOverrideRecord**(`ComponentClass`, `ComponentTemplate`, `ComponentKey`, `CookedComponentInstancingData`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4334](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4334)
+[ue/ue.d.ts:4334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4334)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4335](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4335)
+[ue/ue.d.ts:4335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4335)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4337](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4337)
+[ue/ue.d.ts:4337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4337)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4336](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4336)
+[ue/ue.d.ts:4336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4336)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4338](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4338)
+[ue/ue.d.ts:4338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4338)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4344](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4344)
+[ue/ue.d.ts:4344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4344)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4342](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4342)
+[ue/ue.d.ts:4342](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4342)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4343](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4343)
+[ue/ue.d.ts:4343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4343)

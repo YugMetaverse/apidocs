@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44865](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44865)
+[ue/ue.d.ts:44865](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44865)
 
 • **new NetworkEmulationPacketSettings**(`MinLatency`, `MaxLatency`, `PacketLossPercentage`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44866](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44866)
+[ue/ue.d.ts:44866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44866)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44868](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44868)
+[ue/ue.d.ts:44868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44868)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44867](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44867)
+[ue/ue.d.ts:44867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44867)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44869](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44869)
+[ue/ue.d.ts:44869](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44869)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44875](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44875)
+[ue/ue.d.ts:44875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44875)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44873](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44873)
+[ue/ue.d.ts:44873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44873)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44874](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44874)
+[ue/ue.d.ts:44874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44874)

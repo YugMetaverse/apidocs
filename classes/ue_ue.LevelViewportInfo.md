@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10217](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10217)
+[ue/ue.d.ts:10217](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10217)
 
 • **new LevelViewportInfo**(`CamPosition`, `CamRotation`, `CamOrthoZoom`, `CamUpdated`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10218](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10218)
+[ue/ue.d.ts:10218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10218)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:10221](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10221)
+[ue/ue.d.ts:10221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10221)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10219](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10219)
+[ue/ue.d.ts:10219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10219)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10220](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10220)
+[ue/ue.d.ts:10220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10220)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10222](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10222)
+[ue/ue.d.ts:10222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10222)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10228](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10228)
+[ue/ue.d.ts:10228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10228)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:10226](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10226)
+[ue/ue.d.ts:10226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10226)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:10227](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L10227)
+[ue/ue.d.ts:10227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L10227)

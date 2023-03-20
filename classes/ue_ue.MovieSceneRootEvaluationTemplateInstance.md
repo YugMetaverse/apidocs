@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14171](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14171)
+[ue/ue.d.ts:14171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14171)
 
 • **new MovieSceneRootEvaluationTemplateInstance**(`DirectorInstances`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14172](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14172)
+[ue/ue.d.ts:14172](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14172)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14173](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14173)
+[ue/ue.d.ts:14173](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14173)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14179](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14179)
+[ue/ue.d.ts:14179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14179)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14177](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14177)
+[ue/ue.d.ts:14177](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14177)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14178](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14178)
+[ue/ue.d.ts:14178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14178)

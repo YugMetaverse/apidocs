@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39003](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39003)
+[ue/ue.d.ts:39003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39003)
 
 • **new PurchaseConfirmation**(`PackageName`, `Type`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39004](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39004)
+[ue/ue.d.ts:39004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39004)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39005](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39005)
+[ue/ue.d.ts:39005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39005)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39006](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39006)
+[ue/ue.d.ts:39006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39006)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39012](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39012)
+[ue/ue.d.ts:39012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39012)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39010](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39010)
+[ue/ue.d.ts:39010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39010)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39011)
+[ue/ue.d.ts:39011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39011)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58344](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58344)
+[ue/ue.d.ts:58344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58344)
 
 • **new AssetBundleEntry**(`BundleScope`, `BundleName`, `BundleAssets`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58345](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58345)
+[ue/ue.d.ts:58345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58345)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58348](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58348)
+[ue/ue.d.ts:58348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58348)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58347](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58347)
+[ue/ue.d.ts:58347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58347)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58346](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58346)
+[ue/ue.d.ts:58346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58346)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58354](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58354)
+[ue/ue.d.ts:58354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58354)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:58352](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58352)
+[ue/ue.d.ts:58352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58352)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58353](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58353)
+[ue/ue.d.ts:58353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58353)

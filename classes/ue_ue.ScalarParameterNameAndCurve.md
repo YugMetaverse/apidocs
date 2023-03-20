@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52111](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52111)
+[ue/ue.d.ts:52111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52111)
 
 • **new ScalarParameterNameAndCurve**(`ParameterName`, `ParameterCurve`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52112](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52112)
+[ue/ue.d.ts:52112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52112)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52114](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52114)
+[ue/ue.d.ts:52114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52114)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52113](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52113)
+[ue/ue.d.ts:52113](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52113)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52120)
+[ue/ue.d.ts:52120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52120)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:52118](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52118)
+[ue/ue.d.ts:52118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52118)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52119)
+[ue/ue.d.ts:52119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52119)

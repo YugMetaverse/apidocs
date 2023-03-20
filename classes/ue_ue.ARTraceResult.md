@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20909](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20909)
+[ue/ue.d.ts:20909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20909)
 
 • **new ARTraceResult**(`DistanceFromCamera`, `TraceChannel`, `LocalToTrackingTransform`, `TrackedGeometry`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20910](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20910)
+[ue/ue.d.ts:20910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20910)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20911](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20911)
+[ue/ue.d.ts:20911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20911)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20913](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20913)
+[ue/ue.d.ts:20913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20913)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20912](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20912)
+[ue/ue.d.ts:20912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20912)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20914](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20914)
+[ue/ue.d.ts:20914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20914)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20920](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20920)
+[ue/ue.d.ts:20920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20920)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:20918](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20918)
+[ue/ue.d.ts:20918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20918)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20919](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20919)
+[ue/ue.d.ts:20919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20919)

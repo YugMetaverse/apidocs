@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:657](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L657)
+[ue/ue.d.ts:657](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L657)
 
 • **new CollisionResponse**(`ResponseToChannels`, `ResponseArray`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:658](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L658)
+[ue/ue.d.ts:658](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L658)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:660](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L660)
+[ue/ue.d.ts:660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L660)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:659](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L659)
+[ue/ue.d.ts:659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L659)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:666](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L666)
+[ue/ue.d.ts:666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L666)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:664](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L664)
+[ue/ue.d.ts:664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L664)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:665](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L665)
+[ue/ue.d.ts:665](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L665)

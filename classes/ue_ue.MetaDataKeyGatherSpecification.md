@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46088](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46088)
+[ue/ue.d.ts:46088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46088)
 
 • **new MetaDataKeyGatherSpecification**(`MetaDataKey`, `TextNamespace`, `TextKeyPattern`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46089](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46089)
+[ue/ue.d.ts:46089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46089)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46090](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46090)
+[ue/ue.d.ts:46090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46090)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46092)
+[ue/ue.d.ts:46092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46092)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46091)
+[ue/ue.d.ts:46091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46091)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46098](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46098)
+[ue/ue.d.ts:46098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46098)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46096](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46096)
+[ue/ue.d.ts:46096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46096)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46097](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46097)
+[ue/ue.d.ts:46097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46097)

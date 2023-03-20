@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1957](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1957)
+[ue/ue.d.ts:1957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1957)
 
 • **new CompositeFont**(`DefaultTypeface`, `FallbackTypeface`, `SubTypefaces`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1958](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1958)
+[ue/ue.d.ts:1958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1958)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1959](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1959)
+[ue/ue.d.ts:1959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1959)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1960](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1960)
+[ue/ue.d.ts:1960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1960)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1961](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1961)
+[ue/ue.d.ts:1961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1961)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1967](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1967)
+[ue/ue.d.ts:1967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1967)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1965](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1965)
+[ue/ue.d.ts:1965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1965)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1966](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1966)
+[ue/ue.d.ts:1966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1966)

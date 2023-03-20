@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31300](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31300)
+[ue/ue.d.ts:31300](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31300)
 
 • **new SlateChildSize**(`Value`, `SizeRule`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31301](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31301)
+[ue/ue.d.ts:31301](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31301)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31303](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31303)
+[ue/ue.d.ts:31303](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31303)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31302](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31302)
+[ue/ue.d.ts:31302](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31302)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31309](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31309)
+[ue/ue.d.ts:31309](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31309)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31307](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31307)
+[ue/ue.d.ts:31307](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31307)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31308](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31308)
+[ue/ue.d.ts:31308](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31308)

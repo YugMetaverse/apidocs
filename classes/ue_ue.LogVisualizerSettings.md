@@ -69,7 +69,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46375](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46375)
+[ue/ue.d.ts:46375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46375)
 
 ## Properties
 
@@ -79,7 +79,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46390](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46390)
+[ue/ue.d.ts:46390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46390)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46391](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46391)
+[ue/ue.d.ts:46391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46391)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46381](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46381)
+[ue/ue.d.ts:46381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46381)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46383](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46383)
+[ue/ue.d.ts:46383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46383)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46389](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46389)
+[ue/ue.d.ts:46389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46389)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46377](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46377)
+[ue/ue.d.ts:46377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46377)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46396)
+[ue/ue.d.ts:46396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46396)
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21)
+[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21)
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46386](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46386)
+[ue/ue.d.ts:46386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46386)
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46385](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46385)
+[ue/ue.d.ts:46385](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46385)
 
 ___
 
@@ -183,7 +183,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46376](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46376)
+[ue/ue.d.ts:46376](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46376)
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46388](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46388)
+[ue/ue.d.ts:46388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46388)
 
 ___
 
@@ -203,7 +203,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46384](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46384)
+[ue/ue.d.ts:46384](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46384)
 
 ___
 
@@ -213,7 +213,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46379](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46379)
+[ue/ue.d.ts:46379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46379)
 
 ___
 
@@ -223,7 +223,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46382](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46382)
+[ue/ue.d.ts:46382](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46382)
 
 ___
 
@@ -233,7 +233,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46380](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46380)
+[ue/ue.d.ts:46380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46380)
 
 ___
 
@@ -243,7 +243,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46378](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46378)
+[ue/ue.d.ts:46378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46378)
 
 ___
 
@@ -253,7 +253,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46387](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46387)
+[ue/ue.d.ts:46387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46387)
 
 ## Methods
 
@@ -281,7 +281,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11)
+[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11)
 
 ___
 
@@ -305,7 +305,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L12)
+[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L12)
 
 ___
 
@@ -323,7 +323,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13)
+[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13)
 
 ___
 
@@ -341,7 +341,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14)
+[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14)
 
 ___
 
@@ -359,7 +359,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15)
+[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15)
 
 ___
 
@@ -377,7 +377,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16)
+[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16)
 
 ___
 
@@ -402,7 +402,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46393](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46393)
+[ue/ue.d.ts:46393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46393)
 
 ___
 
@@ -426,7 +426,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46394)
+[ue/ue.d.ts:46394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46394)
 
 ___
 
@@ -444,4 +444,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46392](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46392)
+[ue/ue.d.ts:46392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46392)

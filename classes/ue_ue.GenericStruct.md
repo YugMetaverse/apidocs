@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43212](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43212)
+[ue/ue.d.ts:43212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43212)
 
 • **new GenericStruct**(`Data`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43213)
+[ue/ue.d.ts:43213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43213)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43214)
+[ue/ue.d.ts:43214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43214)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43220](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43220)
+[ue/ue.d.ts:43220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43220)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43218](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43218)
+[ue/ue.d.ts:43218](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43218)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43219](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43219)
+[ue/ue.d.ts:43219](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43219)

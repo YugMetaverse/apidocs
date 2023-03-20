@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23033](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23033)
+[ue/ue.d.ts:23033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23033)
 
 • **new BuildPromotionImportWorkflowSettings**(`Diffuse`, `Normal`, `StaticMesh`, `ReimportStaticMesh`, `BlendShapeMesh`, `MorphMesh`, `SkeletalMesh`, `Animation`, `Sound`, `SurroundSound`, `OtherAssetsToImport`)
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23034](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23034)
+[ue/ue.d.ts:23034](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23034)
 
 ## Properties
 
@@ -70,7 +70,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23042](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23042)
+[ue/ue.d.ts:23042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23042)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23039)
+[ue/ue.d.ts:23039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23039)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23035](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23035)
+[ue/ue.d.ts:23035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23035)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23040](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23040)
+[ue/ue.d.ts:23040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23040)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23036](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23036)
+[ue/ue.d.ts:23036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23036)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23045](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23045)
+[ue/ue.d.ts:23045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23045)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23038)
+[ue/ue.d.ts:23038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23038)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23041](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23041)
+[ue/ue.d.ts:23041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23041)
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23043](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23043)
+[ue/ue.d.ts:23043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23043)
 
 ___
 
@@ -160,7 +160,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23037)
+[ue/ue.d.ts:23037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23037)
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23044](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23044)
+[ue/ue.d.ts:23044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23044)
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23051](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23051)
+[ue/ue.d.ts:23051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23051)
 
 ## Methods
 
@@ -198,7 +198,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:23049](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23049)
+[ue/ue.d.ts:23049](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23049)
 
 ___
 
@@ -212,4 +212,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23050](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23050)
+[ue/ue.d.ts:23050](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23050)

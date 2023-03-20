@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9659](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9659)
+[ue/ue.d.ts:9659](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9659)
 
 • **new SourceEffectChainEntry**(`Preset`, `bBypass`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9660](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9660)
+[ue/ue.d.ts:9660](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9660)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9661](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9661)
+[ue/ue.d.ts:9661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9661)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9668](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9668)
+[ue/ue.d.ts:9668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9668)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9662](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9662)
+[ue/ue.d.ts:9662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9662)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9666](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9666)
+[ue/ue.d.ts:9666](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9666)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9667](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9667)
+[ue/ue.d.ts:9667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9667)

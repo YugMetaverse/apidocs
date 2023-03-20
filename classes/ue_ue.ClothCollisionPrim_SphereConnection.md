@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27686](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27686)
+[ue/ue.d.ts:27686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27686)
 
 • **new ClothCollisionPrim_SphereConnection**(`SphereIndices`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27687](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27687)
+[ue/ue.d.ts:27687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27687)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27688](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27688)
+[ue/ue.d.ts:27688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27688)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27694](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27694)
+[ue/ue.d.ts:27694](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27694)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27692](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27692)
+[ue/ue.d.ts:27692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27692)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27693](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27693)
+[ue/ue.d.ts:27693](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27693)

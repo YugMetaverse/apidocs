@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2419](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2419)
+[ue/ue.d.ts:2419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2419)
 
 • **new RigTransformConstraint**(`TranformType`, `ParentSpace`, `Weight`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2420](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2420)
+[ue/ue.d.ts:2420](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2420)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2422](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2422)
+[ue/ue.d.ts:2422](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2422)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2421](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2421)
+[ue/ue.d.ts:2421](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2421)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2423](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2423)
+[ue/ue.d.ts:2423](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2423)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2429](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2429)
+[ue/ue.d.ts:2429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2429)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2427](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2427)
+[ue/ue.d.ts:2427](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2427)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2428](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2428)
+[ue/ue.d.ts:2428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2428)

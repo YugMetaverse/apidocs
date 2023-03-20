@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28970](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28970)
+[ue/ue.d.ts:28970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28970)
 
 • **new CSVImportSettings**(`ImportRowStruct`, `ImportType`, `ImportCurveInterpMode`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28971](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28971)
+[ue/ue.d.ts:28971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28971)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28974](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28974)
+[ue/ue.d.ts:28974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28974)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28972](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28972)
+[ue/ue.d.ts:28972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28972)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28973](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28973)
+[ue/ue.d.ts:28973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28973)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28980](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28980)
+[ue/ue.d.ts:28980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28980)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28978](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28978)
+[ue/ue.d.ts:28978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28978)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28979](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28979)
+[ue/ue.d.ts:28979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28979)

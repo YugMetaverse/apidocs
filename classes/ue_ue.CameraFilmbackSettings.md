@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27241](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27241)
+[ue/ue.d.ts:27241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27241)
 
 • **new CameraFilmbackSettings**(`SensorWidth`, `SensorHeight`, `SensorAspectRatio`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27242](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27242)
+[ue/ue.d.ts:27242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27242)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27245](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27245)
+[ue/ue.d.ts:27245](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27245)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27244](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27244)
+[ue/ue.d.ts:27244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27244)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27243](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27243)
+[ue/ue.d.ts:27243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27243)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27251](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27251)
+[ue/ue.d.ts:27251](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27251)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27249](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27249)
+[ue/ue.d.ts:27249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27249)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27250](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27250)
+[ue/ue.d.ts:27250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27250)

@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1761](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1761)
+[ue/ue.d.ts:1761](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1761)
 
 • **new TextureParameterValue**(`ParameterName`, `ParameterInfo`, `ParameterValue`, `ExpressionGUID`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1762](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1762)
+[ue/ue.d.ts:1762](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1762)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1766](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1766)
+[ue/ue.d.ts:1766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1766)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1764](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1764)
+[ue/ue.d.ts:1764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1764)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1763](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1763)
+[ue/ue.d.ts:1763](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1763)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1765](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1765)
+[ue/ue.d.ts:1765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1765)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1772](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1772)
+[ue/ue.d.ts:1772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1772)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1770](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1770)
+[ue/ue.d.ts:1770](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1770)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1771](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1771)
+[ue/ue.d.ts:1771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1771)

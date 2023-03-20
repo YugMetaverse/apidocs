@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64704)
+[ue/ue.d.ts:64704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64704)
 
 • **new ClassPickerDefaults**(`ClassName`, `AssetClass`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64705](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64705)
+[ue/ue.d.ts:64705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64705)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64707](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64707)
+[ue/ue.d.ts:64707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64707)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64706](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64706)
+[ue/ue.d.ts:64706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64706)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64713](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64713)
+[ue/ue.d.ts:64713](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64713)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64711](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64711)
+[ue/ue.d.ts:64711](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64711)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64712](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64712)
+[ue/ue.d.ts:64712](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64712)

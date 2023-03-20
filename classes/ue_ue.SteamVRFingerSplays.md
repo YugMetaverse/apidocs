@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62276](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62276)
+[ue/ue.d.ts:62276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62276)
 
 • **new SteamVRFingerSplays**(`Thumb_Index`, `Index_Middle`, `Middle_Ring`, `Ring_Pinky`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62277](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62277)
+[ue/ue.d.ts:62277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62277)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62279](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62279)
+[ue/ue.d.ts:62279](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62279)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62280](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62280)
+[ue/ue.d.ts:62280](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62280)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62281](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62281)
+[ue/ue.d.ts:62281](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62281)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62278](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62278)
+[ue/ue.d.ts:62278](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62278)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62287](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62287)
+[ue/ue.d.ts:62287](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62287)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:62285](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62285)
+[ue/ue.d.ts:62285](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62285)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62286](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62286)
+[ue/ue.d.ts:62286](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62286)

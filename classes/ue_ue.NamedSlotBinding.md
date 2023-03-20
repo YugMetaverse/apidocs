@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11921](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11921)
+[ue/ue.d.ts:11921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11921)
 
 • **new NamedSlotBinding**(`Name`, `Content`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11922](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11922)
+[ue/ue.d.ts:11922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11922)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11924](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11924)
+[ue/ue.d.ts:11924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11924)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11923](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11923)
+[ue/ue.d.ts:11923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11923)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11930)
+[ue/ue.d.ts:11930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11930)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11928)
+[ue/ue.d.ts:11928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11928)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11929](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11929)
+[ue/ue.d.ts:11929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11929)

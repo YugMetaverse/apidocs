@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18921](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18921)
+[ue/ue.d.ts:18921](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18921)
 
 • **new AnimNode_MakeDynamicAdditive**(`Base`, `Additive`, `bMeshSpaceAdditive`)
 
@@ -58,7 +58,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18922](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18922)
+[ue/ue.d.ts:18922](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18922)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.AnimNode\_Base.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:18924](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18924)
+[ue/ue.d.ts:18924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18924)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18923](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18923)
+[ue/ue.d.ts:18923](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18923)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18931](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18931)
+[ue/ue.d.ts:18931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18931)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18925](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18925)
+[ue/ue.d.ts:18925](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18925)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18929](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18929)
+[ue/ue.d.ts:18929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18929)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18930)
+[ue/ue.d.ts:18930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18930)

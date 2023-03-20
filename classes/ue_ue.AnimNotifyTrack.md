@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3116](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3116)
+[ue/ue.d.ts:3116](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3116)
 
 • **new AnimNotifyTrack**(`TrackName`, `TrackColor`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3117](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3117)
+[ue/ue.d.ts:3117](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3117)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3119)
+[ue/ue.d.ts:3119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3119)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3118](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3118)
+[ue/ue.d.ts:3118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3118)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3125](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3125)
+[ue/ue.d.ts:3125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3125)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3123](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3123)
+[ue/ue.d.ts:3123](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3123)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3124](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3124)
+[ue/ue.d.ts:3124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3124)

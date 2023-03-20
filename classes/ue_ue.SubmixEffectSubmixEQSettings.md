@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62641)
+[ue/ue.d.ts:62641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62641)
 
 • **new SubmixEffectSubmixEQSettings**(`EQBands`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62642](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62642)
+[ue/ue.d.ts:62642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62642)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:62643](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62643)
+[ue/ue.d.ts:62643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62643)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62649](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62649)
+[ue/ue.d.ts:62649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62649)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:62647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62647)
+[ue/ue.d.ts:62647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62647)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:62648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L62648)
+[ue/ue.d.ts:62648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L62648)

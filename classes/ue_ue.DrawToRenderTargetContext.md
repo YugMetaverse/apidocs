@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43070](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43070)
+[ue/ue.d.ts:43070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43070)
 
 • **new DrawToRenderTargetContext**(`RenderTarget`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43071](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43071)
+[ue/ue.d.ts:43071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43071)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43072)
+[ue/ue.d.ts:43072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43072)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43078](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43078)
+[ue/ue.d.ts:43078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43078)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43076](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43076)
+[ue/ue.d.ts:43076](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43076)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43077](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43077)
+[ue/ue.d.ts:43077](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43077)

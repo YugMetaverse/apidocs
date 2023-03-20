@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14624)
+[ue/ue.d.ts:14624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14624)
 
 • **new BTDecoratorLogic**(`Operation`, `Number`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14625](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14625)
+[ue/ue.d.ts:14625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14625)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14627](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14627)
+[ue/ue.d.ts:14627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14627)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14626)
+[ue/ue.d.ts:14626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14626)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14633](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14633)
+[ue/ue.d.ts:14633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14633)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14631](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14631)
+[ue/ue.d.ts:14631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14631)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14632](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14632)
+[ue/ue.d.ts:14632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14632)

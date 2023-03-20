@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30386](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30386)
+[ue/ue.d.ts:30386](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30386)
 
 • **new DFontParameters**(`FontValue`, `FontPage`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30387](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30387)
+[ue/ue.d.ts:30387](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30387)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30389](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30389)
+[ue/ue.d.ts:30389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30389)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30388](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30388)
+[ue/ue.d.ts:30388](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30388)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30395)
+[ue/ue.d.ts:30395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30395)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30393](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30393)
+[ue/ue.d.ts:30393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30393)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30394)
+[ue/ue.d.ts:30394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30394)

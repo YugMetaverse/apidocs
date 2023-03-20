@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23457](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23457)
+[ue/ue.d.ts:23457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23457)
 
 • **new BandwidthTestItem**(`Kilobyte`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23458](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23458)
+[ue/ue.d.ts:23458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23458)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23459](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23459)
+[ue/ue.d.ts:23459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23459)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23465](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23465)
+[ue/ue.d.ts:23465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23465)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:23463](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23463)
+[ue/ue.d.ts:23463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23463)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23464](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23464)
+[ue/ue.d.ts:23464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23464)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18795](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18795)
+[ue/ue.d.ts:18795](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18795)
 
 • **new AnimBlueprintFunctionPinInfo**(`Name`, `Type`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18796)
+[ue/ue.d.ts:18796](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18796)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:18797](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18797)
+[ue/ue.d.ts:18797](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18797)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18798](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18798)
+[ue/ue.d.ts:18798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18798)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18804](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18804)
+[ue/ue.d.ts:18804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18804)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:18802](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18802)
+[ue/ue.d.ts:18802](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18802)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:18803](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L18803)
+[ue/ue.d.ts:18803](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L18803)

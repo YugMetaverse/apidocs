@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50954](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50954)
+[ue/ue.d.ts:50954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50954)
 
 ## Properties
 
@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50960](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50960)
+[ue/ue.d.ts:50960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50960)
 
 ## Methods
 
@@ -69,7 +69,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:50958](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50958)
+[ue/ue.d.ts:50958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50958)
 
 ___
 
@@ -87,4 +87,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50959](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50959)
+[ue/ue.d.ts:50959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50959)

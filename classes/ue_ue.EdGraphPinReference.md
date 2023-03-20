@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4437](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4437)
+[ue/ue.d.ts:4437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4437)
 
 • **new EdGraphPinReference**(`OwningNode`, `PinId`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4438](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4438)
+[ue/ue.d.ts:4438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4438)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4439](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4439)
+[ue/ue.d.ts:4439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4439)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4440](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4440)
+[ue/ue.d.ts:4440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4440)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4446](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4446)
+[ue/ue.d.ts:4446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4446)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4444](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4444)
+[ue/ue.d.ts:4444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4444)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4445](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4445)
+[ue/ue.d.ts:4445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4445)

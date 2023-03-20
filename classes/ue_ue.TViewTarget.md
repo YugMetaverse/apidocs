@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6667](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6667)
+[ue/ue.d.ts:6667](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6667)
 
 • **new TViewTarget**(`Target`, `POV`, `PlayerState`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6668](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6668)
+[ue/ue.d.ts:6668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6668)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:6670](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6670)
+[ue/ue.d.ts:6670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6670)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6671](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6671)
+[ue/ue.d.ts:6671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6671)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6669](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6669)
+[ue/ue.d.ts:6669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6669)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6677](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6677)
+[ue/ue.d.ts:6677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6677)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:6675](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6675)
+[ue/ue.d.ts:6675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6675)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:6676](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L6676)
+[ue/ue.d.ts:6676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L6676)

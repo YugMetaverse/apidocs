@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5044](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5044)
+[ue/ue.d.ts:5044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5044)
 
 • **new AnimNotifyQueue**(`AnimNotifies`, `UnfilteredMontageAnimNotifies`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5045](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5045)
+[ue/ue.d.ts:5045](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5045)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5046](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5046)
+[ue/ue.d.ts:5046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5046)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5047](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5047)
+[ue/ue.d.ts:5047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5047)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5053](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5053)
+[ue/ue.d.ts:5053](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5053)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5051](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5051)
+[ue/ue.d.ts:5051](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5051)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5052](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5052)
+[ue/ue.d.ts:5052](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5052)

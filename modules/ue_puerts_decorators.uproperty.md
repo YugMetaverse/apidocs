@@ -139,7 +139,7 @@ the meta data with one key for  property meta
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1578](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1578)
+[ue/puerts_decorators.d.ts:1578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1578)
 
 ___
 
@@ -153,7 +153,7 @@ the meta data
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1335](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1335)
+[ue/puerts_decorators.d.ts:1335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1335)
 
 ## Variables
 
@@ -167,7 +167,7 @@ Properties are in the advanced dropdown in a details panel
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1461](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1461)
+[ue/puerts_decorators.d.ts:1461](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1461)
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1602](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1602)
+[ue/puerts_decorators.d.ts:1602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1602)
 
 ___
 
@@ -195,7 +195,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1608)
+[ue/puerts_decorators.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1608)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1620)
+[ue/puerts_decorators.d.ts:1620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1620)
 
 ___
 
@@ -223,7 +223,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1626)
+[ue/puerts_decorators.d.ts:1626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1626)
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1614](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1614)
+[ue/puerts_decorators.d.ts:1614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1614)
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1632)
+[ue/puerts_decorators.d.ts:1632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1632)
 
 ___
 
@@ -265,7 +265,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1638](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1638)
+[ue/puerts_decorators.d.ts:1638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1638)
 
 ___
 
@@ -281,7 +281,7 @@ The AssetRegistrySearchable keyword indicates that this property and it's value 
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1529](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1529)
+[ue/puerts_decorators.d.ts:1529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1529)
 
 ___
 
@@ -295,7 +295,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1975](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1975)
+[ue/puerts_decorators.d.ts:1975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1975)
 
 ___
 
@@ -309,7 +309,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1981](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1981)
+[ue/puerts_decorators.d.ts:1981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1981)
 
 ___
 
@@ -323,7 +323,7 @@ MC Delegates only.  Property should be exposed for assigning in blueprints.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1443)
+[ue/puerts_decorators.d.ts:1443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1443)
 
 ___
 
@@ -337,7 +337,7 @@ MC Delegates only. This delegate accepts (only in blueprint) only events with Bl
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1548](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1548)
+[ue/puerts_decorators.d.ts:1548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1548)
 
 ___
 
@@ -351,7 +351,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1644](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1644)
+[ue/puerts_decorators.d.ts:1644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1644)
 
 ___
 
@@ -365,7 +365,7 @@ MC Delegates only.  Property should be exposed for calling in blueprint code
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1542](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1542)
+[ue/puerts_decorators.d.ts:1542](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1542)
 
 ___
 
@@ -379,7 +379,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1650](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1650)
+[ue/puerts_decorators.d.ts:1650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1650)
 
 ___
 
@@ -393,7 +393,7 @@ This property has an accessor to return the value. Implies BlueprintReadOnly if 
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1509](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1509)
+[ue/puerts_decorators.d.ts:1509](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1509)
 
 ___
 
@@ -407,7 +407,7 @@ This property can be read by blueprints, but not modified.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1503](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1503)
+[ue/puerts_decorators.d.ts:1503](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1503)
 
 ___
 
@@ -421,7 +421,7 @@ This property can be read or written from a blueprint.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1515](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1515)
+[ue/puerts_decorators.d.ts:1515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1515)
 
 ___
 
@@ -435,7 +435,7 @@ This property has an accessor to set the value. Implies BlueprintReadWrite. (usa
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1521](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1521)
+[ue/puerts_decorators.d.ts:1521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1521)
 
 ___
 
@@ -449,7 +449,7 @@ Specifies the category of the property. Usage: Category=CategoryName.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1449](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1449)
+[ue/puerts_decorators.d.ts:1449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1449)
 
 ___
 
@@ -463,7 +463,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1662](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1662)
+[ue/puerts_decorators.d.ts:1662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1662)
 
 ___
 
@@ -477,7 +477,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1656](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1656)
+[ue/puerts_decorators.d.ts:1656](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1656)
 
 ___
 
@@ -491,7 +491,7 @@ Property should be loaded/saved to ini file as permanent profile.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1347)
+[ue/puerts_decorators.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1347)
 
 ___
 
@@ -505,7 +505,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1668](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1668)
+[ue/puerts_decorators.d.ts:1668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1668)
 
 ___
 
@@ -519,7 +519,7 @@ This property is const and should be exported as const.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1341](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1341)
+[ue/puerts_decorators.d.ts:1341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1341)
 
 ___
 
@@ -533,7 +533,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1674](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1674)
+[ue/puerts_decorators.d.ts:1674](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1674)
 
 ___
 
@@ -547,7 +547,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1680](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1680)
+[ue/puerts_decorators.d.ts:1680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1680)
 
 ___
 
@@ -561,7 +561,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1686](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1686)
+[ue/puerts_decorators.d.ts:1686](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1686)
 
 ___
 
@@ -575,7 +575,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1948](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1948)
+[ue/puerts_decorators.d.ts:1948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1948)
 
 ___
 
@@ -589,7 +589,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1704)
+[ue/puerts_decorators.d.ts:1704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1704)
 
 ___
 
@@ -603,7 +603,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1710](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1710)
+[ue/puerts_decorators.d.ts:1710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1710)
 
 ___
 
@@ -617,7 +617,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1692](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1692)
+[ue/puerts_decorators.d.ts:1692](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1692)
 
 ___
 
@@ -632,7 +632,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1717](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1717)
+[ue/puerts_decorators.d.ts:1717](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1717)
 
 ___
 
@@ -646,7 +646,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1723](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1723)
+[ue/puerts_decorators.d.ts:1723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1723)
 
 ___
 
@@ -660,7 +660,7 @@ A setting to determine validation of tooltips and comments. Needs to be set to "
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1596](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1596)
+[ue/puerts_decorators.d.ts:1596](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1596)
 
 ___
 
@@ -674,7 +674,7 @@ Property should always be reset to the default value during any type of duplicat
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1371](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1371)
+[ue/puerts_decorators.d.ts:1371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1371)
 
 ___
 
@@ -688,7 +688,7 @@ Indicates that this property can be edited by property windows in the editor
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1467](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1467)
+[ue/puerts_decorators.d.ts:1467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1467)
 
 ___
 
@@ -702,7 +702,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1729](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1729)
+[ue/puerts_decorators.d.ts:1729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1729)
 
 ___
 
@@ -716,7 +716,7 @@ Indicates that this property can be edited by property windows, but only on arch
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1479](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1479)
+[ue/puerts_decorators.d.ts:1479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1479)
 
 ___
 
@@ -730,7 +730,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1735](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1735)
+[ue/puerts_decorators.d.ts:1735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1735)
 
 ___
 
@@ -744,7 +744,7 @@ Indicates that elements of an array can be modified, but its size cannot be chan
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1401](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1401)
+[ue/puerts_decorators.d.ts:1401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1401)
 
 ___
 
@@ -758,7 +758,7 @@ Indicates that this property can be edited by property windows, but only on inst
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1473](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1473)
+[ue/puerts_decorators.d.ts:1473](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1473)
 
 ___
 
@@ -772,7 +772,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1741](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1741)
+[ue/puerts_decorators.d.ts:1741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1741)
 
 ___
 
@@ -786,7 +786,7 @@ Object property can be exported with it's owner.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1389](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1389)
+[ue/puerts_decorators.d.ts:1389](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1389)
 
 ___
 
@@ -800,7 +800,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1747](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1747)
+[ue/puerts_decorators.d.ts:1747](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1747)
 
 ___
 
@@ -814,7 +814,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1753](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1753)
+[ue/puerts_decorators.d.ts:1753](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1753)
 
 ___
 
@@ -828,7 +828,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1759](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1759)
+[ue/puerts_decorators.d.ts:1759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1759)
 
 ___
 
@@ -842,7 +842,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1774](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1774)
+[ue/puerts_decorators.d.ts:1774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1774)
 
 ___
 
@@ -856,7 +856,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1780](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1780)
+[ue/puerts_decorators.d.ts:1780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1780)
 
 ___
 
@@ -873,7 +873,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1969](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1969)
+[ue/puerts_decorators.d.ts:1969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1969)
 
 ___
 
@@ -887,7 +887,7 @@ Same as above but load config from base class, not subclass.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1353](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1353)
+[ue/puerts_decorators.d.ts:1353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1353)
 
 ___
 
@@ -901,7 +901,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1786](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1786)
+[ue/puerts_decorators.d.ts:1786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1786)
 
 ___
 
@@ -915,7 +915,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1792](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1792)
+[ue/puerts_decorators.d.ts:1792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1792)
 
 ___
 
@@ -929,7 +929,7 @@ If true, the self pin should not be shown or connectable regardless of purity, c
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1566](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1566)
+[ue/puerts_decorators.d.ts:1566](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1566)
 
 ___
 
@@ -943,7 +943,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1798](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1798)
+[ue/puerts_decorators.d.ts:1798](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1798)
 
 ___
 
@@ -957,7 +957,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1804](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1804)
+[ue/puerts_decorators.d.ts:1804](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1804)
 
 ___
 
@@ -971,7 +971,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1810](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1810)
+[ue/puerts_decorators.d.ts:1810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1810)
 
 ___
 
@@ -985,7 +985,7 @@ Property is a component reference. Implies EditInline and Export.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1437](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1437)
+[ue/puerts_decorators.d.ts:1437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1437)
 
 ___
 
@@ -999,7 +999,7 @@ Interpolatable property for use with matinee. Always user-settable in the editor
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1425](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1425)
+[ue/puerts_decorators.d.ts:1425](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1425)
 
 ___
 
@@ -1013,7 +1013,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1960](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1960)
+[ue/puerts_decorators.d.ts:1960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1960)
 
 ___
 
@@ -1027,7 +1027,7 @@ Property should be loaded as localizable text. Implies ReadOnly.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1359](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1359)
+[ue/puerts_decorators.d.ts:1359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1359)
 
 ___
 
@@ -1041,7 +1041,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1816](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1816)
+[ue/puerts_decorators.d.ts:1816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1816)
 
 ___
 
@@ -1055,7 +1055,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1822](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1822)
+[ue/puerts_decorators.d.ts:1822](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1822)
 
 ___
 
@@ -1069,7 +1069,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1828](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1828)
+[ue/puerts_decorators.d.ts:1828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1828)
 
 ___
 
@@ -1083,7 +1083,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1834](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1834)
+[ue/puerts_decorators.d.ts:1834](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1834)
 
 ___
 
@@ -1097,7 +1097,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1852](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1852)
+[ue/puerts_decorators.d.ts:1852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1852)
 
 ___
 
@@ -1111,7 +1111,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1846](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1846)
+[ue/puerts_decorators.d.ts:1846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1846)
 
 ___
 
@@ -1125,7 +1125,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1840](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1840)
+[ue/puerts_decorators.d.ts:1840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1840)
 
 ___
 
@@ -1139,7 +1139,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1954](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1954)
+[ue/puerts_decorators.d.ts:1954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1954)
 
 ___
 
@@ -1153,7 +1153,7 @@ Hide clear (and browse) button in the editor.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1395)
+[ue/puerts_decorators.d.ts:1395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1395)
 
 ___
 
@@ -1167,7 +1167,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1864](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1864)
+[ue/puerts_decorators.d.ts:1864](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1864)
 
 ___
 
@@ -1181,7 +1181,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1870](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1870)
+[ue/puerts_decorators.d.ts:1870](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1870)
 
 ___
 
@@ -1195,7 +1195,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1876](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1876)
+[ue/puerts_decorators.d.ts:1876](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1876)
 
 ___
 
@@ -1209,7 +1209,7 @@ Property should always be reset to the default value unless it's being duplicate
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1383](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1383)
+[ue/puerts_decorators.d.ts:1383](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1383)
 
 ___
 
@@ -1223,7 +1223,7 @@ Property should always be reset to the default value unless it's being duplicate
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1377](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1377)
+[ue/puerts_decorators.d.ts:1377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1377)
 
 ___
 
@@ -1237,7 +1237,7 @@ Property isn't transacted.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1431](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1431)
+[ue/puerts_decorators.d.ts:1431](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1431)
 
 ___
 
@@ -1251,7 +1251,7 @@ Skip replication (only for struct members and parameters in service request func
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1419](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1419)
+[ue/puerts_decorators.d.ts:1419](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1419)
 
 ___
 
@@ -1265,7 +1265,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1882](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1882)
+[ue/puerts_decorators.d.ts:1882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1882)
 
 ___
 
@@ -1279,7 +1279,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1858](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1858)
+[ue/puerts_decorators.d.ts:1858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1858)
 
 ___
 
@@ -1293,7 +1293,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1888](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1888)
+[ue/puerts_decorators.d.ts:1888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1888)
 
 ___
 
@@ -1307,7 +1307,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1894](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1894)
+[ue/puerts_decorators.d.ts:1894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1894)
 
 ___
 
@@ -1321,7 +1321,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1765](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1765)
+[ue/puerts_decorators.d.ts:1765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1765)
 
 ___
 
@@ -1335,7 +1335,7 @@ Property is relevant to network replication.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1407)
+[ue/puerts_decorators.d.ts:1407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1407)
 
 ___
 
@@ -1349,7 +1349,7 @@ Property is relevant to network replication. Notify actors when a property is re
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1413](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1413)
+[ue/puerts_decorators.d.ts:1413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1413)
 
 ___
 
@@ -1364,7 +1364,7 @@ Property should be serialized for save games.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1536](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1536)
+[ue/puerts_decorators.d.ts:1536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1536)
 
 ___
 
@@ -1378,7 +1378,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1698](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1698)
+[ue/puerts_decorators.d.ts:1698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1698)
 
 ___
 
@@ -1392,7 +1392,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1900](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1900)
+[ue/puerts_decorators.d.ts:1900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1900)
 
 ___
 
@@ -1406,7 +1406,7 @@ A short tooltip that is used in some contexts where the full tooltip might be ov
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1590](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1590)
+[ue/puerts_decorators.d.ts:1590](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1590)
 
 ___
 
@@ -1420,7 +1420,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1906](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1906)
+[ue/puerts_decorators.d.ts:1906](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1906)
 
 ___
 
@@ -1434,7 +1434,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1912](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1912)
+[ue/puerts_decorators.d.ts:1912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1912)
 
 ___
 
@@ -1448,7 +1448,7 @@ Properties appear visible by default in a details panel
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1455](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1455)
+[ue/puerts_decorators.d.ts:1455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1455)
 
 ___
 
@@ -1462,7 +1462,7 @@ Property shouldn't be serialized, can still be exported to text
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1560](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1560)
+[ue/puerts_decorators.d.ts:1560](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1560)
 
 ___
 
@@ -1476,7 +1476,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1918](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1918)
+[ue/puerts_decorators.d.ts:1918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1918)
 
 ___
 
@@ -1490,7 +1490,7 @@ Property shouldn't be exported to text format (e.g. copy/paste)
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1554](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1554)
+[ue/puerts_decorators.d.ts:1554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1554)
 
 ___
 
@@ -1504,7 +1504,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1924](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1924)
+[ue/puerts_decorators.d.ts:1924](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1924)
 
 ___
 
@@ -1518,7 +1518,7 @@ Overrides the automatically generated tooltip from the class comment
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1584](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1584)
+[ue/puerts_decorators.d.ts:1584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1584)
 
 ___
 
@@ -1532,7 +1532,7 @@ Property is transient: shouldn't be saved, zero-filled at load time.
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1365](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1365)
+[ue/puerts_decorators.d.ts:1365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1365)
 
 ___
 
@@ -1546,7 +1546,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1936](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1936)
+[ue/puerts_decorators.d.ts:1936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1936)
 
 ___
 
@@ -1560,7 +1560,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1930)
+[ue/puerts_decorators.d.ts:1930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1930)
 
 ___
 
@@ -1574,7 +1574,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1942](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1942)
+[ue/puerts_decorators.d.ts:1942](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1942)
 
 ___
 
@@ -1588,7 +1588,7 @@ Indicates that this property is visible in property windows, but cannot be edite
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1485](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1485)
+[ue/puerts_decorators.d.ts:1485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1485)
 
 ___
 
@@ -1602,7 +1602,7 @@ Indicates that this property is only visible in property windows for archetypes,
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1497](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1497)
+[ue/puerts_decorators.d.ts:1497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1497)
 
 ___
 
@@ -1616,7 +1616,7 @@ Indicates that this property is only visible in property windows for instances, 
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1491](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1491)
+[ue/puerts_decorators.d.ts:1491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1491)
 
 ## Functions
 
@@ -1638,7 +1638,7 @@ the decorator used to add meta data to property
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1987](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1987)
+[ue/puerts_decorators.d.ts:1987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1987)
 
 ___
 
@@ -1660,4 +1660,4 @@ decorator used to add property specifier
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:1572](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L1572)
+[ue/puerts_decorators.d.ts:1572](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L1572)

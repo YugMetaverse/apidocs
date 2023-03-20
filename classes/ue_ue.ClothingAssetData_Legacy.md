@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3944](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3944)
+[ue/ue.d.ts:3944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3944)
 
 • **new ClothingAssetData_Legacy**(`AssetName`, `ApexFileName`, `bClothPropertiesChanged`, `PhysicsProperties`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3945](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3945)
+[ue/ue.d.ts:3945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3945)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3947](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3947)
+[ue/ue.d.ts:3947](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3947)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3946](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3946)
+[ue/ue.d.ts:3946](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3946)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3949](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3949)
+[ue/ue.d.ts:3949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3949)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3955](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3955)
+[ue/ue.d.ts:3955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3955)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3948](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3948)
+[ue/ue.d.ts:3948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3948)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3953](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3953)
+[ue/ue.d.ts:3953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3953)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3954](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3954)
+[ue/ue.d.ts:3954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3954)

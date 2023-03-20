@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39310](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39310)
+[ue/ue.d.ts:39310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39310)
 
 • **new InputAxisConfigEntry**(`AxisKeyName`, `AxisProperties`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39311](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39311)
+[ue/ue.d.ts:39311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39311)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39312](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39312)
+[ue/ue.d.ts:39312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39312)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39313](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39313)
+[ue/ue.d.ts:39313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39313)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39319](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39319)
+[ue/ue.d.ts:39319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39319)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39317](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39317)
+[ue/ue.d.ts:39317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39317)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39318](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39318)
+[ue/ue.d.ts:39318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39318)

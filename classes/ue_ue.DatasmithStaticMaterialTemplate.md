@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30118](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30118)
+[ue/ue.d.ts:30118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30118)
 
 • **new DatasmithStaticMaterialTemplate**(`MaterialSlotName`, `MaterialInterface`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30119](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30119)
+[ue/ue.d.ts:30119](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30119)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30121](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30121)
+[ue/ue.d.ts:30121](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30121)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30120](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30120)
+[ue/ue.d.ts:30120](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30120)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30127](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30127)
+[ue/ue.d.ts:30127](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30127)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30125](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30125)
+[ue/ue.d.ts:30125](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30125)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30126)
+[ue/ue.d.ts:30126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30126)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65852](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65852)
+[ue/ue.d.ts:65852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65852)
 
 • **new VRButton**(`ButtonWidget`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65853](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65853)
+[ue/ue.d.ts:65853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65853)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:65854](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65854)
+[ue/ue.d.ts:65854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65854)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65860](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65860)
+[ue/ue.d.ts:65860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65860)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:65858](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65858)
+[ue/ue.d.ts:65858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65858)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:65859](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L65859)
+[ue/ue.d.ts:65859](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L65859)

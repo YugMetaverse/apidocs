@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57447](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57447)
+[ue/ue.d.ts:57447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57447)
 
 • **new ConstrainComponentPropName**(`ComponentName`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57448](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57448)
+[ue/ue.d.ts:57448](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57448)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57449](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57449)
+[ue/ue.d.ts:57449](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57449)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57455](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57455)
+[ue/ue.d.ts:57455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57455)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:57453](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57453)
+[ue/ue.d.ts:57453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57453)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57454](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57454)
+[ue/ue.d.ts:57454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57454)

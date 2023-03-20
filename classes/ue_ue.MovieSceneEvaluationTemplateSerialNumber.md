@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11428](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11428)
+[ue/ue.d.ts:11428](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11428)
 
 • **new MovieSceneEvaluationTemplateSerialNumber**(`Value`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11429](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11429)
+[ue/ue.d.ts:11429](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11429)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11430](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11430)
+[ue/ue.d.ts:11430](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11430)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11436](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11436)
+[ue/ue.d.ts:11436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11436)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11434](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11434)
+[ue/ue.d.ts:11434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11434)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11435](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11435)
+[ue/ue.d.ts:11435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11435)

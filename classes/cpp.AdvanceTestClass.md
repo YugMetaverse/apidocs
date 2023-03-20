@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[cpp/index.d.ts:7](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L7)
+[cpp/index.d.ts:7](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L7)
 
 ## Methods
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[cpp/index.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L9)
+[cpp/index.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L9)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:8](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L8)
+[cpp/index.d.ts:8](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L8)
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 #### Defined in
 
-[cpp/index.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/cpp/index.d.ts#L10)
+[cpp/index.d.ts:10](https://github.com/YugMetaverse/yug_typings/blob/25cad34/cpp/index.d.ts#L10)

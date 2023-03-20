@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:545](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L545)
+[ue/ue.d.ts:545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L545)
 
 • **new VirtualTextureBuildSettings**(`TileSize`, `TileBorderSize`, `bEnableCompressCrunch`, `bEnableCompressZlib`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:546](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L546)
+[ue/ue.d.ts:546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L546)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:548](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L548)
+[ue/ue.d.ts:548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L548)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:547](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L547)
+[ue/ue.d.ts:547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L547)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:556](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L556)
+[ue/ue.d.ts:556](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L556)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:549](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L549)
+[ue/ue.d.ts:549](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L549)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:550](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L550)
+[ue/ue.d.ts:550](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L550)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:554](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L554)
+[ue/ue.d.ts:554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L554)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:555](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L555)
+[ue/ue.d.ts:555](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L555)

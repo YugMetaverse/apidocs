@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[react-umg/index.d.ts:873](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/react-umg/index.d.ts#L873)
+[react-umg/index.d.ts:873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/react-umg/index.d.ts#L873)
 
 ___
 

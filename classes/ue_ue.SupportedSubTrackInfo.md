@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7467](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7467)
+[ue/ue.d.ts:7467](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7467)
 
 • **new SupportedSubTrackInfo**(`SupportedClass`, `SubTrackName`, `GroupIndex`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7468](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7468)
+[ue/ue.d.ts:7468](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7468)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7471](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7471)
+[ue/ue.d.ts:7471](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7471)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7470](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7470)
+[ue/ue.d.ts:7470](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7470)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7469](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7469)
+[ue/ue.d.ts:7469](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7469)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7477](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7477)
+[ue/ue.d.ts:7477](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7477)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7475](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7475)
+[ue/ue.d.ts:7475](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7475)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7476](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7476)
+[ue/ue.d.ts:7476](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7476)

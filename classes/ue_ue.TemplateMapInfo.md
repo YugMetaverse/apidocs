@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64731](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64731)
+[ue/ue.d.ts:64731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64731)
 
 • **new TemplateMapInfo**(`ThumbnailTexture`, `Map`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64732](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64732)
+[ue/ue.d.ts:64732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64732)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64734](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64734)
+[ue/ue.d.ts:64734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64734)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64733](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64733)
+[ue/ue.d.ts:64733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64733)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64740](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64740)
+[ue/ue.d.ts:64740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64740)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64738](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64738)
+[ue/ue.d.ts:64738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64738)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64739](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64739)
+[ue/ue.d.ts:64739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64739)

@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1358](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1358)
+[ue/ue.d.ts:1358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1358)
 
 • **new CollectionScalarParameter**(`DefaultValue`)
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1359](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1359)
+[ue/ue.d.ts:1359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1359)
 
 ## Properties
 
@@ -66,7 +66,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1360](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1360)
+[ue/ue.d.ts:1360](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1360)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1348](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1348)
+[ue/ue.d.ts:1348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1348)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1347)
+[ue/ue.d.ts:1347](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1347)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1366](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1366)
+[ue/ue.d.ts:1366](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1366)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1364](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1364)
+[ue/ue.d.ts:1364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1364)
 
 ___
 
@@ -144,4 +144,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1365](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1365)
+[ue/ue.d.ts:1365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1365)

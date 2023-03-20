@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66070](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66070)
+[ue/ue.d.ts:66070](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66070)
 
 • **new VehicleGearData**(`Ratio`, `DownRatio`, `UpRatio`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66071](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66071)
+[ue/ue.d.ts:66071](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66071)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66073](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66073)
+[ue/ue.d.ts:66073](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66073)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66072](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66072)
+[ue/ue.d.ts:66072](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66072)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66074](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66074)
+[ue/ue.d.ts:66074](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66074)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66080](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66080)
+[ue/ue.d.ts:66080](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66080)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:66078](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66078)
+[ue/ue.d.ts:66078](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66078)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66079](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66079)
+[ue/ue.d.ts:66079](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66079)

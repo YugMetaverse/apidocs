@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43200](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43200)
+[ue/ue.d.ts:43200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43200)
 
 • **new UserActivity**(`ActionName`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43201](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43201)
+[ue/ue.d.ts:43201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43201)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43202](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43202)
+[ue/ue.d.ts:43202](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43202)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43208](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43208)
+[ue/ue.d.ts:43208](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43208)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43206](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43206)
+[ue/ue.d.ts:43206](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43206)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43207](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43207)
+[ue/ue.d.ts:43207](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43207)

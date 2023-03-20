@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60805](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60805)
+[ue/ue.d.ts:60805](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60805)
 
 • **new TentDistribution**(`TipAltitude`, `TipValue`, `Width`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60806](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60806)
+[ue/ue.d.ts:60806](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60806)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60807](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60807)
+[ue/ue.d.ts:60807](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60807)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60808](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60808)
+[ue/ue.d.ts:60808](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60808)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60809](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60809)
+[ue/ue.d.ts:60809](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60809)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60815](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60815)
+[ue/ue.d.ts:60815](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60815)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:60813](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60813)
+[ue/ue.d.ts:60813](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60813)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60814](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60814)
+[ue/ue.d.ts:60814](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60814)

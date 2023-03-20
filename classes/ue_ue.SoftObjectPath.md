@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:952](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L952)
+[ue/ue.d.ts:952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L952)
 
 • **new SoftObjectPath**(`AssetPathName`, `SubPathString`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:953](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L953)
+[ue/ue.d.ts:953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L953)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:954](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L954)
+[ue/ue.d.ts:954](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L954)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:955](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L955)
+[ue/ue.d.ts:955](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L955)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:961](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L961)
+[ue/ue.d.ts:961](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L961)
 
 ## Methods
 
@@ -96,7 +96,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:959](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L959)
+[ue/ue.d.ts:959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L959)
 
 ___
 
@@ -110,4 +110,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:960](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L960)
+[ue/ue.d.ts:960](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L960)

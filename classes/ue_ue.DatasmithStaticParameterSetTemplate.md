@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29781](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29781)
+[ue/ue.d.ts:29781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29781)
 
 • **new DatasmithStaticParameterSetTemplate**(`StaticSwitchParameters`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29782](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29782)
+[ue/ue.d.ts:29782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29782)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29783](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29783)
+[ue/ue.d.ts:29783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29783)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29789](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29789)
+[ue/ue.d.ts:29789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29789)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29787](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29787)
+[ue/ue.d.ts:29787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29787)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29788)
+[ue/ue.d.ts:29788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29788)

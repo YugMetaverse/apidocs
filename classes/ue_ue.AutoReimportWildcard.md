@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33086](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33086)
+[ue/ue.d.ts:33086](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33086)
 
 • **new AutoReimportWildcard**(`Wildcard`, `bInclude`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33087](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33087)
+[ue/ue.d.ts:33087](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33087)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33088](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33088)
+[ue/ue.d.ts:33088](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33088)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33095](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33095)
+[ue/ue.d.ts:33095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33095)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33089](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33089)
+[ue/ue.d.ts:33089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33089)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:33093](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33093)
+[ue/ue.d.ts:33093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33093)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33094](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33094)
+[ue/ue.d.ts:33094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33094)

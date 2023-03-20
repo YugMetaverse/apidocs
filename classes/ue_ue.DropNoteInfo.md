@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32622)
+[ue/ue.d.ts:32622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32622)
 
 • **new DropNoteInfo**(`Location`, `Rotation`, `Comment`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32623](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32623)
+[ue/ue.d.ts:32623](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32623)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32626)
+[ue/ue.d.ts:32626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32626)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32624](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32624)
+[ue/ue.d.ts:32624](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32624)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32625](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32625)
+[ue/ue.d.ts:32625](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32625)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32632](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32632)
+[ue/ue.d.ts:32632](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32632)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:32630](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32630)
+[ue/ue.d.ts:32630](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32630)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32631](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32631)
+[ue/ue.d.ts:32631](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32631)

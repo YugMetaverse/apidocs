@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2873](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2873)
+[ue/ue.d.ts:2873](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2873)
 
 • **new AnimTrack**(`AnimSegments`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2874](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2874)
+[ue/ue.d.ts:2874](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2874)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2875](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2875)
+[ue/ue.d.ts:2875](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2875)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2881](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2881)
+[ue/ue.d.ts:2881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2881)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2879](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2879)
+[ue/ue.d.ts:2879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2879)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2880](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2880)
+[ue/ue.d.ts:2880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2880)

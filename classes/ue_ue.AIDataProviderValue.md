@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15490](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15490)
+[ue/ue.d.ts:15490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15490)
 
 • **new AIDataProviderValue**(`CachedProperty`, `DataBinding`, `DataField`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15491](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15491)
+[ue/ue.d.ts:15491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15491)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15492](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15492)
+[ue/ue.d.ts:15492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15492)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15493](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15493)
+[ue/ue.d.ts:15493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15493)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15494](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15494)
+[ue/ue.d.ts:15494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15494)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15500](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15500)
+[ue/ue.d.ts:15500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15500)
 
 ## Methods
 
@@ -108,7 +108,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:15498](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15498)
+[ue/ue.d.ts:15498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15498)
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15499](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15499)
+[ue/ue.d.ts:15499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15499)

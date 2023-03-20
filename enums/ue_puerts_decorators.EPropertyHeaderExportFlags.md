@@ -24,7 +24,7 @@ the property export flags
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:259](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L259)
+[ue/puerts_decorators.d.ts:259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L259)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:260](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L260)
+[ue/puerts_decorators.d.ts:260](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L260)
 
 ___
 
@@ -44,4 +44,4 @@ ___
 
 #### Defined in
 
-[ue/puerts_decorators.d.ts:258](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts_decorators.d.ts#L258)
+[ue/puerts_decorators.d.ts:258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts_decorators.d.ts#L258)

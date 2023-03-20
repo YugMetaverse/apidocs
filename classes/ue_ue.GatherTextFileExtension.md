@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46005](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46005)
+[ue/ue.d.ts:46005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46005)
 
 • **new GatherTextFileExtension**(`Pattern`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46006](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46006)
+[ue/ue.d.ts:46006](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46006)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46007](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46007)
+[ue/ue.d.ts:46007](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46007)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46013](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46013)
+[ue/ue.d.ts:46013](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46013)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46011)
+[ue/ue.d.ts:46011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46011)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46012](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46012)
+[ue/ue.d.ts:46012](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46012)

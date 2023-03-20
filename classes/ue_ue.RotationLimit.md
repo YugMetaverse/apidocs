@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19838](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19838)
+[ue/ue.d.ts:19838](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19838)
 
 • **new RotationLimit**(`LimitMin`, `LimitMax`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19839](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19839)
+[ue/ue.d.ts:19839](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19839)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:19841](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19841)
+[ue/ue.d.ts:19841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19841)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19840](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19840)
+[ue/ue.d.ts:19840](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19840)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19847](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19847)
+[ue/ue.d.ts:19847](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19847)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:19845](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19845)
+[ue/ue.d.ts:19845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19845)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:19846](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L19846)
+[ue/ue.d.ts:19846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L19846)

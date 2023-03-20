@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20993](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20993)
+[ue/ue.d.ts:20993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20993)
 
 • **new ARPose3D**(`SkeletonDefinition`, `JointTransforms`, `IsJointTracked`, `JointTransformSpace`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20994](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20994)
+[ue/ue.d.ts:20994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20994)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20997](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20997)
+[ue/ue.d.ts:20997](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20997)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20998](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20998)
+[ue/ue.d.ts:20998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20998)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20996](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20996)
+[ue/ue.d.ts:20996](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20996)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20995](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20995)
+[ue/ue.d.ts:20995](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20995)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21004](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21004)
+[ue/ue.d.ts:21004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21004)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:21002](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21002)
+[ue/ue.d.ts:21002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21002)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:21003](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21003)
+[ue/ue.d.ts:21003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L21003)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2574](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2574)
+[ue/ue.d.ts:2574](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2574)
 
 • **new MeshUVChannelInfo**(`bInitialized`, `bOverrideDensities`, `LocalUVDensities`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2575](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2575)
+[ue/ue.d.ts:2575](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2575)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2578](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2578)
+[ue/ue.d.ts:2578](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2578)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2584](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2584)
+[ue/ue.d.ts:2584](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2584)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2576](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2576)
+[ue/ue.d.ts:2576](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2576)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2577](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2577)
+[ue/ue.d.ts:2577](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2577)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2582](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2582)
+[ue/ue.d.ts:2582](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2582)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2583](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2583)
+[ue/ue.d.ts:2583](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2583)

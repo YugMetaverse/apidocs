@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24695](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24695)
+[ue/ue.d.ts:24695](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24695)
 
 • **new LightmassDirectionalLightSettings**(`LightSourceAngle`)
 
@@ -57,7 +57,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24696)
+[ue/ue.d.ts:24696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24696)
 
 ## Properties
 
@@ -71,7 +71,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:24683](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24683)
+[ue/ue.d.ts:24683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24683)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24697](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24697)
+[ue/ue.d.ts:24697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24697)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24684](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24684)
+[ue/ue.d.ts:24684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24684)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24703](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24703)
+[ue/ue.d.ts:24703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24703)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24685](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24685)
+[ue/ue.d.ts:24685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24685)
 
 ## Methods
 
@@ -141,7 +141,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:24701](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24701)
+[ue/ue.d.ts:24701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24701)
 
 ___
 
@@ -159,4 +159,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:24702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L24702)
+[ue/ue.d.ts:24702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L24702)

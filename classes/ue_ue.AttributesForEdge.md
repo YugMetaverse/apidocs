@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31722](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31722)
+[ue/ue.d.ts:31722](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31722)
 
 • **new AttributesForEdge**(`EdgeID`, `EdgeAttributes`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31723](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31723)
+[ue/ue.d.ts:31723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31723)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31725](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31725)
+[ue/ue.d.ts:31725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31725)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31724](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31724)
+[ue/ue.d.ts:31724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31724)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31731](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31731)
+[ue/ue.d.ts:31731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31731)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31729](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31729)
+[ue/ue.d.ts:31729](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31729)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31730](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31730)
+[ue/ue.d.ts:31730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31730)

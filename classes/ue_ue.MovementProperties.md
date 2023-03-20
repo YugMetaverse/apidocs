@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5434](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5434)
+[ue/ue.d.ts:5434](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5434)
 
 • **new MovementProperties**(`bCanCrouch`, `bCanJump`, `bCanWalk`, `bCanSwim`, `bCanFly`)
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5435](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5435)
+[ue/ue.d.ts:5435](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5435)
 
 ## Properties
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5446](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5446)
+[ue/ue.d.ts:5446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5446)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5436](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5436)
+[ue/ue.d.ts:5436](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5436)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5440](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5440)
+[ue/ue.d.ts:5440](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5440)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5437](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5437)
+[ue/ue.d.ts:5437](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5437)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5439](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5439)
+[ue/ue.d.ts:5439](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5439)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5438](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5438)
+[ue/ue.d.ts:5438](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5438)
 
 ## Methods
 
@@ -132,7 +132,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5444](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5444)
+[ue/ue.d.ts:5444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5444)
 
 ___
 
@@ -146,4 +146,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5445](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5445)
+[ue/ue.d.ts:5445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5445)

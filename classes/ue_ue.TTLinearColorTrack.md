@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4269](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4269)
+[ue/ue.d.ts:4269](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4269)
 
 • **new TTLinearColorTrack**(`CurveLinearColor`)
 
@@ -57,7 +57,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4270](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4270)
+[ue/ue.d.ts:4270](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4270)
 
 ## Properties
 
@@ -67,7 +67,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4271](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4271)
+[ue/ue.d.ts:4271](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4271)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4224)
+[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4224)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4198)
+[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4277](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4277)
+[ue/ue.d.ts:4277](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4277)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4199)
+[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -141,7 +141,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4275](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4275)
+[ue/ue.d.ts:4275](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4275)
 
 ___
 
@@ -159,4 +159,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4276](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4276)
+[ue/ue.d.ts:4276](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4276)

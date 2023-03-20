@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9528](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9528)
+[ue/ue.d.ts:9528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9528)
 
 • **new SubtitleCue**(`Text`, `Time`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9529](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9529)
+[ue/ue.d.ts:9529](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9529)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9530](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9530)
+[ue/ue.d.ts:9530](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9530)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9531](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9531)
+[ue/ue.d.ts:9531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9531)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9537](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9537)
+[ue/ue.d.ts:9537](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9537)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9535](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9535)
+[ue/ue.d.ts:9535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9535)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9536](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9536)
+[ue/ue.d.ts:9536](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9536)

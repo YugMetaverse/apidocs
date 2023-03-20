@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36633](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36633)
+[ue/ue.d.ts:36633](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36633)
 
 • **new GameplayDebuggerDebugActor**(`Actor`, `ActorName`, `SyncCounter`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36634](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36634)
+[ue/ue.d.ts:36634](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36634)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36635](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36635)
+[ue/ue.d.ts:36635](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36635)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36636](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36636)
+[ue/ue.d.ts:36636](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36636)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36637](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36637)
+[ue/ue.d.ts:36637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36637)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36643](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36643)
+[ue/ue.d.ts:36643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36643)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36641)
+[ue/ue.d.ts:36641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36641)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36642](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36642)
+[ue/ue.d.ts:36642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36642)

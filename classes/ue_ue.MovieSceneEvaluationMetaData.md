@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11289](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11289)
+[ue/ue.d.ts:11289](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11289)
 
 • **new MovieSceneEvaluationMetaData**(`ActiveSequences`, `ActiveEntities`, `SubTemplateSerialNumbers`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11290](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11290)
+[ue/ue.d.ts:11290](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11290)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11292](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11292)
+[ue/ue.d.ts:11292](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11292)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11291](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11291)
+[ue/ue.d.ts:11291](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11291)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11293](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11293)
+[ue/ue.d.ts:11293](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11293)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11299](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11299)
+[ue/ue.d.ts:11299](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11299)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11297](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11297)
+[ue/ue.d.ts:11297](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11297)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11298](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11298)
+[ue/ue.d.ts:11298](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11298)

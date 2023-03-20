@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17764](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17764)
+[ue/ue.d.ts:17764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17764)
 
 • **new AnimPhysSphericalLimit**(`DrivingBone`, `SphereLocalOffset`, `LimitRadius`, `LimitType`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17765](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17765)
+[ue/ue.d.ts:17765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17765)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17766](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17766)
+[ue/ue.d.ts:17766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17766)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17768](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17768)
+[ue/ue.d.ts:17768](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17768)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17769](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17769)
+[ue/ue.d.ts:17769](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17769)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17767](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17767)
+[ue/ue.d.ts:17767](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17767)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17775](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17775)
+[ue/ue.d.ts:17775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17775)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:17773](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17773)
+[ue/ue.d.ts:17773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17773)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17774](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17774)
+[ue/ue.d.ts:17774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17774)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64166](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64166)
+[ue/ue.d.ts:64166](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64166)
 
 • **new TranslationContextInfo**(`Key`, `Context`, `Changes`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64167](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64167)
+[ue/ue.d.ts:64167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64167)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:64170](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64170)
+[ue/ue.d.ts:64170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64170)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64169](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64169)
+[ue/ue.d.ts:64169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64169)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64168](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64168)
+[ue/ue.d.ts:64168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64168)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64176](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64176)
+[ue/ue.d.ts:64176](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64176)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:64174](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64174)
+[ue/ue.d.ts:64174](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64174)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:64175](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L64175)
+[ue/ue.d.ts:64175](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L64175)

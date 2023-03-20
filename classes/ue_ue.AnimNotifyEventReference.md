@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5020](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5020)
+[ue/ue.d.ts:5020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5020)
 
 • **new AnimNotifyEventReference**(`NotifySource`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5021](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5021)
+[ue/ue.d.ts:5021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5021)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:5022](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5022)
+[ue/ue.d.ts:5022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5022)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5028](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5028)
+[ue/ue.d.ts:5028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5028)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:5026](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5026)
+[ue/ue.d.ts:5026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5026)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:5027](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L5027)
+[ue/ue.d.ts:5027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L5027)

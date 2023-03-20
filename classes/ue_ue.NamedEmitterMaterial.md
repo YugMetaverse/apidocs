@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7188](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7188)
+[ue/ue.d.ts:7188](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7188)
 
 • **new NamedEmitterMaterial**(`Name`, `Material`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7189](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7189)
+[ue/ue.d.ts:7189](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7189)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7191](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7191)
+[ue/ue.d.ts:7191](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7191)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7190](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7190)
+[ue/ue.d.ts:7190](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7190)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7197](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7197)
+[ue/ue.d.ts:7197](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7197)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7195](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7195)
+[ue/ue.d.ts:7195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7195)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7196](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7196)
+[ue/ue.d.ts:7196](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7196)

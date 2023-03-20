@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51680](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51680)
+[ue/ue.d.ts:51680](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51680)
 
 • **new MovieSceneEventPtrs**(`Function`, `BoundObjectProperty`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51681](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51681)
+[ue/ue.d.ts:51681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51681)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51683](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51683)
+[ue/ue.d.ts:51683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51683)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51682](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51682)
+[ue/ue.d.ts:51682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51682)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51689](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51689)
+[ue/ue.d.ts:51689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51689)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:51687](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51687)
+[ue/ue.d.ts:51687](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51687)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51688](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51688)
+[ue/ue.d.ts:51688](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51688)

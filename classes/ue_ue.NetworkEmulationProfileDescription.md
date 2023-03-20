@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53486](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53486)
+[ue/ue.d.ts:53486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53486)
 
 • **new NetworkEmulationProfileDescription**(`ProfileName`, `ToolTip`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53487](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53487)
+[ue/ue.d.ts:53487](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53487)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:53488](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53488)
+[ue/ue.d.ts:53488](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53488)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53489](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53489)
+[ue/ue.d.ts:53489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53489)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53495](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53495)
+[ue/ue.d.ts:53495](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53495)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:53493](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53493)
+[ue/ue.d.ts:53493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53493)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:53494](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L53494)
+[ue/ue.d.ts:53494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L53494)

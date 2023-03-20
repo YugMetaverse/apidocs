@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27640](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27640)
+[ue/ue.d.ts:27640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27640)
 
 • **new ClothVertBoneData**(`NumInfluences`, `BoneIndices`, `BoneWeights`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27641)
+[ue/ue.d.ts:27641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27641)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27643](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27643)
+[ue/ue.d.ts:27643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27643)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27644](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27644)
+[ue/ue.d.ts:27644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27644)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27642](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27642)
+[ue/ue.d.ts:27642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27642)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27650](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27650)
+[ue/ue.d.ts:27650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27650)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27648)
+[ue/ue.d.ts:27648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27648)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27649](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27649)
+[ue/ue.d.ts:27649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27649)

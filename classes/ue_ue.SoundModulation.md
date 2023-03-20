@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8902](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8902)
+[ue/ue.d.ts:8902](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8902)
 
 • **new SoundModulation**(`Settings`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8903](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8903)
+[ue/ue.d.ts:8903](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8903)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8904](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8904)
+[ue/ue.d.ts:8904](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8904)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8910](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8910)
+[ue/ue.d.ts:8910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8910)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:8908](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8908)
+[ue/ue.d.ts:8908](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8908)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8909](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8909)
+[ue/ue.d.ts:8909](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8909)

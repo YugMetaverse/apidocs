@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2619](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2619)
+[ue/ue.d.ts:2619](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2619)
 
 • **new PerPlatformFloat**(`Default`, `PerPlatform`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2620)
+[ue/ue.d.ts:2620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2620)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2621)
+[ue/ue.d.ts:2621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2621)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2622)
+[ue/ue.d.ts:2622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2622)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2628](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2628)
+[ue/ue.d.ts:2628](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2628)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2626](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2626)
+[ue/ue.d.ts:2626](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2626)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2627](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2627)
+[ue/ue.d.ts:2627](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2627)

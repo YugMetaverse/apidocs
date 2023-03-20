@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:42976](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42976)
+[ue/ue.d.ts:42976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42976)
 
 • **new ProcMeshTangent**(`TangentX`, `bFlipTangentY`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:42977](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42977)
+[ue/ue.d.ts:42977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42977)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:42978](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42978)
+[ue/ue.d.ts:42978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42978)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:42985](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42985)
+[ue/ue.d.ts:42985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42985)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:42979](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42979)
+[ue/ue.d.ts:42979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42979)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:42983](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42983)
+[ue/ue.d.ts:42983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42983)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:42984](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L42984)
+[ue/ue.d.ts:42984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L42984)

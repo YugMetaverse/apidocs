@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7810](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7810)
+[ue/ue.d.ts:7810](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7810)
 
 • **new MeshSectionInfoMap**(`Map`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7811](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7811)
+[ue/ue.d.ts:7811](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7811)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:7812](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7812)
+[ue/ue.d.ts:7812](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7812)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7818](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7818)
+[ue/ue.d.ts:7818](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7818)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:7816](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7816)
+[ue/ue.d.ts:7816](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7816)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:7817](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L7817)
+[ue/ue.d.ts:7817](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L7817)

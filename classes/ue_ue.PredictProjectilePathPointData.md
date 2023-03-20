@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36827](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36827)
+[ue/ue.d.ts:36827](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36827)
 
 • **new PredictProjectilePathPointData**(`Location`, `Velocity`, `Time`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36828](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36828)
+[ue/ue.d.ts:36828](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36828)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36829](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36829)
+[ue/ue.d.ts:36829](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36829)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36831](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36831)
+[ue/ue.d.ts:36831](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36831)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36830](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36830)
+[ue/ue.d.ts:36830](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36830)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36837](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36837)
+[ue/ue.d.ts:36837](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36837)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36835](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36835)
+[ue/ue.d.ts:36835](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36835)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36836](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36836)
+[ue/ue.d.ts:36836](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36836)

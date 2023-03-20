@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:453](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L453)
+[ue/ue.d.ts:453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L453)
 
 • **new TextureFormatSettings**(`CompressionSettings`, `CompressionNoAlpha`, `CompressionNone`, `CompressionYCoCg`, `SRGB`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:454](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L454)
+[ue/ue.d.ts:454](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L454)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:456](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L456)
+[ue/ue.d.ts:456](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L456)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:457](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L457)
+[ue/ue.d.ts:457](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L457)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:455](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L455)
+[ue/ue.d.ts:455](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L455)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:458](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L458)
+[ue/ue.d.ts:458](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L458)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:459](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L459)
+[ue/ue.d.ts:459](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L459)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:465](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L465)
+[ue/ue.d.ts:465](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L465)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:463](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L463)
+[ue/ue.d.ts:463](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L463)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:464](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L464)
+[ue/ue.d.ts:464](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L464)

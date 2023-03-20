@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43756](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43756)
+[ue/ue.d.ts:43756](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43756)
 
 • **new ForeignControlPointData**(`ModificationKey`, `MeshComponent`, `Identifier`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43757](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43757)
+[ue/ue.d.ts:43757](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43757)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43760](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43760)
+[ue/ue.d.ts:43760](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43760)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43759](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43759)
+[ue/ue.d.ts:43759](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43759)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43758](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43758)
+[ue/ue.d.ts:43758](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43758)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43766](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43766)
+[ue/ue.d.ts:43766](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43766)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43764](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43764)
+[ue/ue.d.ts:43764](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43764)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43765](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43765)
+[ue/ue.d.ts:43765](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43765)

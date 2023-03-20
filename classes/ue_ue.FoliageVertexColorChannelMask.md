@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35889](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35889)
+[ue/ue.d.ts:35889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35889)
 
 • **new FoliageVertexColorChannelMask**(`UseMask`, `MaskThreshold`, `InvertMask`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35890](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35890)
+[ue/ue.d.ts:35890](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35890)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:35893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35893)
+[ue/ue.d.ts:35893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35893)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35892)
+[ue/ue.d.ts:35892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35892)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35891](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35891)
+[ue/ue.d.ts:35891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35891)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35899)
+[ue/ue.d.ts:35899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35899)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:35897](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35897)
+[ue/ue.d.ts:35897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35897)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:35898](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L35898)
+[ue/ue.d.ts:35898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L35898)

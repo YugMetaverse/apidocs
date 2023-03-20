@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9489](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9489)
+[ue/ue.d.ts:9489](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9489)
 
 • **new SoundWaveSpectralDataEntry**(`Magnitude`, `NormalizedMagnitude`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9490](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9490)
+[ue/ue.d.ts:9490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9490)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9491](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9491)
+[ue/ue.d.ts:9491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9491)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9492](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9492)
+[ue/ue.d.ts:9492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9492)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9498](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9498)
+[ue/ue.d.ts:9498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9498)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9496](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9496)
+[ue/ue.d.ts:9496](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9496)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9497](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9497)
+[ue/ue.d.ts:9497](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9497)

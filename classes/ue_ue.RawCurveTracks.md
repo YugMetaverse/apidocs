@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3102](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3102)
+[ue/ue.d.ts:3102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3102)
 
 • **new RawCurveTracks**(`FloatCurves`, `VectorCurves`, `TransformCurves`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3103](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3103)
+[ue/ue.d.ts:3103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3103)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3104](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3104)
+[ue/ue.d.ts:3104](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3104)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3106](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3106)
+[ue/ue.d.ts:3106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3106)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3105](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3105)
+[ue/ue.d.ts:3105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3105)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3112](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3112)
+[ue/ue.d.ts:3112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3112)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3110](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3110)
+[ue/ue.d.ts:3110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3110)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3111](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3111)
+[ue/ue.d.ts:3111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3111)

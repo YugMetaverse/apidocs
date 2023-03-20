@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20978](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20978)
+[ue/ue.d.ts:20978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20978)
 
 • **new ARSkeletonDefinition**(`NumJoints`, `JointNames`, `ParentIndices`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20979](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20979)
+[ue/ue.d.ts:20979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20979)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20981](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20981)
+[ue/ue.d.ts:20981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20981)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20980](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20980)
+[ue/ue.d.ts:20980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20980)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20982](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20982)
+[ue/ue.d.ts:20982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20982)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20988](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20988)
+[ue/ue.d.ts:20988](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20988)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:20986](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20986)
+[ue/ue.d.ts:20986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20986)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20987](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20987)
+[ue/ue.d.ts:20987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20987)

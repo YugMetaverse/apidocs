@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2731](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2731)
+[ue/ue.d.ts:2731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2731)
 
 • **new PoseDataContainer**(`PoseNames`, `Tracks`, `TrackMap`, `Poses`, `Curves`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2732](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2732)
+[ue/ue.d.ts:2732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2732)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2737](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2737)
+[ue/ue.d.ts:2737](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2737)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2733](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2733)
+[ue/ue.d.ts:2733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2733)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2736](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2736)
+[ue/ue.d.ts:2736](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2736)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2735](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2735)
+[ue/ue.d.ts:2735](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2735)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2734](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2734)
+[ue/ue.d.ts:2734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2734)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2743](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2743)
+[ue/ue.d.ts:2743](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2743)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2741](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2741)
+[ue/ue.d.ts:2741](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2741)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2742](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2742)
+[ue/ue.d.ts:2742](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2742)

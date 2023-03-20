@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:34928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34928)
+[ue/ue.d.ts:34928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34928)
 
 • **new ExponentialHeightFogData**(`FogDensity`, `FogHeightFalloff`, `FogHeightOffset`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:34929](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34929)
+[ue/ue.d.ts:34929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34929)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:34930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34930)
+[ue/ue.d.ts:34930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34930)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34931](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34931)
+[ue/ue.d.ts:34931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34931)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34932)
+[ue/ue.d.ts:34932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34932)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34938](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34938)
+[ue/ue.d.ts:34938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34938)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:34936](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34936)
+[ue/ue.d.ts:34936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34936)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34937](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34937)
+[ue/ue.d.ts:34937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34937)

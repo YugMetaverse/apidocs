@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36841](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36841)
+[ue/ue.d.ts:36841](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36841)
 
 • **new PredictProjectilePathResult**(`PathData`, `LastTraceDestination`, `HitResult`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36842](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36842)
+[ue/ue.d.ts:36842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36842)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36845](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36845)
+[ue/ue.d.ts:36845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36845)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36844](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36844)
+[ue/ue.d.ts:36844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36844)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36843](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36843)
+[ue/ue.d.ts:36843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36843)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36851](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36851)
+[ue/ue.d.ts:36851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36851)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36849](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36849)
+[ue/ue.d.ts:36849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36849)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36850](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36850)
+[ue/ue.d.ts:36850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36850)

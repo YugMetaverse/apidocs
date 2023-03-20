@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30853](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30853)
+[ue/ue.d.ts:30853](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30853)
 
 • **new DialogueContext**(`Speaker`, `Targets`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30854](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30854)
+[ue/ue.d.ts:30854](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30854)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:30855](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30855)
+[ue/ue.d.ts:30855](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30855)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30856](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30856)
+[ue/ue.d.ts:30856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30856)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30862](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30862)
+[ue/ue.d.ts:30862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30862)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:30860](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30860)
+[ue/ue.d.ts:30860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30860)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:30861](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L30861)
+[ue/ue.d.ts:30861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L30861)

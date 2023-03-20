@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50098](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50098)
+[ue/ue.d.ts:50098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50098)
 
 • **new MediaCaptureDevice**(`DisplayName`, `Url`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50099](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50099)
+[ue/ue.d.ts:50099](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50099)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50100](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50100)
+[ue/ue.d.ts:50100](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50100)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50101](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50101)
+[ue/ue.d.ts:50101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50101)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50107](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50107)
+[ue/ue.d.ts:50107](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50107)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:50105](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50105)
+[ue/ue.d.ts:50105](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50105)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50106](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50106)
+[ue/ue.d.ts:50106](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50106)

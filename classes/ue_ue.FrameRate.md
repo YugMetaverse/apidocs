@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11356](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11356)
+[ue/ue.d.ts:11356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11356)
 
 • **new FrameRate**(`Numerator`, `Denominator`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11357](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11357)
+[ue/ue.d.ts:11357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11357)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11359](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11359)
+[ue/ue.d.ts:11359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11359)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11358](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11358)
+[ue/ue.d.ts:11358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11358)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11365](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11365)
+[ue/ue.d.ts:11365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11365)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11363](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11363)
+[ue/ue.d.ts:11363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11363)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11364](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11364)
+[ue/ue.d.ts:11364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11364)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63773](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63773)
+[ue/ue.d.ts:63773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63773)
 
 • **new ToolMenuInsert**(`Name`, `Position`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63774](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63774)
+[ue/ue.d.ts:63774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63774)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63775](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63775)
+[ue/ue.d.ts:63775](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63775)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63776](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63776)
+[ue/ue.d.ts:63776](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63776)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63782](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63782)
+[ue/ue.d.ts:63782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63782)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:63780](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63780)
+[ue/ue.d.ts:63780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63780)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63781](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63781)
+[ue/ue.d.ts:63781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63781)

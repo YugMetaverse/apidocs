@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51178](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51178)
+[ue/ue.d.ts:51178](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51178)
 
 • **new IntegralKey**(`Time`, `Value`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51179](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51179)
+[ue/ue.d.ts:51179](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51179)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:51180](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51180)
+[ue/ue.d.ts:51180](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51180)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51181](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51181)
+[ue/ue.d.ts:51181](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51181)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51187](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51187)
+[ue/ue.d.ts:51187](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51187)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:51185](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51185)
+[ue/ue.d.ts:51185](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51185)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:51186](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L51186)
+[ue/ue.d.ts:51186](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L51186)

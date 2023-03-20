@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2525](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2525)
+[ue/ue.d.ts:2525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2525)
 
 • **new PreviewAssetAttachContainer**(`AttachedObjects`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2526](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2526)
+[ue/ue.d.ts:2526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2526)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2527](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2527)
+[ue/ue.d.ts:2527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2527)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2533](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2533)
+[ue/ue.d.ts:2533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2533)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2531](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2531)
+[ue/ue.d.ts:2531](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2531)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2532](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2532)
+[ue/ue.d.ts:2532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2532)

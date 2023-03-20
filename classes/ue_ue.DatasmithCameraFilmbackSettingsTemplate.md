@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29525](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29525)
+[ue/ue.d.ts:29525](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29525)
 
 • **new DatasmithCameraFilmbackSettingsTemplate**(`SensorWidth`, `SensorHeight`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29526](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29526)
+[ue/ue.d.ts:29526](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29526)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:29528](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29528)
+[ue/ue.d.ts:29528](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29528)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29527](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29527)
+[ue/ue.d.ts:29527](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29527)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29534](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29534)
+[ue/ue.d.ts:29534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29534)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:29532](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29532)
+[ue/ue.d.ts:29532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29532)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:29533](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L29533)
+[ue/ue.d.ts:29533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L29533)

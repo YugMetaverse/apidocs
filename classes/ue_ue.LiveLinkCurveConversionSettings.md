@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45860](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45860)
+[ue/ue.d.ts:45860](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45860)
 
 • **new LiveLinkCurveConversionSettings**(`CurveConversionAssetMap`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45861](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45861)
+[ue/ue.d.ts:45861](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45861)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45862](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45862)
+[ue/ue.d.ts:45862](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45862)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45868](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45868)
+[ue/ue.d.ts:45868](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45868)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:45866](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45866)
+[ue/ue.d.ts:45866](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45866)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45867](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45867)
+[ue/ue.d.ts:45867](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45867)

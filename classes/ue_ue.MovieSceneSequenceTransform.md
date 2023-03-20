@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11343](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11343)
+[ue/ue.d.ts:11343](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11343)
 
 • **new MovieSceneSequenceTransform**(`TimeScale`, `Offset`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11344](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11344)
+[ue/ue.d.ts:11344](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11344)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11346](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11346)
+[ue/ue.d.ts:11346](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11346)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11345](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11345)
+[ue/ue.d.ts:11345](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11345)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11352](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11352)
+[ue/ue.d.ts:11352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11352)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11350](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11350)
+[ue/ue.d.ts:11350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11350)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11351](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11351)
+[ue/ue.d.ts:11351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11351)

@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2089](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2089)
+[ue/ue.d.ts:2089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2089)
 
 • **new MaterialLayersFunctions**(`Layers`, `Blends`, `LayerNames`, `RestrictToLayerRelatives`, `RestrictToBlendRelatives`, `LayerStates`, `KeyString`)
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2090](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2090)
+[ue/ue.d.ts:2090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2090)
 
 ## Properties
 
@@ -62,7 +62,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2092)
+[ue/ue.d.ts:2092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2092)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2097](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2097)
+[ue/ue.d.ts:2097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2097)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2093](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2093)
+[ue/ue.d.ts:2093](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2093)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2096](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2096)
+[ue/ue.d.ts:2096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2096)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2091)
+[ue/ue.d.ts:2091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2091)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2095](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2095)
+[ue/ue.d.ts:2095](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2095)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2094](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2094)
+[ue/ue.d.ts:2094](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2094)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2103](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2103)
+[ue/ue.d.ts:2103](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2103)
 
 ## Methods
 
@@ -150,7 +150,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2101](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2101)
+[ue/ue.d.ts:2101](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2101)
 
 ___
 
@@ -164,4 +164,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2102](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2102)
+[ue/ue.d.ts:2102](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2102)

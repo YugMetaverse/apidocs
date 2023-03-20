@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3396)
+[ue/ue.d.ts:3396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3396)
 
 • **new Matrix**(`XPlane`, `YPlane`, `ZPlane`, `WPlane`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3397](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3397)
+[ue/ue.d.ts:3397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3397)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:3401](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3401)
+[ue/ue.d.ts:3401](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3401)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3398](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3398)
+[ue/ue.d.ts:3398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3398)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3399](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3399)
+[ue/ue.d.ts:3399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3399)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3400](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3400)
+[ue/ue.d.ts:3400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3400)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3407](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3407)
+[ue/ue.d.ts:3407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3407)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:3405](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3405)
+[ue/ue.d.ts:3405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3405)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:3406](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L3406)
+[ue/ue.d.ts:3406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L3406)

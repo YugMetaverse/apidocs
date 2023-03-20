@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20613](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20613)
+[ue/ue.d.ts:20613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20613)
 
 • **new AppleImageUtilsImageConversionResult**(`Error`, `ImageData`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20614](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20614)
+[ue/ue.d.ts:20614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20614)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20615](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20615)
+[ue/ue.d.ts:20615](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20615)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20616](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20616)
+[ue/ue.d.ts:20616](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20616)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20622](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20622)
+[ue/ue.d.ts:20622](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20622)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:20620](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20620)
+[ue/ue.d.ts:20620](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20620)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20621](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20621)
+[ue/ue.d.ts:20621](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20621)

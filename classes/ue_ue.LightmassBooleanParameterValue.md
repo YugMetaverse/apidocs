@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47363](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47363)
+[ue/ue.d.ts:47363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47363)
 
 • **new LightmassBooleanParameterValue**(`ParameterValue`)
 
@@ -55,7 +55,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47364](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47364)
+[ue/ue.d.ts:47364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47364)
 
 ## Properties
 
@@ -65,7 +65,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47365](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47365)
+[ue/ue.d.ts:47365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47365)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47371](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47371)
+[ue/ue.d.ts:47371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47371)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47353](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47353)
+[ue/ue.d.ts:47353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47353)
 
 ## Methods
 
@@ -111,7 +111,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:47369](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47369)
+[ue/ue.d.ts:47369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47369)
 
 ___
 
@@ -129,4 +129,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47370](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47370)
+[ue/ue.d.ts:47370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47370)

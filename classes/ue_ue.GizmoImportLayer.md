@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44226](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44226)
+[ue/ue.d.ts:44226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44226)
 
 • **new GizmoImportLayer**(`LayerFilename`, `LayerName`, `bNoImport`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44227](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44227)
+[ue/ue.d.ts:44227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44227)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44228](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44228)
+[ue/ue.d.ts:44228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44228)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44229](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44229)
+[ue/ue.d.ts:44229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44229)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44236](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44236)
+[ue/ue.d.ts:44236](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44236)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44230](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44230)
+[ue/ue.d.ts:44230](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44230)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44234](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44234)
+[ue/ue.d.ts:44234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44234)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44235](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44235)
+[ue/ue.d.ts:44235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44235)

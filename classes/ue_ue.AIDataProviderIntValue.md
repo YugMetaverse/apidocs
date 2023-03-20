@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:34348](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34348)
+[ue/ue.d.ts:34348](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34348)
 
 • **new AIDataProviderIntValue**(`DefaultValue`)
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:34349](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34349)
+[ue/ue.d.ts:34349](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34349)
 
 ## Properties
 
@@ -72,7 +72,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:15492](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15492)
+[ue/ue.d.ts:15492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15492)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15493](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15493)
+[ue/ue.d.ts:15493](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15493)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15494](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15494)
+[ue/ue.d.ts:15494](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15494)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34350](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34350)
+[ue/ue.d.ts:34350](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34350)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:15506](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15506)
+[ue/ue.d.ts:15506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L15506)
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34356](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34356)
+[ue/ue.d.ts:34356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34356)
 
 ## Methods
 
@@ -156,7 +156,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:34354](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34354)
+[ue/ue.d.ts:34354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34354)
 
 ___
 
@@ -174,4 +174,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:34355](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L34355)
+[ue/ue.d.ts:34355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L34355)

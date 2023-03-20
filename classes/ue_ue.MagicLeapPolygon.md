@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46932)
+[ue/ue.d.ts:46932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46932)
 
 • **new MagicLeapPolygon**(`Vertices`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46933)
+[ue/ue.d.ts:46933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46933)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46934](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46934)
+[ue/ue.d.ts:46934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46934)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46940](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46940)
+[ue/ue.d.ts:46940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46940)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46938](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46938)
+[ue/ue.d.ts:46938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46938)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46939](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46939)
+[ue/ue.d.ts:46939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46939)

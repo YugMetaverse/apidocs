@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57192](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57192)
+[ue/ue.d.ts:57192](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57192)
 
 • **new AssetEditorOptions**(`Context`, `ViewportConfigs`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57193](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57193)
+[ue/ue.d.ts:57193](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57193)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:57194](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57194)
+[ue/ue.d.ts:57194](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57194)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57195](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57195)
+[ue/ue.d.ts:57195](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57195)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57201](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57201)
+[ue/ue.d.ts:57201](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57201)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:57199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57199)
+[ue/ue.d.ts:57199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57199)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:57200](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L57200)
+[ue/ue.d.ts:57200](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L57200)

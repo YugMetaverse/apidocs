@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46160](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46160)
+[ue/ue.d.ts:46160](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46160)
 
 • **new CultureStatistics**(`CultureName`, `WordCount`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46161](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46161)
+[ue/ue.d.ts:46161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46161)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46162](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46162)
+[ue/ue.d.ts:46162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46162)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46163](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46163)
+[ue/ue.d.ts:46163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46163)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46169](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46169)
+[ue/ue.d.ts:46169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46169)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46167](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46167)
+[ue/ue.d.ts:46167](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46167)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46168](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46168)
+[ue/ue.d.ts:46168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46168)

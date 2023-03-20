@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43910](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43910)
+[ue/ue.d.ts:43910](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43910)
 
 • **new WeightmapLayerAllocationInfo**(`LayerInfo`, `WeightmapTextureIndex`, `WeightmapTextureChannel`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43911](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43911)
+[ue/ue.d.ts:43911](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43911)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43912](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43912)
+[ue/ue.d.ts:43912](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43912)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43914](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43914)
+[ue/ue.d.ts:43914](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43914)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43913](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43913)
+[ue/ue.d.ts:43913](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43913)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43920](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43920)
+[ue/ue.d.ts:43920](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43920)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43918](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43918)
+[ue/ue.d.ts:43918](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43918)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43919](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43919)
+[ue/ue.d.ts:43919](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43919)

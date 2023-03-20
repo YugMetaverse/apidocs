@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44991](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44991)
+[ue/ue.d.ts:44991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44991)
 
 • **new ExposureSettings**(`FixedEV100`, `bFixed`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44992](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44992)
+[ue/ue.d.ts:44992](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44992)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44993](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44993)
+[ue/ue.d.ts:44993](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44993)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45000](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45000)
+[ue/ue.d.ts:45000](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45000)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44994](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44994)
+[ue/ue.d.ts:44994](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44994)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44998](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44998)
+[ue/ue.d.ts:44998](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44998)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44999](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44999)
+[ue/ue.d.ts:44999](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44999)

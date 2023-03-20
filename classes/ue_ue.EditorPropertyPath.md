@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33602](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33602)
+[ue/ue.d.ts:33602](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33602)
 
 • **new EditorPropertyPath**(`Segments`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33603](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33603)
+[ue/ue.d.ts:33603](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33603)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:33604](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33604)
+[ue/ue.d.ts:33604](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33604)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33610](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33610)
+[ue/ue.d.ts:33610](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33610)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:33608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33608)
+[ue/ue.d.ts:33608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33608)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:33609](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L33609)
+[ue/ue.d.ts:33609](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L33609)

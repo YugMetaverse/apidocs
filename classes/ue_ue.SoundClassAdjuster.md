@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8928](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8928)
+[ue/ue.d.ts:8928](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8928)
 
 • **new SoundClassAdjuster**(`SoundClassObject`, `VolumeAdjuster`, `PitchAdjuster`, `LowPassFilterFrequency`, `bApplyToChildren`, `VoiceCenterChannelVolumeAdjuster`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8929](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8929)
+[ue/ue.d.ts:8929](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8929)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8933](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8933)
+[ue/ue.d.ts:8933](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8933)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8932](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8932)
+[ue/ue.d.ts:8932](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8932)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8930](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8930)
+[ue/ue.d.ts:8930](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8930)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8935](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8935)
+[ue/ue.d.ts:8935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8935)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8931](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8931)
+[ue/ue.d.ts:8931](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8931)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8941](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8941)
+[ue/ue.d.ts:8941](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8941)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8934](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8934)
+[ue/ue.d.ts:8934](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8934)
 
 ## Methods
 
@@ -138,7 +138,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:8939](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8939)
+[ue/ue.d.ts:8939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8939)
 
 ___
 
@@ -152,4 +152,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8940](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8940)
+[ue/ue.d.ts:8940](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8940)

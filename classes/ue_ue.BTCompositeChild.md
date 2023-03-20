@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14637](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14637)
+[ue/ue.d.ts:14637](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14637)
 
 • **new BTCompositeChild**(`ChildComposite`, `ChildTask`, `Decorators`, `DecoratorOps`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14638](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14638)
+[ue/ue.d.ts:14638](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14638)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14639](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14639)
+[ue/ue.d.ts:14639](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14639)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14640](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14640)
+[ue/ue.d.ts:14640](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14640)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14642](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14642)
+[ue/ue.d.ts:14642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14642)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14641)
+[ue/ue.d.ts:14641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14641)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14648)
+[ue/ue.d.ts:14648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14648)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14646](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14646)
+[ue/ue.d.ts:14646](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14646)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14647](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14647)
+[ue/ue.d.ts:14647](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14647)

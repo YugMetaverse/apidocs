@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/puerts.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L77)
+[ue/puerts.d.ts:77](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L77)
 
 ## Methods
 
@@ -48,4 +48,4 @@
 
 #### Defined in
 
-[ue/puerts.d.ts:78](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L78)
+[ue/puerts.d.ts:78](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L78)

@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:58544](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58544)
+[ue/ue.d.ts:58544](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58544)
 
 • **new ProgressBarStyle**(`BackgroundImage`, `FillImage`, `MarqueeImage`)
 
@@ -58,7 +58,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:58545](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58545)
+[ue/ue.d.ts:58545](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58545)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:58546](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58546)
+[ue/ue.d.ts:58546](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58546)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58547](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58547)
+[ue/ue.d.ts:58547](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58547)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58548](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58548)
+[ue/ue.d.ts:58548](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58548)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58554](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58554)
+[ue/ue.d.ts:58554](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58554)
 
 ## Methods
 
@@ -120,7 +120,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:58552](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58552)
+[ue/ue.d.ts:58552](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58552)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:58553](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L58553)
+[ue/ue.d.ts:58553](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L58553)

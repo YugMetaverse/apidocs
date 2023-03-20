@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14784](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14784)
+[ue/ue.d.ts:14784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14784)
 
 • **new ActorPerceptionBlueprintInfo**(`Target`, `LastSensedStimuli`, `bIsHostile`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14785](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14785)
+[ue/ue.d.ts:14785](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14785)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14787](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14787)
+[ue/ue.d.ts:14787](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14787)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14786](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14786)
+[ue/ue.d.ts:14786](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14786)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14794](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14794)
+[ue/ue.d.ts:14794](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14794)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14788)
+[ue/ue.d.ts:14788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14788)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14792](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14792)
+[ue/ue.d.ts:14792](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14792)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14793](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14793)
+[ue/ue.d.ts:14793](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14793)

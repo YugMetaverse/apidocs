@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43696](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43696)
+[ue/ue.d.ts:43696](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43696)
 
 • **new LandscapeSplineConnection**(`Segment`, `End`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43697](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43697)
+[ue/ue.d.ts:43697](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43697)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43699](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43699)
+[ue/ue.d.ts:43699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43699)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43698](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43698)
+[ue/ue.d.ts:43698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43698)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43705](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43705)
+[ue/ue.d.ts:43705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43705)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43703](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43703)
+[ue/ue.d.ts:43703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43703)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43704)
+[ue/ue.d.ts:43704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43704)

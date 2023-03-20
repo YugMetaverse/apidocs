@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38444](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38444)
+[ue/ue.d.ts:38444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38444)
 
 • **new HapticFeedbackDetails_Curve**(`Frequency`, `Amplitude`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38445](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38445)
+[ue/ue.d.ts:38445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38445)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:38447](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38447)
+[ue/ue.d.ts:38447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38447)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38446](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38446)
+[ue/ue.d.ts:38446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38446)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38453](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38453)
+[ue/ue.d.ts:38453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38453)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:38451](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38451)
+[ue/ue.d.ts:38451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38451)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:38452](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L38452)
+[ue/ue.d.ts:38452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L38452)

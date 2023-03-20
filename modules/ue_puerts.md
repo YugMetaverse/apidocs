@@ -37641,7 +37641,7 @@ Re-exports [uproperty](ue_puerts_decorators.uproperty.md)
 
 #### Defined in
 
-[ue/puerts.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L9)
+[ue/puerts.d.ts:9](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L9)
 
 ___
 
@@ -37651,9 +37651,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L81)
+[ue/puerts.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L81)
 
-[ue/puerts.d.ts:90](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L90)
+[ue/puerts.d.ts:90](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L90)
 
 ___
 
@@ -37663,9 +37663,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L82)
+[ue/puerts.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L82)
 
-[ue/puerts.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L91)
+[ue/puerts.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L91)
 
 ___
 
@@ -37675,9 +37675,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L84)
+[ue/puerts.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L84)
 
-[ue/puerts.d.ts:93](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L93)
+[ue/puerts.d.ts:93](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L93)
 
 ___
 
@@ -37687,9 +37687,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L83)
+[ue/puerts.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L83)
 
-[ue/puerts.d.ts:92](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L92)
+[ue/puerts.d.ts:92](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L92)
 
 ___
 
@@ -37699,9 +37699,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L85)
+[ue/puerts.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L85)
 
-[ue/puerts.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L94)
+[ue/puerts.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L94)
 
 ___
 
@@ -37711,9 +37711,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L88)
+[ue/puerts.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L88)
 
-[ue/puerts.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L97)
+[ue/puerts.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L97)
 
 ___
 
@@ -37723,9 +37723,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L86)
+[ue/puerts.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L86)
 
-[ue/puerts.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L95)
+[ue/puerts.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L95)
 
 ___
 
@@ -37735,9 +37735,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L87)
+[ue/puerts.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L87)
 
-[ue/puerts.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L96)
+[ue/puerts.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L96)
 
 ___
 
@@ -37753,7 +37753,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:99](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L99)
+[ue/puerts.d.ts:99](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L99)
 
 ___
 
@@ -37769,7 +37769,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:118](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L118)
+[ue/puerts.d.ts:118](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L118)
 
 ___
 
@@ -37785,7 +37785,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:114](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L114)
+[ue/puerts.d.ts:114](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L114)
 
 ___
 
@@ -37795,7 +37795,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:108](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L108)
+[ue/puerts.d.ts:108](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L108)
 
 ___
 
@@ -37811,7 +37811,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L137)
+[ue/puerts.d.ts:137](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L137)
 
 ___
 
@@ -37834,7 +37834,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L145)
+[ue/puerts.d.ts:145](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L145)
 
 ___
 
@@ -37857,7 +37857,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:132](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L132)
+[ue/puerts.d.ts:132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L132)
 
 ___
 
@@ -37873,7 +37873,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L141)
+[ue/puerts.d.ts:141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L141)
 
 ___
 
@@ -37889,7 +37889,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L128)
+[ue/puerts.d.ts:128](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L128)
 
 ## Variables
 
@@ -37899,9 +37899,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L81)
+[ue/puerts.d.ts:81](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L81)
 
-[ue/puerts.d.ts:90](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L90)
+[ue/puerts.d.ts:90](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L90)
 
 ___
 
@@ -37911,9 +37911,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L82)
+[ue/puerts.d.ts:82](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L82)
 
-[ue/puerts.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L91)
+[ue/puerts.d.ts:91](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L91)
 
 ___
 
@@ -37923,9 +37923,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L84)
+[ue/puerts.d.ts:84](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L84)
 
-[ue/puerts.d.ts:93](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L93)
+[ue/puerts.d.ts:93](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L93)
 
 ___
 
@@ -37935,9 +37935,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L83)
+[ue/puerts.d.ts:83](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L83)
 
-[ue/puerts.d.ts:92](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L92)
+[ue/puerts.d.ts:92](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L92)
 
 ___
 
@@ -37947,9 +37947,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L85)
+[ue/puerts.d.ts:85](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L85)
 
-[ue/puerts.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L94)
+[ue/puerts.d.ts:94](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L94)
 
 ___
 
@@ -37959,9 +37959,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L88)
+[ue/puerts.d.ts:88](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L88)
 
-[ue/puerts.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L97)
+[ue/puerts.d.ts:97](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L97)
 
 ___
 
@@ -37971,9 +37971,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L86)
+[ue/puerts.d.ts:86](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L86)
 
-[ue/puerts.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L95)
+[ue/puerts.d.ts:95](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L95)
 
 ___
 
@@ -37983,9 +37983,9 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L87)
+[ue/puerts.d.ts:87](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L87)
 
-[ue/puerts.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L96)
+[ue/puerts.d.ts:96](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L96)
 
 ## Functions
 
@@ -38005,7 +38005,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L126)
+[ue/puerts.d.ts:126](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L126)
 
 ___
 
@@ -38031,7 +38031,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:110](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L110)
+[ue/puerts.d.ts:110](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L110)
 
 ___
 
@@ -38059,7 +38059,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:112](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L112)
+[ue/puerts.d.ts:112](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L112)
 
 ___
 
@@ -38082,7 +38082,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:122](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L122)
+[ue/puerts.d.ts:122](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L122)
 
 ___
 
@@ -38108,7 +38108,7 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:111](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L111)
+[ue/puerts.d.ts:111](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L111)
 
 ___
 
@@ -38128,4 +38128,4 @@ ___
 
 #### Defined in
 
-[ue/puerts.d.ts:124](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/puerts.d.ts#L124)
+[ue/puerts.d.ts:124](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/puerts.d.ts#L124)

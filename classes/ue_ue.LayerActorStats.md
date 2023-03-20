@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8498](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8498)
+[ue/ue.d.ts:8498](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8498)
 
 • **new LayerActorStats**(`Type`, `Total`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8499](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8499)
+[ue/ue.d.ts:8499](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8499)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8501](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8501)
+[ue/ue.d.ts:8501](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8501)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8500](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8500)
+[ue/ue.d.ts:8500](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8500)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8507](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8507)
+[ue/ue.d.ts:8507](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8507)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:8505](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8505)
+[ue/ue.d.ts:8505](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8505)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8506](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8506)
+[ue/ue.d.ts:8506](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8506)

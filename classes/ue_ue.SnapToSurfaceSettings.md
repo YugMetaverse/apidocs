@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44977](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44977)
+[ue/ue.d.ts:44977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44977)
 
 • **new SnapToSurfaceSettings**(`bEnabled`, `SnapOffsetExtent`, `bSnapRotation`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44978](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44978)
+[ue/ue.d.ts:44978](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44978)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44980](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44980)
+[ue/ue.d.ts:44980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44980)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44987](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44987)
+[ue/ue.d.ts:44987](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44987)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44979](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44979)
+[ue/ue.d.ts:44979](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44979)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44981](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44981)
+[ue/ue.d.ts:44981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44981)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44985](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44985)
+[ue/ue.d.ts:44985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44985)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44986](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44986)
+[ue/ue.d.ts:44986](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44986)

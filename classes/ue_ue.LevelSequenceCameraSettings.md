@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22668](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22668)
+[ue/ue.d.ts:22668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22668)
 
 • **new LevelSequenceCameraSettings**(`bOverrideAspectRatioAxisConstraint`, `AspectRatioAxisConstraint`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22669](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22669)
+[ue/ue.d.ts:22669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22669)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22671](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22671)
+[ue/ue.d.ts:22671](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22671)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22677](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22677)
+[ue/ue.d.ts:22677](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22677)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22670](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22670)
+[ue/ue.d.ts:22670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22670)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:22675](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22675)
+[ue/ue.d.ts:22675](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22675)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22676](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22676)
+[ue/ue.d.ts:22676](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22676)

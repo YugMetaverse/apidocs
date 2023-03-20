@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16001](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16001)
+[ue/ue.d.ts:16001](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16001)
 
 • **new AISenseAffiliationFilter**(`bDetectEnemies`, `bDetectNeutrals`, `bDetectFriendlies`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16002](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16002)
+[ue/ue.d.ts:16002](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16002)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16011](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16011)
+[ue/ue.d.ts:16011](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16011)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16003](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16003)
+[ue/ue.d.ts:16003](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16003)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16005](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16005)
+[ue/ue.d.ts:16005](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16005)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16004](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16004)
+[ue/ue.d.ts:16004](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16004)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16009](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16009)
+[ue/ue.d.ts:16009](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16009)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16010](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16010)
+[ue/ue.d.ts:16010](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16010)

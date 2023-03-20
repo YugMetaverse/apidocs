@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2405](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2405)
+[ue/ue.d.ts:2405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2405)
 
 • **new AnimSlotGroup**(`GroupName`, `SlotNames`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2406](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2406)
+[ue/ue.d.ts:2406](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2406)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2407](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2407)
+[ue/ue.d.ts:2407](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2407)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2408](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2408)
+[ue/ue.d.ts:2408](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2408)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2414](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2414)
+[ue/ue.d.ts:2414](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2414)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2412](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2412)
+[ue/ue.d.ts:2412](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2412)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2413](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2413)
+[ue/ue.d.ts:2413](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2413)

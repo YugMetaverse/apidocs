@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46641](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46641)
+[ue/ue.d.ts:46641](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46641)
 
 • **new MagicLeapEyeBlinkState**(`LeftEyeBlinked`, `RightEyeBlinked`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46642](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46642)
+[ue/ue.d.ts:46642](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46642)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46643](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46643)
+[ue/ue.d.ts:46643](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46643)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46644](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46644)
+[ue/ue.d.ts:46644](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46644)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46650](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46650)
+[ue/ue.d.ts:46650](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46650)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46648](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46648)
+[ue/ue.d.ts:46648](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46648)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46649](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46649)
+[ue/ue.d.ts:46649](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46649)

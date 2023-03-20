@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55021](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55021)
+[ue/ue.d.ts:55021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55021)
 
 • **new PaperTileMetadata**(`UserDataName`, `CollisionData`, `TerrainMembership`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55022](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55022)
+[ue/ue.d.ts:55022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55022)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55024](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55024)
+[ue/ue.d.ts:55024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55024)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55025](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55025)
+[ue/ue.d.ts:55025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55025)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55023](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55023)
+[ue/ue.d.ts:55023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55023)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55031](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55031)
+[ue/ue.d.ts:55031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55031)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:55029](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55029)
+[ue/ue.d.ts:55029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55029)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55030](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55030)
+[ue/ue.d.ts:55030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55030)

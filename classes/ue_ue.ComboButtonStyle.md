@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28211](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28211)
+[ue/ue.d.ts:28211](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28211)
 
 • **new ComboButtonStyle**(`ButtonStyle`, `DownArrowImage`, `MenuBorderBrush`, `MenuBorderPadding`)
 
@@ -60,7 +60,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:28212](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28212)
+[ue/ue.d.ts:28212](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28212)
 
 ## Properties
 
@@ -70,7 +70,7 @@ UE.SlateWidgetStyle.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:28213](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28213)
+[ue/ue.d.ts:28213](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28213)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28214](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28214)
+[ue/ue.d.ts:28214](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28214)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28215](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28215)
+[ue/ue.d.ts:28215](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28215)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28216](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28216)
+[ue/ue.d.ts:28216](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28216)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28222](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28222)
+[ue/ue.d.ts:28222](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28222)
 
 ## Methods
 
@@ -132,7 +132,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28220](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28220)
+[ue/ue.d.ts:28220](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28220)
 
 ___
 
@@ -150,4 +150,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28221](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28221)
+[ue/ue.d.ts:28221](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28221)

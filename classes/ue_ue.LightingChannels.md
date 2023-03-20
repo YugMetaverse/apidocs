@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:355](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L355)
+[ue/ue.d.ts:355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L355)
 
 • **new LightingChannels**(`bChannel0`, `bChannel1`, `bChannel2`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:356](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L356)
+[ue/ue.d.ts:356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L356)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:365](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L365)
+[ue/ue.d.ts:365](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L365)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:357](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L357)
+[ue/ue.d.ts:357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L357)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:358](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L358)
+[ue/ue.d.ts:358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L358)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:359](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L359)
+[ue/ue.d.ts:359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L359)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:363](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L363)
+[ue/ue.d.ts:363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L363)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:364](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L364)
+[ue/ue.d.ts:364](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L364)

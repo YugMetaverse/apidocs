@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1606](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1606)
+[ue/ue.d.ts:1606](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1606)
 
 • **new IndexedCurve**(`KeyHandlesToIndices`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1607](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1607)
+[ue/ue.d.ts:1607](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1607)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1608)
+[ue/ue.d.ts:1608](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1608)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1614](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1614)
+[ue/ue.d.ts:1614](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1614)
 
 ## Methods
 
@@ -88,7 +88,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1612](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1612)
+[ue/ue.d.ts:1612](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1612)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1613](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1613)
+[ue/ue.d.ts:1613](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1613)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23020](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23020)
+[ue/ue.d.ts:23020](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23020)
 
 • **new EditorImportWorkflowDefinition**(`ImportFilePath`, `FactorySettings`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23021](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23021)
+[ue/ue.d.ts:23021](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23021)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:23023](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23023)
+[ue/ue.d.ts:23023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23023)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23022](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23022)
+[ue/ue.d.ts:23022](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23022)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23029](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23029)
+[ue/ue.d.ts:23029](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23029)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:23027](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23027)
+[ue/ue.d.ts:23027](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23027)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:23028](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L23028)
+[ue/ue.d.ts:23028](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L23028)

@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1891](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1891)
+[ue/ue.d.ts:1891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1891)
 
 • **new Typeface**(`Fonts`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1892)
+[ue/ue.d.ts:1892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1892)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1893)
+[ue/ue.d.ts:1893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1893)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1899)
+[ue/ue.d.ts:1899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1899)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1897](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1897)
+[ue/ue.d.ts:1897](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1897)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1898](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1898)
+[ue/ue.d.ts:1898](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1898)

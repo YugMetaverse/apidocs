@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32512](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32512)
+[ue/ue.d.ts:32512](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32512)
 
 • **new StatColorMapEntry**(`In`, `Out`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32513](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32513)
+[ue/ue.d.ts:32513](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32513)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:32514](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32514)
+[ue/ue.d.ts:32514](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32514)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32515](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32515)
+[ue/ue.d.ts:32515](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32515)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32521](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32521)
+[ue/ue.d.ts:32521](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32521)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:32519](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32519)
+[ue/ue.d.ts:32519](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32519)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:32520](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L32520)
+[ue/ue.d.ts:32520](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L32520)

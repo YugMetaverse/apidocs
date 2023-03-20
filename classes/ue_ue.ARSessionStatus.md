@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20965](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20965)
+[ue/ue.d.ts:20965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20965)
 
 • **new ARSessionStatus**(`AdditionalInfo`, `Status`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20966](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20966)
+[ue/ue.d.ts:20966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20966)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:20967](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20967)
+[ue/ue.d.ts:20967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20967)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20968](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20968)
+[ue/ue.d.ts:20968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20968)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20974](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20974)
+[ue/ue.d.ts:20974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20974)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:20972](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20972)
+[ue/ue.d.ts:20972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20972)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:20973](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L20973)
+[ue/ue.d.ts:20973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L20973)

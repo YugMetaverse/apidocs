@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2328](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2328)
+[ue/ue.d.ts:2328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2328)
 
 • **new VirtualBone**(`SourceBoneName`, `TargetBoneName`, `VirtualBoneName`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2329](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2329)
+[ue/ue.d.ts:2329](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2329)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:2330](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2330)
+[ue/ue.d.ts:2330](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2330)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2331](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2331)
+[ue/ue.d.ts:2331](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2331)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2332](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2332)
+[ue/ue.d.ts:2332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2332)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2338](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2338)
+[ue/ue.d.ts:2338](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2338)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:2336](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2336)
+[ue/ue.d.ts:2336](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2336)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:2337](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L2337)
+[ue/ue.d.ts:2337](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L2337)

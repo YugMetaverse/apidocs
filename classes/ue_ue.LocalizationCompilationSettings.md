@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46132](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46132)
+[ue/ue.d.ts:46132](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46132)
 
 • **new LocalizationCompilationSettings**(`SkipSourceCheck`, `ValidateFormatPatterns`, `ValidateSafeWhitespace`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46133](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46133)
+[ue/ue.d.ts:46133](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46133)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:46134](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46134)
+[ue/ue.d.ts:46134](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46134)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46135](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46135)
+[ue/ue.d.ts:46135](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46135)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46136](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46136)
+[ue/ue.d.ts:46136](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46136)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46142](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46142)
+[ue/ue.d.ts:46142](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46142)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:46140](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46140)
+[ue/ue.d.ts:46140](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46140)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:46141](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L46141)
+[ue/ue.d.ts:46141](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L46141)

@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14310](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14310)
+[ue/ue.d.ts:14310](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14310)
 
 • **new EditorWorldExtensionActorData**(`Actor`, `bValidForPIE`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14311](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14311)
+[ue/ue.d.ts:14311](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14311)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:14312](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14312)
+[ue/ue.d.ts:14312](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14312)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14319](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14319)
+[ue/ue.d.ts:14319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14319)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14313](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14313)
+[ue/ue.d.ts:14313](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14313)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:14317](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14317)
+[ue/ue.d.ts:14317](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14317)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:14318](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14318)
+[ue/ue.d.ts:14318](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L14318)

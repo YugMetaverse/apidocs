@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36723](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36723)
+[ue/ue.d.ts:36723](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36723)
 
 • **new GameplayDebuggerExtensionConfig**(`ExtensionName`, `UseExtension`, `InputHandlers`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36724](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36724)
+[ue/ue.d.ts:36724](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36724)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:36725](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36725)
+[ue/ue.d.ts:36725](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36725)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36727](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36727)
+[ue/ue.d.ts:36727](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36727)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36726](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36726)
+[ue/ue.d.ts:36726](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36726)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36733](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36733)
+[ue/ue.d.ts:36733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36733)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:36731](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36731)
+[ue/ue.d.ts:36731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36731)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:36732](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L36732)
+[ue/ue.d.ts:36732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L36732)

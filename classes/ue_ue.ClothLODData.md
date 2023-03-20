@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27891](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27891)
+[ue/ue.d.ts:27891](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27891)
 
 • **new ClothLODData**(`PhysicalMeshData`, `CollisionData`, `ParameterMasks`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27892](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27892)
+[ue/ue.d.ts:27892](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27892)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27894](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27894)
+[ue/ue.d.ts:27894](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27894)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27895](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27895)
+[ue/ue.d.ts:27895](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27895)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27893](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27893)
+[ue/ue.d.ts:27893](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27893)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27901](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27901)
+[ue/ue.d.ts:27901](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27901)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27899](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27899)
+[ue/ue.d.ts:27899](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27899)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27900](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27900)
+[ue/ue.d.ts:27900](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27900)

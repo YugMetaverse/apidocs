@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1332](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1332)
+[ue/ue.d.ts:1332](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1332)
 
 • **new MaterialFunctionInfo**(`StateId`, `Function`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1333](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1333)
+[ue/ue.d.ts:1333](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1333)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1335](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1335)
+[ue/ue.d.ts:1335](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1335)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1334](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1334)
+[ue/ue.d.ts:1334](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1334)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1341](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1341)
+[ue/ue.d.ts:1341](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1341)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1339](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1339)
+[ue/ue.d.ts:1339](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1339)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1340](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1340)
+[ue/ue.d.ts:1340](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1340)

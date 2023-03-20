@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66035](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66035)
+[ue/ue.d.ts:66035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66035)
 
 • **new VehicleEngineData**(`TorqueCurve`, `MaxRPM`, `MOI`, `DampingRateFullThrottle`, `DampingRateZeroThrottleClutchEngaged`, `DampingRateZeroThrottleClutchDisengaged`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66036](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66036)
+[ue/ue.d.ts:66036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66036)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:66040](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66040)
+[ue/ue.d.ts:66040](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66040)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66042](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66042)
+[ue/ue.d.ts:66042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66042)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66041](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66041)
+[ue/ue.d.ts:66041](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66041)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66039)
+[ue/ue.d.ts:66039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66039)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66038)
+[ue/ue.d.ts:66038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66038)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66037)
+[ue/ue.d.ts:66037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66037)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66048](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66048)
+[ue/ue.d.ts:66048](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66048)
 
 ## Methods
 
@@ -138,7 +138,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:66046](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66046)
+[ue/ue.d.ts:66046](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66046)
 
 ___
 
@@ -152,4 +152,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:66047](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L66047)
+[ue/ue.d.ts:66047](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L66047)

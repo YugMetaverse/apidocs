@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22681](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22681)
+[ue/ue.d.ts:22681](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22681)
 
 • **new MovieSceneBindingOverrideData**(`ObjectBindingId`, `Object`, `bOverridesDefault`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22682](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22682)
+[ue/ue.d.ts:22682](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22682)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22684](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22684)
+[ue/ue.d.ts:22684](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22684)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22683](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22683)
+[ue/ue.d.ts:22683](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22683)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22691](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22691)
+[ue/ue.d.ts:22691](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22691)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22685](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22685)
+[ue/ue.d.ts:22685](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22685)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:22689](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22689)
+[ue/ue.d.ts:22689](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22689)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22690](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22690)
+[ue/ue.d.ts:22690](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22690)

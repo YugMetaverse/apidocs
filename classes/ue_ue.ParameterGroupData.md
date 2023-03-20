@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1319](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1319)
+[ue/ue.d.ts:1319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1319)
 
 • **new ParameterGroupData**(`GroupName`, `GroupSortPriority`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1320](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1320)
+[ue/ue.d.ts:1320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1320)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1321](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1321)
+[ue/ue.d.ts:1321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1321)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1322](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1322)
+[ue/ue.d.ts:1322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1322)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1328](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1328)
+[ue/ue.d.ts:1328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1328)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1326](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1326)
+[ue/ue.d.ts:1326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1326)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1327](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1327)
+[ue/ue.d.ts:1327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1327)

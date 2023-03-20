@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52661](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52661)
+[ue/ue.d.ts:52661](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52661)
 
 • **new NamedInterface**(`InterfaceName`, `InterfaceObject`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52662](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52662)
+[ue/ue.d.ts:52662](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52662)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:52663](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52663)
+[ue/ue.d.ts:52663](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52663)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52664](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52664)
+[ue/ue.d.ts:52664](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52664)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52670](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52670)
+[ue/ue.d.ts:52670](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52670)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:52668](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52668)
+[ue/ue.d.ts:52668](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52668)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:52669](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L52669)
+[ue/ue.d.ts:52669](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L52669)

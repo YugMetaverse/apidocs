@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13369](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13369)
+[ue/ue.d.ts:13369](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13369)
 
 • **new SupportedAreaData**(`AreaClassName`, `AreaID`, `AreaClass`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13370](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13370)
+[ue/ue.d.ts:13370](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13370)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13373](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13373)
+[ue/ue.d.ts:13373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13373)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13371](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13371)
+[ue/ue.d.ts:13371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13371)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13372](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13372)
+[ue/ue.d.ts:13372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13372)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13379](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13379)
+[ue/ue.d.ts:13379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13379)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:13377](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13377)
+[ue/ue.d.ts:13377](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13377)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13378](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13378)
+[ue/ue.d.ts:13378](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13378)

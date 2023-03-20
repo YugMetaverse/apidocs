@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55035](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55035)
+[ue/ue.d.ts:55035](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55035)
 
 • **new PaperTileSetTerrain**(`TerrainName`, `CenterTileIndex`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55036](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55036)
+[ue/ue.d.ts:55036](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55036)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:55038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55038)
+[ue/ue.d.ts:55038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55038)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55037)
+[ue/ue.d.ts:55037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55037)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55044](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55044)
+[ue/ue.d.ts:55044](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55044)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:55042](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55042)
+[ue/ue.d.ts:55042](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55042)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:55043](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L55043)
+[ue/ue.d.ts:55043](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L55043)

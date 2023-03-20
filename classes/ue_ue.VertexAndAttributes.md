@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31848](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31848)
+[ue/ue.d.ts:31848](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31848)
 
 • **new VertexAndAttributes**(`VertexInstanceID`, `VertexID`, `PolygonVertexAttributes`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31849](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31849)
+[ue/ue.d.ts:31849](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31849)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:31852](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31852)
+[ue/ue.d.ts:31852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31852)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31851](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31851)
+[ue/ue.d.ts:31851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31851)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31850](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31850)
+[ue/ue.d.ts:31850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31850)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31858](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31858)
+[ue/ue.d.ts:31858](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31858)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:31856](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31856)
+[ue/ue.d.ts:31856](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31856)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:31857](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L31857)
+[ue/ue.d.ts:31857](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L31857)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1700](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1700)
+[ue/ue.d.ts:1700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1700)
 
 • **new ScalarParameterAtlasInstanceData**(`bIsUsedAsAtlasPosition`, `Curve`, `Atlas`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1701](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1701)
+[ue/ue.d.ts:1701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1701)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:1704](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1704)
+[ue/ue.d.ts:1704](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1704)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1703](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1703)
+[ue/ue.d.ts:1703](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1703)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1710](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1710)
+[ue/ue.d.ts:1710](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1710)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1702](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1702)
+[ue/ue.d.ts:1702](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1702)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:1708](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1708)
+[ue/ue.d.ts:1708](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1708)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:1709](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1709)
+[ue/ue.d.ts:1709](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L1709)

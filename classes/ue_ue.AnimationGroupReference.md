@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17532](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17532)
+[ue/ue.d.ts:17532](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17532)
 
 • **new AnimationGroupReference**(`GroupName`, `GroupRole`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17533](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17533)
+[ue/ue.d.ts:17533](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17533)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:17534](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17534)
+[ue/ue.d.ts:17534](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17534)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17535](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17535)
+[ue/ue.d.ts:17535](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17535)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17541](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17541)
+[ue/ue.d.ts:17541](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17541)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:17539](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17539)
+[ue/ue.d.ts:17539](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17539)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:17540](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L17540)
+[ue/ue.d.ts:17540](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L17540)

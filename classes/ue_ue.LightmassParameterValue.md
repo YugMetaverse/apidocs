@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47351](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47351)
+[ue/ue.d.ts:47351](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47351)
 
 • **new LightmassParameterValue**(`bOverride`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47352](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47352)
+[ue/ue.d.ts:47352](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47352)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:47359](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47359)
+[ue/ue.d.ts:47359](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47359)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47353](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47353)
+[ue/ue.d.ts:47353](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47353)
 
 ## Methods
 
@@ -86,7 +86,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:47357](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47357)
+[ue/ue.d.ts:47357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47357)
 
 ___
 
@@ -100,4 +100,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:47358](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47358)
+[ue/ue.d.ts:47358](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L47358)

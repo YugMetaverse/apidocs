@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27319](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27319)
+[ue/ue.d.ts:27319](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27319)
 
 • **new NamedLensPreset**(`Name`, `LensSettings`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27320](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27320)
+[ue/ue.d.ts:27320](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27320)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27322](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27322)
+[ue/ue.d.ts:27322](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27322)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27321](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27321)
+[ue/ue.d.ts:27321](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27321)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27328](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27328)
+[ue/ue.d.ts:27328](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27328)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27326](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27326)
+[ue/ue.d.ts:27326](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27326)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27327](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27327)
+[ue/ue.d.ts:27327](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27327)

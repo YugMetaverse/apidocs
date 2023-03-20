@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28371](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28371)
+[ue/ue.d.ts:28371](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28371)
 
 • **new BlueprintComponentDelegateBinding**(`ComponentPropertyName`, `DelegatePropertyName`, `FunctionNameToBind`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28372](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28372)
+[ue/ue.d.ts:28372](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28372)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28373](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28373)
+[ue/ue.d.ts:28373](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28373)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28374](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28374)
+[ue/ue.d.ts:28374](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28374)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28375](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28375)
+[ue/ue.d.ts:28375](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28375)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28381](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28381)
+[ue/ue.d.ts:28381](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28381)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28379](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28379)
+[ue/ue.d.ts:28379](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28379)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28380](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28380)
+[ue/ue.d.ts:28380](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28380)

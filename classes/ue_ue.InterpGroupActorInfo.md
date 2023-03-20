@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13023](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13023)
+[ue/ue.d.ts:13023](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13023)
 
 • **new InterpGroupActorInfo**(`ObjectName`, `Actors`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13024](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13024)
+[ue/ue.d.ts:13024](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13024)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13026](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13026)
+[ue/ue.d.ts:13026](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13026)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13025](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13025)
+[ue/ue.d.ts:13025](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13025)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13032](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13032)
+[ue/ue.d.ts:13032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13032)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:13030](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13030)
+[ue/ue.d.ts:13030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13030)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13031](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13031)
+[ue/ue.d.ts:13031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13031)

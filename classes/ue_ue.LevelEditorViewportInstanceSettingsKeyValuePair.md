@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45030](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45030)
+[ue/ue.d.ts:45030](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45030)
 
 • **new LevelEditorViewportInstanceSettingsKeyValuePair**(`ConfigName`, `ConfigSettings`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45031](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45031)
+[ue/ue.d.ts:45031](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45031)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:45032](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45032)
+[ue/ue.d.ts:45032](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45032)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45033](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45033)
+[ue/ue.d.ts:45033](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45033)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45039](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45039)
+[ue/ue.d.ts:45039](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45039)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:45037](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45037)
+[ue/ue.d.ts:45037](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45037)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:45038](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L45038)
+[ue/ue.d.ts:45038](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L45038)

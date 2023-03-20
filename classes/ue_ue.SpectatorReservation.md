@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:61781](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61781)
+[ue/ue.d.ts:61781](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61781)
 
 • **new SpectatorReservation**(`SpectatorId`, `Spectator`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:61782](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61782)
+[ue/ue.d.ts:61782](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61782)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:61784](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61784)
+[ue/ue.d.ts:61784](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61784)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:61783](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61783)
+[ue/ue.d.ts:61783](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61783)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:61790](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61790)
+[ue/ue.d.ts:61790](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61790)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:61788](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61788)
+[ue/ue.d.ts:61788](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61788)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:61789](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L61789)
+[ue/ue.d.ts:61789](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L61789)

@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:965](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L965)
+[ue/ue.d.ts:965](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L965)
 
 • **new MaterialTextureInfo**(`SamplingScale`, `UVChannelIndex`, `TextureName`, `TextureReference`, `TextureIndex`)
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:966](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L966)
+[ue/ue.d.ts:966](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L966)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:967](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L967)
+[ue/ue.d.ts:967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L967)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:971](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L971)
+[ue/ue.d.ts:971](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L971)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:969](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L969)
+[ue/ue.d.ts:969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L969)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:970](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L970)
+[ue/ue.d.ts:970](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L970)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:968](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L968)
+[ue/ue.d.ts:968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L968)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:977](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L977)
+[ue/ue.d.ts:977](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L977)
 
 ## Methods
 
@@ -126,7 +126,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:975](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L975)
+[ue/ue.d.ts:975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L975)
 
 ___
 
@@ -140,4 +140,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:976](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L976)
+[ue/ue.d.ts:976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L976)

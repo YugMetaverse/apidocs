@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13972](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13972)
+[ue/ue.d.ts:13972](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13972)
 
 • **new LevelSequenceBindingReference**(`PackageName`, `ExternalObjectPath`, `ObjectPath`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13973](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13973)
+[ue/ue.d.ts:13973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13973)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:13975](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13975)
+[ue/ue.d.ts:13975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13975)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13976](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13976)
+[ue/ue.d.ts:13976](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13976)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13974](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13974)
+[ue/ue.d.ts:13974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13974)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13982](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13982)
+[ue/ue.d.ts:13982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13982)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:13980](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13980)
+[ue/ue.d.ts:13980](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13980)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:13981](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13981)
+[ue/ue.d.ts:13981](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L13981)

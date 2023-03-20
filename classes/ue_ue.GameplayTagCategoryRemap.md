@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37162](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37162)
+[ue/ue.d.ts:37162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37162)
 
 • **new GameplayTagCategoryRemap**(`BaseCategory`, `RemapCategories`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37163](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37163)
+[ue/ue.d.ts:37163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37163)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37164](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37164)
+[ue/ue.d.ts:37164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37164)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37165](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37165)
+[ue/ue.d.ts:37165](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37165)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37171](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37171)
+[ue/ue.d.ts:37171](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37171)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:37169](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37169)
+[ue/ue.d.ts:37169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37169)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37170](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37170)
+[ue/ue.d.ts:37170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37170)

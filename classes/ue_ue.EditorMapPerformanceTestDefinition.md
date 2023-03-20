@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22982](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22982)
+[ue/ue.d.ts:22982](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22982)
 
 • **new EditorMapPerformanceTestDefinition**(`PerformanceTestmap`, `TestTimer`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22983](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22983)
+[ue/ue.d.ts:22983](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22983)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:22984](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22984)
+[ue/ue.d.ts:22984](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22984)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22985](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22985)
+[ue/ue.d.ts:22985](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22985)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22991](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22991)
+[ue/ue.d.ts:22991](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22991)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:22989](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22989)
+[ue/ue.d.ts:22989](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22989)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:22990](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L22990)
+[ue/ue.d.ts:22990](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L22990)

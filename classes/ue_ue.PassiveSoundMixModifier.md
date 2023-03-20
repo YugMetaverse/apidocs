@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8879](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8879)
+[ue/ue.d.ts:8879](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8879)
 
 • **new PassiveSoundMixModifier**(`SoundMix`, `MinVolumeThreshold`, `MaxVolumeThreshold`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8880](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8880)
+[ue/ue.d.ts:8880](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8880)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:8883](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8883)
+[ue/ue.d.ts:8883](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8883)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8882](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8882)
+[ue/ue.d.ts:8882](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8882)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8881](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8881)
+[ue/ue.d.ts:8881](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8881)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8889](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8889)
+[ue/ue.d.ts:8889](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8889)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:8887](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8887)
+[ue/ue.d.ts:8887](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8887)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:8888](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L8888)
+[ue/ue.d.ts:8888](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L8888)

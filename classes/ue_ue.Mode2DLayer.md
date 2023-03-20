@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44771](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44771)
+[ue/ue.d.ts:44771](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44771)
 
 • **new Mode2DLayer**(`Name`, `Depth`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44772](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44772)
+[ue/ue.d.ts:44772](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44772)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:44774](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44774)
+[ue/ue.d.ts:44774](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44774)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44773](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44773)
+[ue/ue.d.ts:44773](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44773)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44780](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44780)
+[ue/ue.d.ts:44780](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44780)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:44778](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44778)
+[ue/ue.d.ts:44778](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44778)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:44779](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L44779)
+[ue/ue.d.ts:44779](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L44779)

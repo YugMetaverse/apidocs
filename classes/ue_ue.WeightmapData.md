@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43935](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43935)
+[ue/ue.d.ts:43935](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43935)
 
 • **new WeightmapData**(`Textures`, `LayerAllocations`, `TextureUsages`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43936](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43936)
+[ue/ue.d.ts:43936](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43936)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:43938](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43938)
+[ue/ue.d.ts:43938](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43938)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43939](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43939)
+[ue/ue.d.ts:43939](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43939)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43937](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43937)
+[ue/ue.d.ts:43937](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43937)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43945](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43945)
+[ue/ue.d.ts:43945](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43945)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:43943](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43943)
+[ue/ue.d.ts:43943](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43943)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:43944](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L43944)
+[ue/ue.d.ts:43944](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L43944)

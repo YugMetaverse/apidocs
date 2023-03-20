@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9390](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9390)
+[ue/ue.d.ts:9390](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9390)
 
 • **new SoundAttenuationPluginSettings**(`SpatializationPluginSettingsArray`, `OcclusionPluginSettingsArray`, `ReverbPluginSettingsArray`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9391](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9391)
+[ue/ue.d.ts:9391](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9391)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:9393](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9393)
+[ue/ue.d.ts:9393](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9393)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9394)
+[ue/ue.d.ts:9394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9394)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9392](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9392)
+[ue/ue.d.ts:9392](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9392)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9400](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9400)
+[ue/ue.d.ts:9400](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9400)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:9398](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9398)
+[ue/ue.d.ts:9398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9398)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:9399](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L9399)
+[ue/ue.d.ts:9399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L9399)

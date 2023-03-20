@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4967](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4967)
+[ue/ue.d.ts:4967](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4967)
 
 • **new GraphAssetPlayerInformation**(`PlayerNodeIndices`)
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4968](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4968)
+[ue/ue.d.ts:4968](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4968)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4969](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4969)
+[ue/ue.d.ts:4969](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4969)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4975](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4975)
+[ue/ue.d.ts:4975](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4975)
 
 ## Methods
 
@@ -78,7 +78,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4973](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4973)
+[ue/ue.d.ts:4973](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4973)
 
 ___
 
@@ -92,4 +92,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4974](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4974)
+[ue/ue.d.ts:4974](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4974)

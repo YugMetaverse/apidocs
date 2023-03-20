@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40225](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40225)
+[ue/ue.d.ts:40225](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40225)
 
 • **new InterpCurveLinearColor**(`Points`, `bIsLooped`, `LoopKeyOffset`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40226](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40226)
+[ue/ue.d.ts:40226](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40226)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:40229](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40229)
+[ue/ue.d.ts:40229](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40229)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40227](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40227)
+[ue/ue.d.ts:40227](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40227)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40235](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40235)
+[ue/ue.d.ts:40235](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40235)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40228](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40228)
+[ue/ue.d.ts:40228](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40228)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:40233](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40233)
+[ue/ue.d.ts:40233](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40233)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:40234](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L40234)
+[ue/ue.d.ts:40234](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L40234)

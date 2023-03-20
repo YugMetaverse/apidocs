@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28161](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28161)
+[ue/ue.d.ts:28161](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28161)
 
 • **new Redirector**(`OldName`, `NewName`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28162](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28162)
+[ue/ue.d.ts:28162](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28162)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:28164](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28164)
+[ue/ue.d.ts:28164](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28164)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28163](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28163)
+[ue/ue.d.ts:28163](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28163)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28170](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28170)
+[ue/ue.d.ts:28170](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28170)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:28168](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28168)
+[ue/ue.d.ts:28168](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28168)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:28169](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L28169)
+[ue/ue.d.ts:28169](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L28169)

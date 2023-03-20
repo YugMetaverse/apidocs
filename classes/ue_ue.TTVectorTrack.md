@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4257](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4257)
+[ue/ue.d.ts:4257](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4257)
 
 • **new TTVectorTrack**(`CurveVector`)
 
@@ -57,7 +57,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4258](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4258)
+[ue/ue.d.ts:4258](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4258)
 
 ## Properties
 
@@ -67,7 +67,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:4259](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4259)
+[ue/ue.d.ts:4259](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4259)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4224)
+[ue/ue.d.ts:4224](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4224)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4198)
+[ue/ue.d.ts:4198](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4198)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4265](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4265)
+[ue/ue.d.ts:4265](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4265)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4199)
+[ue/ue.d.ts:4199](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4199)
 
 ## Methods
 
@@ -141,7 +141,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:4263](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4263)
+[ue/ue.d.ts:4263](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4263)
 
 ___
 
@@ -159,4 +159,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:4264](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L4264)
+[ue/ue.d.ts:4264](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L4264)

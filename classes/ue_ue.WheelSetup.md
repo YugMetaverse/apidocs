@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60394](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60394)
+[ue/ue.d.ts:60394](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60394)
 
 • **new WheelSetup**(`WheelClass`, `BoneName`, `AdditionalOffset`, `bDisableSteering`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60395](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60395)
+[ue/ue.d.ts:60395](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60395)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:60398](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60398)
+[ue/ue.d.ts:60398](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60398)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60397](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60397)
+[ue/ue.d.ts:60397](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60397)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60396](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60396)
+[ue/ue.d.ts:60396](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60396)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60405](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60405)
+[ue/ue.d.ts:60405](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60405)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60399](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60399)
+[ue/ue.d.ts:60399](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60399)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:60403](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60403)
+[ue/ue.d.ts:60403](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60403)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:60404](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60404)
+[ue/ue.d.ts:60404](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L60404)

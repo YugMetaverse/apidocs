@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63443)
+[ue/ue.d.ts:63443](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63443)
 
 • **new TileSetImportMapping**(`SourceName`, `ImportedTileSet`, `ImportedTexture`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63444](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63444)
+[ue/ue.d.ts:63444](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63444)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:63447](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63447)
+[ue/ue.d.ts:63447](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63447)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63446](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63446)
+[ue/ue.d.ts:63446](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63446)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63445](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63445)
+[ue/ue.d.ts:63445](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63445)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63453](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63453)
+[ue/ue.d.ts:63453](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63453)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:63451](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63451)
+[ue/ue.d.ts:63451](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63451)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:63452](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L63452)
+[ue/ue.d.ts:63452](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L63452)

@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:37089](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37089)
+[ue/ue.d.ts:37089](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37089)
 
 • **new GameplayTagTableRow**(`Tag`, `DevComment`)
 
@@ -58,7 +58,7 @@ UE.TableRowBase.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:37090](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37090)
+[ue/ue.d.ts:37090](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37090)
 
 ## Properties
 
@@ -68,7 +68,7 @@ UE.TableRowBase.constructor
 
 #### Defined in
 
-[ue/ue.d.ts:37092](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37092)
+[ue/ue.d.ts:37092](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37092)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37091](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37091)
+[ue/ue.d.ts:37091](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37091)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37098](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37098)
+[ue/ue.d.ts:37098](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37098)
 
 ## Methods
 
@@ -110,7 +110,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:37096](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37096)
+[ue/ue.d.ts:37096](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37096)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:37097](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L37097)
+[ue/ue.d.ts:37097](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L37097)

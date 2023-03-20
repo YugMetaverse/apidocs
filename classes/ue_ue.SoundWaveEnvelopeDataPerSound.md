@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16240](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16240)
+[ue/ue.d.ts:16240](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16240)
 
 • **new SoundWaveEnvelopeDataPerSound**(`Envelope`, `PlaybackTime`, `SoundWave`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16241](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16241)
+[ue/ue.d.ts:16241](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16241)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:16242](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16242)
+[ue/ue.d.ts:16242](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16242)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16243](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16243)
+[ue/ue.d.ts:16243](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16243)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16244](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16244)
+[ue/ue.d.ts:16244](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16244)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16250](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16250)
+[ue/ue.d.ts:16250](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16250)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:16248](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16248)
+[ue/ue.d.ts:16248](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16248)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:16249](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16249)
+[ue/ue.d.ts:16249](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L16249)

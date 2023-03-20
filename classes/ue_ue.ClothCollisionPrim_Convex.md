@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27698](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27698)
+[ue/ue.d.ts:27698](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27698)
 
 • **new ClothCollisionPrim_Convex**(`Planes`, `BoneIndex`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27699](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27699)
+[ue/ue.d.ts:27699](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27699)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:27701](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27701)
+[ue/ue.d.ts:27701](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27701)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27700](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27700)
+[ue/ue.d.ts:27700](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27700)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27707](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27707)
+[ue/ue.d.ts:27707](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27707)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:27705](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27705)
+[ue/ue.d.ts:27705](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27705)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:27706](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L27706)
+[ue/ue.d.ts:27706](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L27706)

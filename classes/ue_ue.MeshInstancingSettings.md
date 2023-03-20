@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50479](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50479)
+[ue/ue.d.ts:50479](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50479)
 
 • **new MeshInstancingSettings**(`ActorClassToUse`, `InstanceReplacementThreshold`, `MeshReplacementMethod`, `bSkipMeshesWithVertexColors`, `bUseHLODVolumes`, `ISMComponentToUse`)
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50480](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50480)
+[ue/ue.d.ts:50480](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50480)
 
 ## Properties
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:50481](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50481)
+[ue/ue.d.ts:50481](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50481)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50486](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50486)
+[ue/ue.d.ts:50486](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50486)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50482](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50482)
+[ue/ue.d.ts:50482](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50482)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50483](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50483)
+[ue/ue.d.ts:50483](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50483)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50492](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50492)
+[ue/ue.d.ts:50492](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50492)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50484](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50484)
+[ue/ue.d.ts:50484](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50484)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50485](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50485)
+[ue/ue.d.ts:50485](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50485)
 
 ## Methods
 
@@ -138,7 +138,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:50490](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50490)
+[ue/ue.d.ts:50490](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50490)
 
 ___
 
@@ -152,4 +152,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:50491](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L50491)
+[ue/ue.d.ts:50491](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L50491)

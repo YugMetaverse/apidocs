@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11948](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11948)
+[ue/ue.d.ts:11948](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11948)
 
 • **new AnimationEventBinding**(`Animation`, `Delegate`, `AnimationEvent`, `UserTag`)
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11949](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11949)
+[ue/ue.d.ts:11949](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11949)
 
 ## Properties
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:11950](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11950)
+[ue/ue.d.ts:11950](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11950)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11952](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11952)
+[ue/ue.d.ts:11952](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11952)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11951](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11951)
+[ue/ue.d.ts:11951](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11951)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11953](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11953)
+[ue/ue.d.ts:11953](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11953)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11959](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11959)
+[ue/ue.d.ts:11959](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11959)
 
 ## Methods
 
@@ -114,7 +114,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:11957](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11957)
+[ue/ue.d.ts:11957](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11957)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:11958](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11958)
+[ue/ue.d.ts:11958](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L11958)

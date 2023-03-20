@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26842](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26842)
+[ue/ue.d.ts:26842](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26842)
 
 • **new GeometryCollectionDebugDrawActorSelectedRigidBody**(`Id`, `Solver`, `GeometryCollection`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26843](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26843)
+[ue/ue.d.ts:26843](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26843)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:26846](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26846)
+[ue/ue.d.ts:26846](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26846)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26844](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26844)
+[ue/ue.d.ts:26844](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26844)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26845](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26845)
+[ue/ue.d.ts:26845](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26845)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26852](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26852)
+[ue/ue.d.ts:26852](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26852)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:26850](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26850)
+[ue/ue.d.ts:26850](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26850)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:26851](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L26851)
+[ue/ue.d.ts:26851](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L26851)

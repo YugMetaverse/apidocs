@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39354](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39354)
+[ue/ue.d.ts:39354](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39354)
 
 • **new InputActionSpeechMapping**(`ActionName`, `SpeechKeyword`)
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39355](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39355)
+[ue/ue.d.ts:39355](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39355)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:39356](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39356)
+[ue/ue.d.ts:39356](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39356)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39357](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39357)
+[ue/ue.d.ts:39357](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39357)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39363](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39363)
+[ue/ue.d.ts:39363](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39363)
 
 ## Methods
 
@@ -90,7 +90,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:39361](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39361)
+[ue/ue.d.ts:39361](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39361)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:39362](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L39362)
+[ue/ue.d.ts:39362](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L39362)

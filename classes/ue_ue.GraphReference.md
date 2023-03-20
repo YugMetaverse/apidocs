@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:41730](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41730)
+[ue/ue.d.ts:41730](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41730)
 
 • **new GraphReference**(`MacroGraph`, `GraphBlueprint`, `GraphGuid`)
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:41731](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41731)
+[ue/ue.d.ts:41731](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41731)
 
 ## Properties
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[ue/ue.d.ts:41733](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41733)
+[ue/ue.d.ts:41733](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41733)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:41734](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41734)
+[ue/ue.d.ts:41734](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41734)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:41732](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41732)
+[ue/ue.d.ts:41732](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41732)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:41740](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41740)
+[ue/ue.d.ts:41740](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41740)
 
 ## Methods
 
@@ -102,7 +102,7 @@ use StaticStruct instead.
 
 #### Defined in
 
-[ue/ue.d.ts:41738](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41738)
+[ue/ue.d.ts:41738](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41738)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[ue/ue.d.ts:41739](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L41739)
+[ue/ue.d.ts:41739](https://github.com/YugMetaverse/yug_typings/blob/25cad34/ue/ue.d.ts#L41739)
