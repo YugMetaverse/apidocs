@@ -1,1 +1,6 @@
-yug_typings / [Modules](modules.md)
+---
+id: "README"
+title: "yug_typings"
+sidebar_position: 0
+---
+
