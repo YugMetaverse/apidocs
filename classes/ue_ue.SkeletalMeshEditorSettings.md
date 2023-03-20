@@ -1,0 +1,337 @@
+[yug_typings](../README.md) / [Modules](../modules.md) / [ue/ue](../modules/ue_ue.md) / SkeletalMeshEditorSettings
+
+# Class: SkeletalMeshEditorSettings
+
+[ue/ue](../modules/ue_ue.md).SkeletalMeshEditorSettings
+
+## Hierarchy
+
+- [`Object`](ue_ue.Object.md)
+
+  ↳ **`SkeletalMeshEditorSettings`**
+
+## Table of contents
+
+### Constructors
+
+- [constructor](ue_ue.SkeletalMeshEditorSettings.md#constructor)
+
+### Properties
+
+- [AnimPreviewDirectionalColor](ue_ue.SkeletalMeshEditorSettings.md#animpreviewdirectionalcolor)
+- [AnimPreviewFloorColor](ue_ue.SkeletalMeshEditorSettings.md#animpreviewfloorcolor)
+- [AnimPreviewLightBrightness](ue_ue.SkeletalMeshEditorSettings.md#animpreviewlightbrightness)
+- [AnimPreviewLightingDirection](ue_ue.SkeletalMeshEditorSettings.md#animpreviewlightingdirection)
+- [AnimPreviewSkyBrightness](ue_ue.SkeletalMeshEditorSettings.md#animpreviewskybrightness)
+- [AnimPreviewSkyColor](ue_ue.SkeletalMeshEditorSettings.md#animpreviewskycolor)
+- [\_\_tid\_Object\_\_](ue_ue.SkeletalMeshEditorSettings.md#__tid_object__)
+- [\_\_tid\_SkeletalMeshEditorSettings\_\_](ue_ue.SkeletalMeshEditorSettings.md#__tid_skeletalmesheditorsettings__)
+
+### Methods
+
+- [CreateDefaultSubobject](ue_ue.SkeletalMeshEditorSettings.md#createdefaultsubobject)
+- [ExecuteUbergraph](ue_ue.SkeletalMeshEditorSettings.md#executeubergraph)
+- [GetClass](ue_ue.SkeletalMeshEditorSettings.md#getclass)
+- [GetName](ue_ue.SkeletalMeshEditorSettings.md#getname)
+- [GetOuter](ue_ue.SkeletalMeshEditorSettings.md#getouter)
+- [GetWorld](ue_ue.SkeletalMeshEditorSettings.md#getworld)
+- [Find](ue_ue.SkeletalMeshEditorSettings.md#find)
+- [Load](ue_ue.SkeletalMeshEditorSettings.md#load)
+- [StaticClass](ue_ue.SkeletalMeshEditorSettings.md#staticclass)
+
+## Constructors
+
+### constructor
+
+• **new SkeletalMeshEditorSettings**(`Outer?`, `Name?`, `ObjectFlags?`)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Outer?` | [`Object`](ue_ue.Object.md) |
+| `Name?` | `string` |
+| `ObjectFlags?` | `number` |
+
+#### Overrides
+
+[Object](ue_ue.Object.md).[constructor](ue_ue.Object.md#constructor)
+
+#### Defined in
+
+[ue/ue.d.ts:60710](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60710)
+
+## Properties
+
+### AnimPreviewDirectionalColor
+
+• **AnimPreviewDirectionalColor**: [`Color`](ue_ue_s.Color.md)
+
+#### Defined in
+
+[ue/ue.d.ts:60716](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60716)
+
+___
+
+### AnimPreviewFloorColor
+
+• **AnimPreviewFloorColor**: [`Color`](ue_ue_s.Color.md)
+
+#### Defined in
+
+[ue/ue.d.ts:60711](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60711)
+
+___
+
+### AnimPreviewLightBrightness
+
+• **AnimPreviewLightBrightness**: `number`
+
+#### Defined in
+
+[ue/ue.d.ts:60714](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60714)
+
+___
+
+### AnimPreviewLightingDirection
+
+• **AnimPreviewLightingDirection**: [`Rotator`](ue_ue_s.Rotator.md)
+
+#### Defined in
+
+[ue/ue.d.ts:60715](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60715)
+
+___
+
+### AnimPreviewSkyBrightness
+
+• **AnimPreviewSkyBrightness**: `number`
+
+#### Defined in
+
+[ue/ue.d.ts:60713](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60713)
+
+___
+
+### AnimPreviewSkyColor
+
+• **AnimPreviewSkyColor**: [`Color`](ue_ue_s.Color.md)
+
+#### Defined in
+
+[ue/ue.d.ts:60712](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60712)
+
+___
+
+### \_\_tid\_Object\_\_
+
+• **\_\_tid\_Object\_\_**: `boolean`
+
+#### Inherited from
+
+[Object](ue_ue.Object.md).[__tid_Object__](ue_ue.Object.md#__tid_object__)
+
+#### Defined in
+
+[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21)
+
+___
+
+### \_\_tid\_SkeletalMeshEditorSettings\_\_
+
+• **\_\_tid\_SkeletalMeshEditorSettings\_\_**: `boolean`
+
+#### Defined in
+
+[ue/ue.d.ts:60721](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60721)
+
+## Methods
+
+### CreateDefaultSubobject
+
+▸ **CreateDefaultSubobject**(`p0`, `p1`, `p2`, `p3`, `p4`): [`Object`](ue_ue.Object.md)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `p0` | `string` |
+| `p1` | [`Class`](ue_ue.Class.md) |
+| `p2` | [`Class`](ue_ue.Class.md) |
+| `p3` | `boolean` |
+| `p4` | `boolean` |
+
+#### Returns
+
+[`Object`](ue_ue.Object.md)
+
+#### Inherited from
+
+[Object](ue_ue.Object.md).[CreateDefaultSubobject](ue_ue.Object.md#createdefaultsubobject)
+
+#### Defined in
+
+[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11)
+
+___
+
+### ExecuteUbergraph
+
+▸ **ExecuteUbergraph**(`EntryPoint`): `void`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `EntryPoint` | `number` |
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+[Object](ue_ue.Object.md).[ExecuteUbergraph](ue_ue.Object.md#executeubergraph)
+
+#### Defined in
+
+[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L12)
+
+___
+
+### GetClass
+
+▸ **GetClass**(): [`Class`](ue_ue.Class.md)
+
+#### Returns
+
+[`Class`](ue_ue.Class.md)
+
+#### Inherited from
+
+[Object](ue_ue.Object.md).[GetClass](ue_ue.Object.md#getclass)
+
+#### Defined in
+
+[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13)
+
+___
+
+### GetName
+
+▸ **GetName**(): `string`
+
+#### Returns
+
+`string`
+
+#### Inherited from
+
+[Object](ue_ue.Object.md).[GetName](ue_ue.Object.md#getname)
+
+#### Defined in
+
+[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14)
+
+___
+
+### GetOuter
+
+▸ **GetOuter**(): [`Object`](ue_ue.Object.md)
+
+#### Returns
+
+[`Object`](ue_ue.Object.md)
+
+#### Inherited from
+
+[Object](ue_ue.Object.md).[GetOuter](ue_ue.Object.md#getouter)
+
+#### Defined in
+
+[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15)
+
+___
+
+### GetWorld
+
+▸ **GetWorld**(): [`World`](ue_ue.World.md)
+
+#### Returns
+
+[`World`](ue_ue.World.md)
+
+#### Inherited from
+
+[Object](ue_ue.Object.md).[GetWorld](ue_ue.Object.md#getworld)
+
+#### Defined in
+
+[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16)
+
+___
+
+### Find
+
+▸ `Static` **Find**(`OrigInName`, `Outer?`): [`SkeletalMeshEditorSettings`](ue_ue.SkeletalMeshEditorSettings.md)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `OrigInName` | `string` |
+| `Outer?` | [`Object`](ue_ue.Object.md) |
+
+#### Returns
+
+[`SkeletalMeshEditorSettings`](ue_ue.SkeletalMeshEditorSettings.md)
+
+#### Overrides
+
+[Object](ue_ue.Object.md).[Find](ue_ue.Object.md#find)
+
+#### Defined in
+
+[ue/ue.d.ts:60718](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60718)
+
+___
+
+### Load
+
+▸ `Static` **Load**(`InName`): [`SkeletalMeshEditorSettings`](ue_ue.SkeletalMeshEditorSettings.md)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `InName` | `string` |
+
+#### Returns
+
+[`SkeletalMeshEditorSettings`](ue_ue.SkeletalMeshEditorSettings.md)
+
+#### Overrides
+
+[Object](ue_ue.Object.md).[Load](ue_ue.Object.md#load)
+
+#### Defined in
+
+[ue/ue.d.ts:60719](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60719)
+
+___
+
+### StaticClass
+
+▸ `Static` **StaticClass**(): [`Class`](ue_ue.Class.md)
+
+#### Returns
+
+[`Class`](ue_ue.Class.md)
+
+#### Overrides
+
+[Object](ue_ue.Object.md).[StaticClass](ue_ue.Object.md#staticclass)
+
+#### Defined in
+
+[ue/ue.d.ts:60717](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L60717)

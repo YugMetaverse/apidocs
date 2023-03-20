@@ -1,0 +1,674 @@
+[yug_typings](../README.md) / [Modules](../modules.md) / [ue/ue](../modules/ue_ue.md) / MaterialExpressionStaticBoolParameter
+
+# Class: MaterialExpressionStaticBoolParameter
+
+[ue/ue](../modules/ue_ue.md).MaterialExpressionStaticBoolParameter
+
+## Hierarchy
+
+- [`MaterialExpressionParameter`](ue_ue.MaterialExpressionParameter.md)
+
+  ↳ **`MaterialExpressionStaticBoolParameter`**
+
+  ↳↳ [`MaterialExpressionStaticSwitchParameter`](ue_ue.MaterialExpressionStaticSwitchParameter.md)
+
+## Table of contents
+
+### Constructors
+
+- [constructor](ue_ue.MaterialExpressionStaticBoolParameter.md#constructor)
+
+### Properties
+
+- [DefaultValue](ue_ue.MaterialExpressionStaticBoolParameter.md#defaultvalue)
+- [Desc](ue_ue.MaterialExpressionStaticBoolParameter.md#desc)
+- [ExpressionGUID](ue_ue.MaterialExpressionStaticBoolParameter.md#expressionguid)
+- [Function](ue_ue.MaterialExpressionStaticBoolParameter.md#function)
+- [GraphNode](ue_ue.MaterialExpressionStaticBoolParameter.md#graphnode)
+- [Group](ue_ue.MaterialExpressionStaticBoolParameter.md#group)
+- [Material](ue_ue.MaterialExpressionStaticBoolParameter.md#material)
+- [MaterialExpressionEditorX](ue_ue.MaterialExpressionStaticBoolParameter.md#materialexpressioneditorx)
+- [MaterialExpressionEditorY](ue_ue.MaterialExpressionStaticBoolParameter.md#materialexpressioneditory)
+- [MaterialExpressionGuid](ue_ue.MaterialExpressionStaticBoolParameter.md#materialexpressionguid)
+- [MenuCategories](ue_ue.MaterialExpressionStaticBoolParameter.md#menucategories)
+- [Outputs](ue_ue.MaterialExpressionStaticBoolParameter.md#outputs)
+- [ParameterName](ue_ue.MaterialExpressionStaticBoolParameter.md#parametername)
+- [SortPriority](ue_ue.MaterialExpressionStaticBoolParameter.md#sortpriority)
+- [\_\_tid\_MaterialExpressionParameter\_\_](ue_ue.MaterialExpressionStaticBoolParameter.md#__tid_materialexpressionparameter__)
+- [\_\_tid\_MaterialExpressionStaticBoolParameter\_\_](ue_ue.MaterialExpressionStaticBoolParameter.md#__tid_materialexpressionstaticboolparameter__)
+- [\_\_tid\_MaterialExpression\_\_](ue_ue.MaterialExpressionStaticBoolParameter.md#__tid_materialexpression__)
+- [\_\_tid\_Object\_\_](ue_ue.MaterialExpressionStaticBoolParameter.md#__tid_object__)
+- [bCollapsed](ue_ue.MaterialExpressionStaticBoolParameter.md#bcollapsed)
+- [bCommentBubbleVisible](ue_ue.MaterialExpressionStaticBoolParameter.md#bcommentbubblevisible)
+- [bHidePreviewWindow](ue_ue.MaterialExpressionStaticBoolParameter.md#bhidepreviewwindow)
+- [bIsParameterExpression](ue_ue.MaterialExpressionStaticBoolParameter.md#bisparameterexpression)
+- [bNeedToUpdatePreview](ue_ue.MaterialExpressionStaticBoolParameter.md#bneedtoupdatepreview)
+- [bRealtimePreview](ue_ue.MaterialExpressionStaticBoolParameter.md#brealtimepreview)
+- [bShaderInputData](ue_ue.MaterialExpressionStaticBoolParameter.md#bshaderinputdata)
+- [bShowInputs](ue_ue.MaterialExpressionStaticBoolParameter.md#bshowinputs)
+- [bShowMaskColorsOnPin](ue_ue.MaterialExpressionStaticBoolParameter.md#bshowmaskcolorsonpin)
+- [bShowOutputNameOnPin](ue_ue.MaterialExpressionStaticBoolParameter.md#bshowoutputnameonpin)
+- [bShowOutputs](ue_ue.MaterialExpressionStaticBoolParameter.md#bshowoutputs)
+
+### Methods
+
+- [CreateDefaultSubobject](ue_ue.MaterialExpressionStaticBoolParameter.md#createdefaultsubobject)
+- [ExecuteUbergraph](ue_ue.MaterialExpressionStaticBoolParameter.md#executeubergraph)
+- [GetClass](ue_ue.MaterialExpressionStaticBoolParameter.md#getclass)
+- [GetName](ue_ue.MaterialExpressionStaticBoolParameter.md#getname)
+- [GetOuter](ue_ue.MaterialExpressionStaticBoolParameter.md#getouter)
+- [GetWorld](ue_ue.MaterialExpressionStaticBoolParameter.md#getworld)
+- [Find](ue_ue.MaterialExpressionStaticBoolParameter.md#find)
+- [Load](ue_ue.MaterialExpressionStaticBoolParameter.md#load)
+- [StaticClass](ue_ue.MaterialExpressionStaticBoolParameter.md#staticclass)
+
+## Constructors
+
+### constructor
+
+• **new MaterialExpressionStaticBoolParameter**(`Outer?`, `Name?`, `ObjectFlags?`)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `Outer?` | [`Object`](ue_ue.Object.md) |
+| `Name?` | `string` |
+| `ObjectFlags?` | `number` |
+
+#### Overrides
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[constructor](ue_ue.MaterialExpressionParameter.md#constructor)
+
+#### Defined in
+
+[ue/ue.d.ts:49437](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L49437)
+
+## Properties
+
+### DefaultValue
+
+• **DefaultValue**: `boolean`
+
+#### Defined in
+
+[ue/ue.d.ts:49438](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L49438)
+
+___
+
+### Desc
+
+• **Desc**: `string`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[Desc](ue_ue.MaterialExpressionParameter.md#desc)
+
+#### Defined in
+
+[ue/ue.d.ts:1163](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1163)
+
+___
+
+### ExpressionGUID
+
+• **ExpressionGUID**: [`Guid`](ue_ue_s.Guid.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[ExpressionGUID](ue_ue.MaterialExpressionParameter.md#expressionguid)
+
+#### Defined in
+
+[ue/ue.d.ts:47797](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47797)
+
+___
+
+### Function
+
+• **Function**: [`MaterialFunction`](ue_ue.MaterialFunction.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[Function](ue_ue.MaterialExpressionParameter.md#function)
+
+#### Defined in
+
+[ue/ue.d.ts:1162](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1162)
+
+___
+
+### GraphNode
+
+• **GraphNode**: [`EdGraphNode`](ue_ue.EdGraphNode.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[GraphNode](ue_ue.MaterialExpressionParameter.md#graphnode)
+
+#### Defined in
+
+[ue/ue.d.ts:1159](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1159)
+
+___
+
+### Group
+
+• **Group**: `string`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[Group](ue_ue.MaterialExpressionParameter.md#group)
+
+#### Defined in
+
+[ue/ue.d.ts:47798](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47798)
+
+___
+
+### Material
+
+• **Material**: [`Material`](ue_ue.Material.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[Material](ue_ue.MaterialExpressionParameter.md#material)
+
+#### Defined in
+
+[ue/ue.d.ts:1161](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1161)
+
+___
+
+### MaterialExpressionEditorX
+
+• **MaterialExpressionEditorX**: `number`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[MaterialExpressionEditorX](ue_ue.MaterialExpressionParameter.md#materialexpressioneditorx)
+
+#### Defined in
+
+[ue/ue.d.ts:1157](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1157)
+
+___
+
+### MaterialExpressionEditorY
+
+• **MaterialExpressionEditorY**: `number`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[MaterialExpressionEditorY](ue_ue.MaterialExpressionParameter.md#materialexpressioneditory)
+
+#### Defined in
+
+[ue/ue.d.ts:1158](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1158)
+
+___
+
+### MaterialExpressionGuid
+
+• **MaterialExpressionGuid**: [`Guid`](ue_ue_s.Guid.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[MaterialExpressionGuid](ue_ue.MaterialExpressionParameter.md#materialexpressionguid)
+
+#### Defined in
+
+[ue/ue.d.ts:1160](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1160)
+
+___
+
+### MenuCategories
+
+• **MenuCategories**: [`TArray`](../interfaces/ue_puerts.TArray.md)<`string`\>
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[MenuCategories](ue_ue.MaterialExpressionParameter.md#menucategories)
+
+#### Defined in
+
+[ue/ue.d.ts:1175](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1175)
+
+___
+
+### Outputs
+
+• **Outputs**: [`TArray`](../interfaces/ue_puerts.TArray.md)<[`ExpressionOutput`](ue_ue.ExpressionOutput.md)\>
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[Outputs](ue_ue.MaterialExpressionParameter.md#outputs)
+
+#### Defined in
+
+[ue/ue.d.ts:1176](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1176)
+
+___
+
+### ParameterName
+
+• **ParameterName**: `string`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[ParameterName](ue_ue.MaterialExpressionParameter.md#parametername)
+
+#### Defined in
+
+[ue/ue.d.ts:47796](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47796)
+
+___
+
+### SortPriority
+
+• **SortPriority**: `number`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[SortPriority](ue_ue.MaterialExpressionParameter.md#sortpriority)
+
+#### Defined in
+
+[ue/ue.d.ts:47799](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47799)
+
+___
+
+### \_\_tid\_MaterialExpressionParameter\_\_
+
+• **\_\_tid\_MaterialExpressionParameter\_\_**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[__tid_MaterialExpressionParameter__](ue_ue.MaterialExpressionParameter.md#__tid_materialexpressionparameter__)
+
+#### Defined in
+
+[ue/ue.d.ts:47804](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L47804)
+
+___
+
+### \_\_tid\_MaterialExpressionStaticBoolParameter\_\_
+
+• **\_\_tid\_MaterialExpressionStaticBoolParameter\_\_**: `boolean`
+
+#### Defined in
+
+[ue/ue.d.ts:49443](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L49443)
+
+___
+
+### \_\_tid\_MaterialExpression\_\_
+
+• **\_\_tid\_MaterialExpression\_\_**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[__tid_MaterialExpression__](ue_ue.MaterialExpressionParameter.md#__tid_materialexpression__)
+
+#### Defined in
+
+[ue/ue.d.ts:1181](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1181)
+
+___
+
+### \_\_tid\_Object\_\_
+
+• **\_\_tid\_Object\_\_**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[__tid_Object__](ue_ue.MaterialExpressionParameter.md#__tid_object__)
+
+#### Defined in
+
+[ue/ue.d.ts:21](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L21)
+
+___
+
+### bCollapsed
+
+• **bCollapsed**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bCollapsed](ue_ue.MaterialExpressionParameter.md#bcollapsed)
+
+#### Defined in
+
+[ue/ue.d.ts:1171](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1171)
+
+___
+
+### bCommentBubbleVisible
+
+• **bCommentBubbleVisible**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bCommentBubbleVisible](ue_ue.MaterialExpressionParameter.md#bcommentbubblevisible)
+
+#### Defined in
+
+[ue/ue.d.ts:1167](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1167)
+
+___
+
+### bHidePreviewWindow
+
+• **bHidePreviewWindow**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bHidePreviewWindow](ue_ue.MaterialExpressionParameter.md#bhidepreviewwindow)
+
+#### Defined in
+
+[ue/ue.d.ts:1170](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1170)
+
+___
+
+### bIsParameterExpression
+
+• **bIsParameterExpression**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bIsParameterExpression](ue_ue.MaterialExpressionParameter.md#bisparameterexpression)
+
+#### Defined in
+
+[ue/ue.d.ts:1166](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1166)
+
+___
+
+### bNeedToUpdatePreview
+
+• **bNeedToUpdatePreview**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bNeedToUpdatePreview](ue_ue.MaterialExpressionParameter.md#bneedtoupdatepreview)
+
+#### Defined in
+
+[ue/ue.d.ts:1165](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1165)
+
+___
+
+### bRealtimePreview
+
+• **bRealtimePreview**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bRealtimePreview](ue_ue.MaterialExpressionParameter.md#brealtimepreview)
+
+#### Defined in
+
+[ue/ue.d.ts:1164](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1164)
+
+___
+
+### bShaderInputData
+
+• **bShaderInputData**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bShaderInputData](ue_ue.MaterialExpressionParameter.md#bshaderinputdata)
+
+#### Defined in
+
+[ue/ue.d.ts:1172](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1172)
+
+___
+
+### bShowInputs
+
+• **bShowInputs**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bShowInputs](ue_ue.MaterialExpressionParameter.md#bshowinputs)
+
+#### Defined in
+
+[ue/ue.d.ts:1173](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1173)
+
+___
+
+### bShowMaskColorsOnPin
+
+• **bShowMaskColorsOnPin**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bShowMaskColorsOnPin](ue_ue.MaterialExpressionParameter.md#bshowmaskcolorsonpin)
+
+#### Defined in
+
+[ue/ue.d.ts:1169](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1169)
+
+___
+
+### bShowOutputNameOnPin
+
+• **bShowOutputNameOnPin**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bShowOutputNameOnPin](ue_ue.MaterialExpressionParameter.md#bshowoutputnameonpin)
+
+#### Defined in
+
+[ue/ue.d.ts:1168](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1168)
+
+___
+
+### bShowOutputs
+
+• **bShowOutputs**: `boolean`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[bShowOutputs](ue_ue.MaterialExpressionParameter.md#bshowoutputs)
+
+#### Defined in
+
+[ue/ue.d.ts:1174](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L1174)
+
+## Methods
+
+### CreateDefaultSubobject
+
+▸ **CreateDefaultSubobject**(`p0`, `p1`, `p2`, `p3`, `p4`): [`Object`](ue_ue.Object.md)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `p0` | `string` |
+| `p1` | [`Class`](ue_ue.Class.md) |
+| `p2` | [`Class`](ue_ue.Class.md) |
+| `p3` | `boolean` |
+| `p4` | `boolean` |
+
+#### Returns
+
+[`Object`](ue_ue.Object.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[CreateDefaultSubobject](ue_ue.MaterialExpressionParameter.md#createdefaultsubobject)
+
+#### Defined in
+
+[ue/ue.d.ts:11](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L11)
+
+___
+
+### ExecuteUbergraph
+
+▸ **ExecuteUbergraph**(`EntryPoint`): `void`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `EntryPoint` | `number` |
+
+#### Returns
+
+`void`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[ExecuteUbergraph](ue_ue.MaterialExpressionParameter.md#executeubergraph)
+
+#### Defined in
+
+[ue/ue.d.ts:12](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L12)
+
+___
+
+### GetClass
+
+▸ **GetClass**(): [`Class`](ue_ue.Class.md)
+
+#### Returns
+
+[`Class`](ue_ue.Class.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[GetClass](ue_ue.MaterialExpressionParameter.md#getclass)
+
+#### Defined in
+
+[ue/ue.d.ts:13](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L13)
+
+___
+
+### GetName
+
+▸ **GetName**(): `string`
+
+#### Returns
+
+`string`
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[GetName](ue_ue.MaterialExpressionParameter.md#getname)
+
+#### Defined in
+
+[ue/ue.d.ts:14](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L14)
+
+___
+
+### GetOuter
+
+▸ **GetOuter**(): [`Object`](ue_ue.Object.md)
+
+#### Returns
+
+[`Object`](ue_ue.Object.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[GetOuter](ue_ue.MaterialExpressionParameter.md#getouter)
+
+#### Defined in
+
+[ue/ue.d.ts:15](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L15)
+
+___
+
+### GetWorld
+
+▸ **GetWorld**(): [`World`](ue_ue.World.md)
+
+#### Returns
+
+[`World`](ue_ue.World.md)
+
+#### Inherited from
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[GetWorld](ue_ue.MaterialExpressionParameter.md#getworld)
+
+#### Defined in
+
+[ue/ue.d.ts:16](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L16)
+
+___
+
+### Find
+
+▸ `Static` **Find**(`OrigInName`, `Outer?`): [`MaterialExpressionStaticBoolParameter`](ue_ue.MaterialExpressionStaticBoolParameter.md)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `OrigInName` | `string` |
+| `Outer?` | [`Object`](ue_ue.Object.md) |
+
+#### Returns
+
+[`MaterialExpressionStaticBoolParameter`](ue_ue.MaterialExpressionStaticBoolParameter.md)
+
+#### Overrides
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[Find](ue_ue.MaterialExpressionParameter.md#find)
+
+#### Defined in
+
+[ue/ue.d.ts:49440](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L49440)
+
+___
+
+### Load
+
+▸ `Static` **Load**(`InName`): [`MaterialExpressionStaticBoolParameter`](ue_ue.MaterialExpressionStaticBoolParameter.md)
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `InName` | `string` |
+
+#### Returns
+
+[`MaterialExpressionStaticBoolParameter`](ue_ue.MaterialExpressionStaticBoolParameter.md)
+
+#### Overrides
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[Load](ue_ue.MaterialExpressionParameter.md#load)
+
+#### Defined in
+
+[ue/ue.d.ts:49441](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L49441)
+
+___
+
+### StaticClass
+
+▸ `Static` **StaticClass**(): [`Class`](ue_ue.Class.md)
+
+#### Returns
+
+[`Class`](ue_ue.Class.md)
+
+#### Overrides
+
+[MaterialExpressionParameter](ue_ue.MaterialExpressionParameter.md).[StaticClass](ue_ue.MaterialExpressionParameter.md#staticclass)
+
+#### Defined in
+
+[ue/ue.d.ts:49439](https://github.com/YugMetaverse/yug_typings/blob/b7d9b19/ue/ue.d.ts#L49439)
